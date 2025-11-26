@@ -1,0 +1,9 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,uniprot_id
+Rv2094c,tatA,sec-independent protein translocase membrane-bound protein TatA,Uncertain,H37Rv,-9.301,-10.393,-8.311,True,P9WGA1
+Rv3221A,rshA,anti-sigma factor RshA,Uncertain,H37Rv,-9.327,-11.012,-7.469,True,P9WJ69
+Rv2412,rpsT,30S ribosomal protein S20 RpsT,Uncertain,H37Rv,-7.999,-10.606,-5.23,True,P9WH41
+Rv3459c,rpsK,30S ribosomal protein S11 RpsK,Uncertain,H37Rv,-11.728,-14.195,-9.328,True,P9WH65
+Rv3924c,rpmH,50S ribosomal protein L34 RpmH,Uncertain,H37Rv,-11.992,-13.633,-10.352,True,P9WH93
+Rv0979A,rpmF,50S ribosomal protein L32 RpmF,Uncertain,H37Rv,-6.578,-7.897,-5.288,True,P9WH99
+Rv0723,rplO,50S ribosomal protein L15 RplO,Uncertain,H37Rv,-15.142,-17.77,-12.528,True,P9WHD7
+Rv1311,atpC,ATP synthase epsilon chain AtpC,Uncertain,H37Rv,-11.881,-13.551,-10.141,True,P9WPV1

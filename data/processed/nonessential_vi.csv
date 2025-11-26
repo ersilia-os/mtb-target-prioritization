@@ -1,0 +1,5 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,uniprot_id
+Rv3020c,esxS,ESAT-6 like protein EsxS,NonEssential,H37Rv,-0.692,-0.908,-0.469,True,Q6MX18
+Rv3648c,cspA,cold shock protein A CspA,NonEssential,H37Rv,-3.923,-4.329,-3.479,True,P9WP75
+Rv1589,bioB,biotin synthetase BioB,NonEssential,H37Rv,-0.169,-0.283,-0.051,True,P9WPQ7
+Rv3675,-,membrane protein,NonEssential,H37Rv,-1.19,-1.379,-0.996,True,I6YCQ7

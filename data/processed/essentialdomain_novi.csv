@@ -1,0 +1,4 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,uniprot_id
+Rv0405,pks6,polyketide synthase Pks6,Essential Domain,H37Rv,-0.295,-0.356,-0.231,False,O86335
+Rv1702c,-,hypothetical protein,Essential Domain,H37Rv,-0.258,-0.34,-0.172,False,P9WLT3
+Rv3843c,-,transmembrane protein,Essential Domain,H37Rv,-0.248,-0.36,-0.127,False,P96235

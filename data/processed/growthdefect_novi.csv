@@ -1,0 +1,15 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,uniprot_id
+Rv3739c,PPE67,PPE family protein PPE67,Growth Defect,H37Rv,-0.282,-0.481,-0.088,False,Q79FA2
+Rv3606c,folK,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase FolK,Growth Defect,H37Rv,-0.611,-0.838,-0.366,False,P9WNC7
+Rv0288,esxH,antigen 7 EsxH,Growth Defect,H37Rv,-6.032,-6.943,-5.147,False,P9WNK3
+Rv1286,cysN,bifunctional enzyme CysN/CysC,Growth Defect,H37Rv,0.118,0.055,0.179,False,P9WNM5
+Rv1576c,-,prophage PhiRv1 protein,Growth Defect,H37Rv,-0.288,-0.384,-0.182,False,O06614
+Rv1577c,-,prophage PhiRv1 protein,Growth Defect,H37Rv,0.012,-0.091,0.113,False,O06613
+Rv2050,-,hypothetical protein,Growth Defect,H37Rv,-2.007,-2.917,-1.147,False,P9WHJ5
+Rv2418c,-,hypothetical protein,Growth Defect,H37Rv,-0.36,-0.507,-0.205,False,P71725
+Rv2491,-,hypothetical protein,Growth Defect,H37Rv,0.074,-0.048,0.209,False,I6XEF6
+Rv2650c,-,prophage PhiRv2 protein,Growth Defect,H37Rv,0.004,-0.095,0.104,False,P71947
+Rv2651c,-,prophage PhiRv2 protease,Growth Defect,H37Rv,-0.316,-0.464,-0.157,False,I6XEX3
+Rv2698,-,alanine rich transmembrane protein,Growth Defect,H37Rv,-0.266,-0.398,-0.121,False,I6X552
+Rv2908c,-,hypothetical protein,Growth Defect,H37Rv,-4.118,-5.763,-2.005,False,P9WFM7
+Rv3489,-,hypothetical protein,Growth Defect,H37Rv,-4.142,-7.249,-0.61,False,I6YC91

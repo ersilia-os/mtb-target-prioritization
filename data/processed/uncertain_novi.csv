@@ -1,0 +1,104 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,Unnamed: 9,uniprot_id
+Rv0627,vapC5,toxin VapC5,Uncertain,H37Rv,0.175,-0.593,1.195,False,,P96917
+Rv0662c,vapB7,antitoxin VapB7,Uncertain,H37Rv,0.572,-0.302,2.058,False,,O06777
+Rv3321c,vapB44,antitoxin VapB44,Uncertain,H37Rv,0.817,-0.101,2.325,False,,P9WJ17
+Rv2601A,vapB41,antitoxin VapB41,Uncertain,H37Rv,0.447,-0.602,2.178,False,,P9WJ21
+Rv2595,vapB40,antitoxin VapB40,Uncertain,H37Rv,0.517,-1.207,2.939,False,,P9WFC3
+Rv2493,vapB38,antitoxin VapB38,Uncertain,H37Rv,0.722,-1.113,3.671,False,,P9WJ25
+Rv1241,vapB33,antitoxin VapB33,Uncertain,H37Rv,0.439,-0.636,1.862,False,,O50456
+Rv0608,vapB28,antitoxin VapB28,Uncertain,H37Rv,0.396,-0.677,1.991,False,,P9WJ39
+Rv2862A,vapB23,antitoxin VapB23,Uncertain,H37Rv,1.201,-0.371,3.673,False,,P0CW32
+Rv2830c,vapB22,antitoxin VapB22,Uncertain,H37Rv,1.036,-2.069,5.358,False,,P71622
+Rv2526,vapB17,antitoxin VapB17,Uncertain,H37Rv,0.044,-0.764,1.079,False,,P9WJ49
+Rv3221c,TB7.3,biotinylated protein,Uncertain,H37Rv,-8.243,-11.345,-5.069,False,,P9WPQ1
+Rv1222,rseA,anti-sigma factor RseA,Uncertain,H37Rv,-3.128,-9.302,3.933,False,,L0T905
+Rv0717,rpsN1,30S ribosomal protein S14 RpsN1,Uncertain,H37Rv,-11.667,-17.632,-5.735,False,,P9WH57
+Rv3461c,rpmJ,50S ribosomal protein L36 RpmJ,Uncertain,H37Rv,-11.668,-20.527,-2.476,False,,P9WH89
+Rv1642,rpmI,50S ribosomal protein L35 RpmI,Uncertain,H37Rv,-12.442,-15.798,-9.296,False,,P9WH91
+Rv0722,rpmD,50S ribosomal protein L30 RpmD,Uncertain,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,P9WHA3
+Rv0652,rplL,50S ribosomal protein L7/L12 RplL,Uncertain,H37Rv,-11.775,-14.138,-9.325,False,,P9WHE3
+Rv2111c,pup,prokaryotic ubiquitin-like protein Pup,Uncertain,H37Rv,-4.791,-7.024,-2.274,False,,P9WHN5
+Rv0156,pntAb,NAD(P) transhydrogenase subunit alpha PntAb,Uncertain,H37Rv,-0.207,-0.956,0.999,False,,P96833
+Rv2371,PE_PGRS40,PE-PGRS family protein PE_PGRS40,Uncertain,H37Rv,-5.165,-16.102,7.272,False,,Q79FE9
+Rv0335c,PE6,PE family protein PE6,Uncertain,H37Rv,1.091,-0.634,3.971,False,,L7N648
+Rv3012c,gatC,glutamyl-tRNA amidotransferase GatC,Uncertain,H37Rv,-7.09,-11.887,-1.402,False,,P9WN59
+Rv3904c,esxE,ESAT-6 like protein EsxE,Uncertain,H37Rv,0.496,-1.357,2.851,False,,P9WNH9
+Rv0967,csoR,copper-sensing transcriptional repressor CsoR,Uncertain,H37Rv,0.24,-0.72,1.502,False,,P9WP49
+Rv3676,crp,transcriptional regulator Crp,Uncertain,H37Rv,-4.371,-7.074,-0.857,False,,P9WMH3
+Rv2376c,cfp2,antigen CFP2,Uncertain,H37Rv,0.592,-0.596,2.228,False,,P9WIN7
+Rv0031,-,transposase,Uncertain,H37Rv,0.329,-8.374,9.079,False,,P71601
+Rv0186Ac,-,metallothionein MymT,Uncertain,H37Rv,0.131,-0.786,1.354,False,,
+Rv0229Ac,-,antitoxin,Uncertain,H37Rv,-1.386,-10.579,8.969,False,,
+Rv0277Ac,-,antitoxin,Uncertain,H37Rv,-2.837,-13.563,9.247,False,,
+Rv0378,-,glycine rich protein,Uncertain,H37Rv,-0.342,-9.913,8.503,False,,O53713
+Rv0530Ac,-,hypothetical protein,Uncertain,H37Rv,1.072,-0.209,2.985,False,,
+Rv0607,-,hypothetical protein,Uncertain,H37Rv,0.649,-2.153,4.539,False,,O07771
+Rv0609A,-,hypothetical protein,Uncertain,H37Rv,1.095,-0.293,3.435,False,,Q79FY5
+Rv0666,-,membrane protein,Uncertain,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,O06773
+Rv0738,-,hypothetical protein,Uncertain,H37Rv,0.813,-0.21,2.358,False,,P9WKS3
+Rv0744Ac,-,mycolyltransferase II,Uncertain,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,
+Rv0763c,-,ferredoxin,Uncertain,H37Rv,0.036,-3.999,4.613,False,,P71820
+Rv0880,-,transcriptional regulator MarR-family,Uncertain,H37Rv,0.055,-1.052,1.458,False,,P9WMF1
+Rv0898c,-,hypothetical protein,Uncertain,H37Rv,0.32,-0.536,1.377,False,,P9WKP5
+Rv1119c,-,hypothetical protein,Uncertain,H37Rv,1.025,-0.829,3.805,False,,O06571
+Rv1144Ac,-,hypothetical protein,Uncertain,H37Rv,0.927,-0.373,2.995,False,,
+Rv1434,-,hypothetical protein,Uncertain,H37Rv,-1.252,-12.153,9.337,False,,O06824
+Rv1466,-,hypothetical protein,Uncertain,H37Rv,0.08,-8.433,9.396,False,,O53157
+Rv1571,-,hypothetical protein,Uncertain,H37Rv,0.039,-1.053,1.353,False,,O06619
+Rv1572c,-,hypothetical protein,Uncertain,H37Rv,0.679,-0.371,2.448,False,,O06618
+Rv1573,-,prophage PhiRv1 protein,Uncertain,H37Rv,0.728,-0.435,2.576,False,,O06617
+Rv1693,-,hypothetical protein,Uncertain,H37Rv,-0.368,-4.083,4.188,False,,O33195
+Rv1735Ac,-,hypothetical protein,Uncertain,H37Rv,0.743,-0.803,2.781,False,,
+Rv1786,-,oxidoreductase,Uncertain,H37Rv,0.521,-0.538,1.874,False,,O53937
+Rv1792,-,ESAT-6-like protein EsxK,Uncertain,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,
+Rv1792A,-,ESAT-6-like protein EsxM,Uncertain,H37Rv,-1.605,-10.969,7.298,False,,
+Rv1888A,-,hypothetical protein,Uncertain,H37Rv,0.455,-0.523,1.962,False,,Q79FJ0
+Rv1893,-,hypothetical protein,Uncertain,H37Rv,-5.692,-22.531,10.478,False,,O07739
+Rv1984A,-,hypothetical protein,Uncertain,H37Rv,0.778,-0.427,2.597,False,,
+Rv2023A,-,hypothetical protein,Uncertain,H37Rv,1.851,-0.482,5.575,False,,
+Rv2077Bc,-,hypothetical protein,Uncertain,H37Rv,0.781,-0.298,2.487,False,,
+Rv2085,-,transposase,Uncertain,H37Rv,1.355,-0.633,4.538,False,,P9WLJ9
+Rv2098c,-,PE-PGRS family protein,Uncertain,H37Rv,0.346,-1.297,2.394,False,,
+Rv2099c,-,PE family protein,Uncertain,H37Rv,0.493,-0.66,2.034,False,,
+Rv2146c,-,YggT family protein,Uncertain,H37Rv,-0.302,-1.668,1.624,False,,O06230
+Rv2190Ac,-,hypothetical protein,Uncertain,H37Rv,-0.271,-0.658,0.129,False,,
+Rv2231Ac,-,toxin VapC16,Uncertain,H37Rv,-0.093,-1.587,1.72,False,,
+Rv2255A,-,hypothetical protein,Uncertain,H37Rv,-0.21,-2.738,2.528,False,,
+Rv2304c,-,hypothetical protein,Uncertain,H37Rv,0.97,-0.287,2.88,False,,P9WLD3
+Rv2309Xc,-,hypothetical protein,Uncertain,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,
+Rv2386A,-,hypothetical protein,Uncertain,H37Rv,0.159,-1.083,1.711,False,,I6YD99
+Rv2401A,-,membrane protein,Uncertain,H37Rv,-4.116,-10.523,2.831,False,,Q79FE4
+Rv2427Ac,-,OxyR protein,Uncertain,H37Rv,0.147,-4.832,6.978,False,,
+Rv2512A,-,hypothetical protein,Uncertain,H37Rv,0.008,-8.845,9.509,False,,
+Rv2520c,-,membrane protein,Uncertain,H37Rv,-8.078,-16.053,0.376,False,,I6XEI0
+Rv2541,-,alanine rich protein,Uncertain,H37Rv,-7.908,-18.601,4.365,False,,P95012
+Rv2632c,-,hypothetical protein,Uncertain,H37Rv,0.555,-0.363,1.693,False,,P9WL61
+Rv2643A,-,hypothetical protein,Uncertain,H37Rv,0.725,-0.696,2.716,False,,
+Rv2654c,-,prophage PhiRv2 protein,Uncertain,H37Rv,0.458,-0.801,2.191,False,,P9WJ11
+Rv2664,-,hypothetical protein,Uncertain,H37Rv,-11.875,-24.748,1.409,False,,I6Y9Z5
+Rv2737A,-,cysteine rich protein,Uncertain,H37Rv,0.114,-0.711,1.311,False,,Q79FB4
+Rv2828A,-,hypothetical protein,Uncertain,H37Rv,-0.482,-11.876,13.237,False,,I6YAC9
+Rv2856A,-,hydrogenase nickel incorporation protein HypB,Uncertain,H37Rv,0.409,-0.8,1.68,False,,
+Rv2856B,-,hydrogenase nickel incorporation protein HypB,Uncertain,H37Rv,0.707,-0.477,2.701,False,,
+Rv2873A,-,prevent-host-death family protein,Uncertain,H37Rv,0.048,-1.297,2.01,False,,
+Rv2964B,-,hypothetical protein,Uncertain,H37Rv,0.492,-0.678,1.961,False,,
+Rv2975A,-,50S ribosomal protein L28 1,Uncertain,H37Rv,-11.059,-18.837,-2.242,False,,P0DV54
+Rv2998A,-,OmpR family two-component system sensor histidine kinase,Uncertain,H37Rv,0.866,-0.644,3.319,False,,Q6MX20
+Rv3018Bc,-,PE family protein PE27A,Uncertain,H37Rv,-0.514,-2.707,2.595,False,,
+Rv3021c,-,PPE family protein,Uncertain,H37Rv,1.48,-1.278,5.526,False,,P9WHY7
+Rv3098B,-,toxin,Uncertain,H37Rv,0.803,-0.252,2.402,False,,V5QPS4
+Rv3182,-,hypothetical protein,Uncertain,H37Rv,0.827,-0.542,3.102,False,,O53332
+Rv3202A,-,hypothetical protein,Uncertain,H37Rv,0.228,-0.647,1.436,False,,P0DMM3
+Rv3216,-,hypothetical protein,Uncertain,H37Rv,-0.125,-4.062,4.651,False,,
+Rv3372A,-,hypothetical protein,Uncertain,H37Rv,0.569,-0.565,2.375,False,,
+Rv3566A,-,hypothetical protein,Uncertain,H37Rv,-3.577,-12.169,5.554,False,,I6YGI1
+Rv3599c,-,hypothetical protein,Uncertain,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,O06283
+Rv3613c,-,hypothetical protein,Uncertain,H37Rv,0.065,-0.955,1.312,False,,O06270
+Rv3654c,-,helicase/secretion neighborhood TadE-like protein,Uncertain,H37Rv,-0.116,-0.81,0.79,False,,O69622
+Rv3666B,-,hypothetical protein,Uncertain,H37Rv,-0.34,-9.494,9.426,False,,
+Rv3745c,-,hypothetical protein,Uncertain,H37Rv,0.235,-0.644,1.53,False,,O69712
+Rv3749Ac,-,toxin,Uncertain,H37Rv,0.389,-0.555,1.702,False,,
+Rv3751,-,integrase,Uncertain,H37Rv,1.349,-5.375,8.544,False,,O69718
+Rv3769,-,hypothetical protein,Uncertain,H37Rv,0.364,-0.727,1.983,False,,P72036
+Rv3857Ac,-,hypothetical protein,Uncertain,H37Rv,0.66,-0.399,2.216,False,,
+Rv3861,-,hypothetical protein,Uncertain,H37Rv,1.154,-0.531,3.849,False,,P96216

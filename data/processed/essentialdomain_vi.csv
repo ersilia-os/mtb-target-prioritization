@@ -1,0 +1,27 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,uniprot_id
+Rv3198c,uvrD2,ATP-dependent DNA helicase II UvrD2,Essential Domain,H37Rv,-1.786,-1.972,-1.611,True,P9WMP9
+Rv2586c,secF,protein-export membrane protein SecF,Essential Domain,H37Rv,-3.034,-3.452,-2.621,True,P9WGN9
+Rv3240c,secA1,preprotein translocase subunit SecA1,Essential Domain,H37Rv,-10.803,-11.883,-9.777,True,P9WGP5
+Rv2444c,rne,ribonuclease E Rne,Essential Domain,H37Rv,-5.834,-6.325,-5.408,True,P71905
+Rv1477,ripA,peptidoglycan hydrolase,Essential Domain,H37Rv,-5.701,-6.022,-5.362,True,O53168
+Rv2362c,recO,DNA repair protein RecO,Essential Domain,H37Rv,-5.533,-6.179,-4.833,True,P9WHI5
+Rv0018c,pstP,phosphoserine/threonine phosphatase PstP,Essential Domain,H37Rv,-7.122,-8.356,-5.778,True,P9WHW5
+Rv2051c,ppm1,polyprenol-monophosphomannose synthase Ppm1,Essential Domain,H37Rv,-0.502,-0.596,-0.402,True,O53493
+Rv1629,polA,DNA polymerase I PolA,Essential Domain,H37Rv,-0.551,-0.637,-0.463,True,P9WNU5
+Rv2163c,pbpB,penicillin-binding membrane protein PbpB,Essential Domain,H37Rv,-5.089,-5.69,-4.48,True,L0T911
+Rv0206c,mmpL3,transmembrane transporter MmpL3,Essential Domain,H37Rv,-11.013,-11.402,-10.601,True,P9WJV5
+Rv1614,lgt,prolipoprotein diacylglyceryl transferase Lgt,Essential Domain,H37Rv,-2.502,-2.674,-2.336,True,P9WK93
+Rv1348,irtA,iron-regulated transporter IrtA,Essential Domain,H37Rv,-4.742,-5.078,-4.418,True,P9WQJ9
+Rv2154c,ftsW,cell division protein FtsW,Essential Domain,H37Rv,-7.854,-8.367,-7.322,True,P9WN97
+Rv3608c,folP1,dihydropteroate synthase 1 FolP,Essential Domain,H37Rv,-6.382,-7.1,-5.671,True,P9WND1
+Rv0020c,fhaA,FHA domain-containing protein FhaA,Essential Domain,H37Rv,-4.174,-5.024,-3.284,True,P71590
+Rv3709c,ask,aspartokinase Ask,Essential Domain,H37Rv,-9.551,-10.332,-8.664,True,P9WPX3
+Rv1111c,-,hypothetical protein,Essential Domain,H37Rv,-8.244,-9.585,-6.998,True,O86351
+Rv1459c,-,integral membrane protein,Essential Domain,H37Rv,-3.274,-3.591,-2.957,True,O53150
+Rv2516c,-,hypothetical protein,Essential Domain,H37Rv,-9.912,-11.01,-8.793,True,I6YDM0
+Rv2581c,-,hydroxyacylglutathione hydrolase,Essential Domain,H37Rv,-14.341,-15.318,-13.282,True,P9WMW3
+Rv2609c,-,membrane protein,Essential Domain,H37Rv,-2.317,-2.536,-2.102,True,I6YDV4
+Rv3603c,-,alanine and leucine rich protein,Essential Domain,H37Rv,-4.267,-4.726,-3.838,True,O06279
+Rv3863,-,alanine rich protein,Essential Domain,H37Rv,-8.154,-9.395,-6.735,True,P96214
+Rv3910,-,integral membrane protein MviN,Essential Domain,H37Rv,-5.42,-5.699,-5.151,True,P9WJK3
+Rv3921c,-,membrane protein oxaA,Essential Domain,H37Rv,-8.476,-9.479,-7.531,True,P9WIT5

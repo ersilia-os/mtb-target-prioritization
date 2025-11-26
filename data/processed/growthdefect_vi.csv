@@ -1,0 +1,122 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,uniprot_id
+Rv3219,whiB1,transcriptional regulator WhiB-like WhiB1,Growth Defect,H37Rv,-10.916,-11.721,-10.132,True,P9WF43
+Rv3455c,truA,tRNA pseudouridine synthase A TruA,Growth Defect,H37Rv,-1.411,-1.638,-1.163,True,P9WHP9
+Rv2906c,trmD,tRNA (guanine-N1)-methyltransferase TrmD,Growth Defect,H37Rv,-1.232,-1.469,-1.03,True,P9WFY7
+Rv2764c,thyA,thymidylate synthase ThyA,Growth Defect,H37Rv,-2.617,-2.95,-2.282,True,P9WFR9
+Rv0422c,thiD,phosphomethylpyrimidine kinase ThiD,Growth Defect,H37Rv,-1.18,-1.389,-0.997,True,P9WG77
+Rv2093c,tatC,sec-independent protein translocase transmembrane protein TatC,Growth Defect,H37Rv,-9.733,-10.188,-9.277,True,P9WG97
+Rv1224,tatB,protein TatB,Growth Defect,H37Rv,-9.107,-10.017,-8.192,True,P9WG99
+Rv2400c,subI,sulfate-binding lipoprotein SubI,Growth Defect,H37Rv,-1.496,-1.791,-1.185,True,P71744
+Rv2594c,ruvC,crossover junction endodeoxyribonuclease RuvC,Growth Defect,H37Rv,-3.115,-4.206,-1.899,True,P9WGV9
+Rv2592c,ruvB,holliday junction DNA helicase RuvB,Growth Defect,H37Rv,-3.155,-3.852,-2.496,True,P9WGW1
+Rv2593c,ruvA,holliday junction DNA helicase RuvA,Growth Defect,H37Rv,-2.543,-3.25,-1.888,True,P9WGW3
+Rv2909c,rpsP,30S ribosomal protein S16 RpsP,Growth Defect,H37Rv,-13.608,-15.863,-11.322,True,P9WH53
+Rv0700,rpsJ,30S ribosomal protein S10 RpsJ,Growth Defect,H37Rv,-12.87,-14.241,-11.235,True,P9WH67
+Rv0634B,rpmG2,50S ribosomal protein L33 RpmG2,Growth Defect,H37Rv,-6.846,-7.517,-6.191,True,P9WH95
+Rv0709,rpmC,50S ribosomal protein L29 RpmC,Growth Defect,H37Rv,-12.626,-15.161,-10.164,True,P9WHA7
+Rv2441c,rpmA,50S ribosomal protein L27 RpmA,Growth Defect,H37Rv,-9.866,-11.54,-7.894,True,P9WHB3
+Rv1015c,rplY,50S ribosomal protein L25 RplY,Growth Defect,H37Rv,-4.573,-5.27,-3.878,True,P9WHB5
+Rv2442c,rplU,50S ribosomal protein L21 RplU,Growth Defect,H37Rv,-11.179,-11.774,-10.46,True,P9WHC3
+Rv3456c,rplQ,50S ribosomal protein L17 RplQ,Growth Defect,H37Rv,-13.11,-14.921,-11.045,True,P9WHD3
+Rv1408,rpe,ribulose-phosphate 3-epimerase Rpe,Growth Defect,H37Rv,-8.485,-9.182,-7.803,True,P9WI51
+Rv2907c,rimM,ribosome maturation factor RimM,Growth Defect,H37Rv,-2.811,-3.065,-2.554,True,P9WH19
+Rv3211,rhlE,ATP-dependent RNA helicase RhlE,Growth Defect,H37Rv,-0.682,-0.821,-0.563,True,O05855
+Rv2194,qcrC,ubiquinol-cytochrome C reductase QcrC,Growth Defect,H37Rv,-8.69,-9.649,-7.703,True,P9WP35
+Rv2196,qcrB,ubiquinol-cytochrome C reductase QcrB,Growth Defect,H37Rv,-7.745,-8.297,-7.172,True,P9WP37
+Rv2195,qcrA,Rieske iron-sulfur protein QcrA,Growth Defect,H37Rv,-8.875,-9.636,-8.09,True,P9WH23
+Rv1617,pykA,pyruvate kinase PykA,Growth Defect,H37Rv,-8.213,-9.0,-7.462,True,P9WKE5
+Rv3276c,purK,phosphoribosylaminoimidazole carboxylase ATPase subunit PurK,Growth Defect,H37Rv,-9.169,-10.067,-8.294,True,P9WHL9
+Rv3275c,purE,phosphoribosylaminoimidazole carboxylase catalytic subunit PurE,Growth Defect,H37Rv,-9.629,-10.96,-8.281,True,P9WHM1
+Rv2984,ppk1,polyphosphate kinase PPK,Growth Defect,H37Rv,-3.322,-3.566,-3.073,True,P9WHV9
+Rv2582,ppiB,peptidyl-prolyl cis-trans isomerase B PpiB,Growth Defect,H37Rv,-0.021,-0.143,0.102,True,P9WHW1
+Rv1437,pgk,phosphoglycerate kinase Pgk,Growth Defect,H37Rv,-4.668,-5.675,-3.708,True,P9WID1
+Rv0946c,pgi,glucose-6-phosphate isomerase Pgi,Growth Defect,H37Rv,-0.404,-0.51,-0.303,True,P9WN69
+Rv3490,otsA,trehalose-6P synthase,Growth Defect,H37Rv,-4.413,-4.811,-4.025,True,P9WN11
+Rv1854c,ndh,NADH dehydrogenase Ndh,Growth Defect,H37Rv,-1.691,-1.875,-1.482,True,P95160
+Rv1796,mycP5,proline rich membrane-anchored mycosin MycP5,Growth Defect,H37Rv,-4.29,-4.873,-3.749,True,O53945
+Rv3245c,mtrB,two-component system sensor histidine kinase MtrB,Growth Defect,H37Rv,-2.863,-3.136,-2.582,True,P9WGK9
+Rv2130c,mshC,l-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC,Growth Defect,H37Rv,-1.849,-2.053,-1.617,True,P9WJM9
+Rv2727c,miaA,tRNA delta(2)-isopentenylpyrophosphate transferase MiaA,Growth Defect,H37Rv,-3.596,-3.819,-3.392,True,P9WJW1
+Rv2386c,mbtI,isochorismate synthase MbtI,Growth Defect,H37Rv,-0.423,-0.568,-0.296,True,P9WFX1
+Rv3597c,lsr2,iron-regulated H-NS-like protein Lsr2,Growth Defect,H37Rv,-4.023,-5.051,-3.076,True,P9WIP7
+Rv1539,lspA,lipoprotein signal peptidase LspA,Growth Defect,H37Rv,-2.064,-2.36,-1.773,True,P9WK99
+Rv1343c,lprD,lipoprotein LprD,Growth Defect,H37Rv,-5.945,-6.951,-4.927,True,P9WK51
+Rv2138,lppL,lipoprotein LppL,Growth Defect,H37Rv,-2.513,-2.92,-2.056,True,O06237
+Rv0462,lpdC,dihydrolipoamide dehydrogenase LpdC,Growth Defect,H37Rv,-2.052,-2.256,-1.84,True,P9WHH9
+Rv2720,lexA,repressor LexA,Growth Defect,H37Rv,-1.608,-2.105,-1.192,True,P9WHR7
+Rv2987c,leuD,3-isopropylmalate dehydratase LeuD,Growth Defect,H37Rv,-3.274,-3.78,-2.745,True,P9WK95
+Rv2988c,leuC,3-isopropylmalate dehydratase LeuC,Growth Defect,H37Rv,-2.894,-3.32,-2.527,True,P9WQF5
+Rv3025c,iscS,cysteine desulfurase LscS,Growth Defect,H37Rv,-1.315,-1.6,-1.047,True,P9WQ71
+Rv1349,irtB,iron-regulated transporter IrtB,Growth Defect,H37Rv,-0.885,-1.023,-0.737,True,P9WQJ7
+Rv3462c,infA,translation initiation factor IF-1 InfA,Growth Defect,H37Rv,-13.39,-15.85,-10.85,True,P9WKK3
+Rv0467,icl1,isocitrate lyase Icl,Growth Defect,H37Rv,-0.867,-1.065,-0.67,True,P9WKK7
+Rv2986c,hupB,DNA-binding protein HupB,Growth Defect,H37Rv,-2.843,-3.177,-2.546,True,P9WMK7
+Rv1300,hemK,HemK protein,Growth Defect,H37Rv,-5.119,-6.045,-4.165,True,P9WHV3
+Rv0511,hemD,uroporphyrin-III C-methyltransferase HemD,Growth Defect,H37Rv,-8.928,-9.896,-7.926,True,Q6MX34
+Rv3410c,guaB3,inosine-5'-monophosphate dehydrogenase GuaB3,Growth Defect,H37Rv,-4.538,-4.924,-4.108,True,P9WKI5
+Rv0896,gltA2,citrate synthase I GltA2,Growth Defect,H37Rv,-2.763,-3.039,-2.476,True,P9WPD5
+Rv2221c,glnE,glutamate-ammonia-ligase adenylyltransferase GlnE,Growth Defect,H37Rv,-0.354,-0.444,-0.261,True,P9WN27
+Rv1827,garA,FHA domain-containing protein GarA,Growth Defect,H37Rv,-10.949,-12.294,-9.494,True,P9WJA9
+Rv1436,gap,glyceraldehyde 3-phosphate dehydrogenase Gap,Growth Defect,H37Rv,-8.621,-9.986,-7.228,True,P9WN83
+Rv3607c,folB,dihydroneopterin aldolase FolB,Growth Defect,H37Rv,-1.161,-1.49,-0.826,True,P9WNC5
+Rv1406,fmt,methionyl-tRNA formyltransferase Fmt,Growth Defect,H37Rv,-4.341,-5.168,-3.538,True,P9WND3
+Rv3029c,fixA,electron transfer flavoprotein beta subunit FixA,Growth Defect,H37Rv,-6.423,-7.412,-5.487,True,P9WNG7
+Rv0287,esxG,ESAT-6 like protein EsxG,Growth Defect,H37Rv,-6.328,-7.862,-4.784,True,O53692
+Rv2364c,era,GTP-binding protein Era,Growth Defect,H37Rv,-3.982,-4.226,-3.732,True,P9WNK9
+Rv3215,entC,isochorismate synthase EntC,Growth Defect,H37Rv,-3.798,-4.041,-3.551,True,P9WFW9
+Rv1023,eno,enolase Eno,Growth Defect,H37Rv,-10.902,-12.135,-9.668,True,P9WNL1
+Rv1797,eccE5,ESX-5 secretion system protein EccE5,Growth Defect,H37Rv,-6.649,-7.288,-5.991,True,P9WJE3
+Rv1795,eccD5,ESX-5 secretion system protein EccD5,Growth Defect,H37Rv,-8.434,-9.116,-7.672,True,P9WNP9
+Rv1783,eccC5,ESX-5 secretion system protein EccC5,Growth Defect,H37Rv,-5.296,-5.512,-5.085,True,P9WNA5
+Rv1782,eccB5,ESX-5 secretion system protein EccB5,Growth Defect,H37Rv,-8.726,-9.376,-8.001,True,P9WNQ9
+Rv2373c,dnaJ2,chaperone DnaJ2,Growth Defect,H37Rv,-4.649,-5.192,-4.01,True,P9WNV7
+Rv2763c,dfrA,dihydrofolate reductase DfrA,Growth Defect,H37Rv,-7.65,-8.086,-7.188,True,P9WNX1
+Rv2398c,cysW,sulfate-transport ABC transporter integral membrane protein CysW,Growth Defect,H37Rv,-0.518,-0.635,-0.397,True,P71746
+Rv2399c,cysT,sulfate-transport ABC transporter integral membrane protein CysT,Growth Defect,H37Rv,-0.07,-0.173,0.035,True,P71745
+Rv2392,cysH,3'-phosphoadenosine 5'-phosphosulfate reductase CysH,Growth Defect,H37Rv,-0.344,-0.479,-0.211,True,P9WIK3
+Rv2847c,cysG,uroporphyrin-III C-methyltransferase,Growth Defect,H37Rv,-0.983,-1.107,-0.861,True,I6X5I7
+Rv2397c,cysA1,sulfate-transport ABC transporter ATP-binding protein CysA1,Growth Defect,H37Rv,-0.382,-0.528,-0.241,True,P9WQM1
+Rv2193,ctaE,cytochrome C oxidase subunit III CtaE,Growth Defect,H37Rv,-8.948,-9.777,-8.096,True,P9WP67
+Rv2200c,ctaC,transmembrane cytochrome C oxidase subunit II CtaC,Growth Defect,H37Rv,-8.533,-9.047,-8.0,True,P9WP69
+Rv1451,ctaB,cytochrome C oxidase assembly factor CtaB,Growth Defect,H37Rv,-7.117,-7.84,-6.442,True,P9WFR7
+Rv1631,coaE,dephospho-CoA kinase CoaE,Growth Defect,H37Rv,-2.746,-3.024,-2.484,True,P9WPA3
+Rv1712,cmk,cytidylate kinase Cmk,Growth Defect,H37Rv,-4.119,-4.871,-3.304,True,P9WPA9
+Rv0384c,clpB,endopeptidase ATP binding protein chain B ClpB,Growth Defect,H37Rv,-3.553,-3.919,-3.169,True,P9WPD1
+Rv3708c,asd,aspartate-semialdehyde dehydrogenase Asd,Growth Defect,H37Rv,-6.973,-7.362,-6.616,True,P9WNX5
+Rv2202c,adoK,adenosine kinase AdoK,Growth Defect,H37Rv,-2.305,-2.653,-1.936,True,P9WID5
+Rv2247,accD6,propionyl-CoA carboxylase beta chain 6 AccD6,Growth Defect,H37Rv,-11.453,-11.851,-11.046,True,P9WQH5
+Rv0023,-,transcriptional regulator,Growth Defect,H37Rv,-5.531,-5.751,-5.331,True,P9WMI3
+Rv0347,-,membrane protein,Growth Defect,H37Rv,-7.821,-9.711,-5.775,True,O06298
+Rv0358,-,hypothetical protein,Growth Defect,H37Rv,-4.227,-4.553,-3.881,True,O06308
+Rv0383c,-,secreted protein,Growth Defect,H37Rv,-11.912,-13.511,-10.413,True,O53718
+Rv0697,-,dehydrogenase,Growth Defect,H37Rv,-0.473,-0.577,-0.377,True,I6Y8H4
+Rv0812,-,amino acid aminotransferase,Growth Defect,H37Rv,-1.072,-1.229,-0.921,True,Q79FW0
+Rv0817c,-,exported protein,Growth Defect,H37Rv,-1.072,-1.238,-0.908,True,I6WZH9
+Rv1002c,-,protein O-mannosyltransferase,Growth Defect,H37Rv,-1.23,-1.383,-1.091,True,P9WN05
+Rv1301,-,Sua5/YciO/YrdC/YwlC family protein,Growth Defect,H37Rv,-5.473,-6.501,-4.385,True,P9WGC9
+Rv1342c,-,integral membrane protein,Growth Defect,H37Rv,-1.182,-1.748,-0.575,True,P9WM19
+Rv1457c,-,ABC transporter efflux protein DrrB,Growth Defect,H37Rv,-1.406,-1.724,-1.076,True,O86349
+Rv1458c,-,antibiotic transporter ATP-binding protein,Growth Defect,H37Rv,-1.803,-2.358,-1.246,True,O53149
+Rv1540,-,RluA family pseudouridine synthase,Growth Defect,H37Rv,-0.779,-1.016,-0.534,True,P9WHQ3
+Rv1684,-,hypothetical protein,Growth Defect,H37Rv,-5.921,-7.388,-4.429,True,O33186
+Rv1711,-,pseudouridine synthase,Growth Defect,H37Rv,-2.505,-3.173,-1.854,True,P9WHQ1
+Rv1794,-,hypothetical protein,Growth Defect,H37Rv,-4.539,-5.154,-3.901,True,O53943
+Rv1828,-,hypothetical protein,Growth Defect,H37Rv,-8.023,-8.727,-7.228,True,P9WME7
+Rv2164c,-,"cell division protein, QLB complex",Growth Defect,H37Rv,-8.148,-8.551,-7.775,True,O06213
+Rv2165c,-,ribosomal RNA small subunit methyltransferase H,Growth Defect,H37Rv,-8.395,-9.168,-7.683,True,P9WJP1
+Rv2219,-,transmembrane protein,Growth Defect,H37Rv,-6.498,-7.072,-5.891,True,P9WLI1
+Rv2228c,-,multifunctional RNASE H/alpha-ribazole phosphatase/acid phosphatase,Growth Defect,H37Rv,-5.422,-6.297,-4.543,True,P9WLH5
+Rv2235,-,transmembrane protein,Growth Defect,H37Rv,-4.104,-4.436,-3.778,True,P9WGA7
+Rv2454c,-,oxidoreductase,Growth Defect,H37Rv,-0.642,-0.784,-0.493,True,O53181
+Rv2455c,-,oxidoreductase,Growth Defect,H37Rv,-0.879,-0.976,-0.784,True,O53182
+Rv2652c,-,prophage PhiRv2 protein,Growth Defect,H37Rv,-0.726,-0.961,-0.507,True,P71949
+Rv2827c,-,hypothetical protein,Growth Defect,H37Rv,-0.22,-0.36,-0.083,True,P71625
+Rv3032,-,"alpha-1,4-glucosyltransferase",Growth Defect,H37Rv,-2.174,-2.488,-1.858,True,P9WMY9
+Rv3035,-,hypothetical protein,Growth Defect,H37Rv,-2.933,-3.305,-2.562,True,I6XFZ8
+Rv3212,-,alanine and valine rich protein,Growth Defect,H37Rv,-0.798,-1.013,-0.571,True,O05854
+Rv3422c,-,ATPase,Growth Defect,H37Rv,-2.653,-3.222,-2.034,True,P9WFS7
+Rv3583c,-,CarD family transcriptional regulator,Growth Defect,H37Rv,-9.946,-11.774,-8.027,True,P9WJG3
+Rv3604c,-,alanine and arginine and proline rich transmembrane protein,Growth Defect,H37Rv,-4.844,-5.325,-4.305,True,O06278
+Rv3627c,-,d-alanyl-d-alanine carboxypeptidase,Growth Defect,H37Rv,-2.951,-3.213,-2.711,True,O06380
+Rv3635,-,"cell division protein, Z-ring complex Ib",Growth Defect,H37Rv,-2.312,-2.524,-2.11,True,I6Y460
+Rv3778c,-,cysteine desulfurase,Growth Defect,H37Rv,-6.107,-6.519,-5.674,True,P9WQ67

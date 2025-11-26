@@ -1,0 +1,28 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,uniprot_id
+Rv0416,thiS,thiamine biosynthesis protein ThiS,Essential,H37Rv,-7.926,-8.953,-6.891,False,P96262
+Rv0414c,thiE,thiamine-phosphate pyrophosphorylase ThiE,Essential,H37Rv,-0.281,-0.48,-0.09,False,P9WG75
+Rv0054,ssb,single-strand DNA-binding protein Ssb,Essential,H37Rv,-10.732,-14.644,-6.738,False,P9WGD5
+Rv0705,rpsS,30S ribosomal protein S19 RpsS,Essential,H37Rv,-17.252,-20.415,-13.994,False,P9WH45
+Rv0710,rpsQ,30S ribosomal protein S17 RpsQ,Essential,H37Rv,-17.589,-18.498,-16.616,False,P9WH51
+Rv3460c,rpsM,30S ribosomal protein S13 RpsM,Essential,H37Rv,-10.33,-14.392,-5.904,False,P9WH61
+Rv0683,rpsG,30S ribosomal protein S7 RpsG,Essential,H37Rv,-11.687,-14.799,-8.623,False,P9WH29
+Rv0053,rpsF,30S ribosomal protein S6 RpsF,Essential,H37Rv,-10.207,-14.222,-5.94,False,P9WH31
+Rv1390,rpoZ,DNA-directed RNA polymerase omega chain RpoZ,Essential,H37Rv,-9.28,-12.262,-6.12,False,P9WGY5
+Rv0715,rplX,50S ribosomal protein L24 RplX,Essential,H37Rv,-11.985,-26.05,3.189,False,P9WHB7
+Rv0651,rplJ,50S ribosomal protein L10 RplJ,Essential,H37Rv,-14.022,-18.584,-9.339,False,P9WHE7
+Rv3464,rmlB,"dTDP-glucose 4,6-dehydratase RmlB",Essential,H37Rv,-0.115,-0.266,0.028,False,P9WN65
+Rv0382c,pyrE,orotate phosphoribosyltransferase PyrE,Essential,H37Rv,-10.454,-12.825,-8.132,False,P9WHK9
+Rv3053c,nrdH,NRDEF glutaredoxin electron transport component NrdH,Essential,H37Rv,-13.749,-18.914,-8.176,False,I6YB06
+Rv3441c,mrsA,phosphoglucosamine mutase,Essential,H37Rv,0.046,-0.094,0.184,False,P9WN41
+Rv2217,lipB,lipoate biosynthesis protein B LipB,Essential,H37Rv,-0.305,-0.479,-0.126,False,P9WK83
+Rv3279c,birA,BirA protein,Essential,H37Rv,-0.168,-0.313,-0.011,False,I6YFP0
+Rv3281,accE5,acetyl-/propionyl-coenzyme A carboxylase AccE5,Essential,H37Rv,-10.888,-11.738,-10.047,False,P96886
+Rv0810c,-,hypothetical protein,Essential,H37Rv,-11.982,-15.409,-8.596,False,I6XWB9
+Rv0948c,-,chorismate mutase,Essential,H37Rv,-2.48,-3.986,-0.708,False,P9WIC1
+Rv1044,-,hypothetical protein,Essential,H37Rv,-0.443,-0.668,-0.221,False,P96357
+Rv1990c,-,transcriptional regulator,Essential,H37Rv,-0.252,-0.43,-0.069,False,P9WLP7
+Rv2186c,-,hypothetical protein,Essential,H37Rv,-1.096,-1.964,-0.263,False,O53520
+Rv2413c,-,DNA polymerase III delta subunit,Essential,H37Rv,-0.302,-0.468,-0.134,False,P71730
+Rv2438A,-,hypothetical protein,Essential,H37Rv,-4.563,-7.191,-1.897,False,Q79FD9
+Rv3222c,-,hypothetical protein,Essential,H37Rv,-15.542,-17.972,-12.956,False,O05844
+Rv3780,-,hypothetical protein,Essential,H37Rv,-3.439,-4.89,-1.962,False,P9WKX3

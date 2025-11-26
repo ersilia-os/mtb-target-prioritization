@@ -1,0 +1,309 @@
+ORFID,name,patric,essentiality,strain,VI,VI_lower,VI_higher,high_confidence,Unnamed: 9,uniprot_id
+Rv3500c,yrbE4B,ABC transporter permease YrbE4B,Growth Advantage,H37Rv,0.656,-2.6,5.026,False,,I6Y3P5
+Rv0656c,vapC6,toxin VapC6,Growth Advantage,H37Rv,0.569,-0.758,2.329,False,,P9WFB5
+Rv3408,vapC47,toxin VapC47,Growth Advantage,H37Rv,1.399,-0.611,4.474,False,,P9WF49
+Rv2596,vapC40,toxin VapC40,Growth Advantage,H37Rv,0.192,-0.667,1.252,False,,P9WF61
+Rv1953,vapC14,toxin VapC14,Growth Advantage,H37Rv,0.552,-0.227,1.617,False,,P9WF99
+Rv1838c,vapC13,toxin VapC13,Growth Advantage,H37Rv,0.332,-0.547,1.579,False,,P9WFA1
+Rv0657c,vapB6,antitoxin VapB6,Growth Advantage,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,P9WJ57
+Rv3407,vapB47,antitoxin VapB47,Growth Advantage,H37Rv,1.144,-0.151,3.235,False,,P9WF23
+Rv1952,vapB14,antitoxin VapB14,Growth Advantage,H37Rv,0.528,-0.384,1.839,False,,P95262
+Rv3288c,usfY,protein UsfY,Growth Advantage,H37Rv,-0.146,-2.132,2.073,False,,L7N685
+Rv1644,tsnR,23S rRNA methyltransferase TsnR,Growth Advantage,H37Rv,0.296,-1.686,2.982,False,,P94978
+Rv1033c,trcR,two-component system transcriptional regulator TrcR,Growth Advantage,H37Rv,1.048,-0.245,3.197,False,,L7N689
+Rv0816c,thiX,thioredoxin ThiX,Growth Advantage,H37Rv,1.269,-0.222,3.719,False,,I6Y8V2
+Rv3234c,tgs3,triacylglycerol synthase Tgs3,Growth Advantage,H37Rv,0.762,-1.531,4.144,False,,P9WKC5
+Rv1008,tatD,deoxyribonuclease TatD,Growth Advantage,H37Rv,0.209,-1.484,2.229,False,,O08343
+Rv2713,sthA,soluble pyridine nucleotide transhydrogenase SthA,Growth Advantage,H37Rv,0.96,-0.645,3.74,False,,P9WHH5
+Rv0814c,sseC2,hypothetical protein,Growth Advantage,H37Rv,0.092,-1.849,2.749,False,,P0CG95
+Rv3118,sseC1,hypothetical protein,Growth Advantage,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,P0CG96
+Rv3286c,sigF,RNA polymerase sigma factor SigF,Growth Advantage,H37Rv,1.083,-1.017,4.401,False,,P9WGI3
+Rv3287c,rsbW,anti-sigma factor RsbW,Growth Advantage,H37Rv,0.177,-1.296,2.124,False,,P9WGX7
+Rv2055c,rpsR2,30S ribosomal protein S18 RpsR2,Growth Advantage,H37Rv,0.295,-0.871,1.801,False,,P9WH47
+Rv2056c,rpsN2,30S ribosomal protein S14 RpsN2,Growth Advantage,H37Rv,-2.105,-11.76,8.677,False,,P9WH59
+Rv2057c,rpmG1,50S ribosomal protein L33 RpmG1,Growth Advantage,H37Rv,1.143,-0.488,3.753,False,,P9WH97
+Rv2058c,rpmB2,50S ribosomal protein L28 RpmB2,Growth Advantage,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,P9WHA9
+Rv2389c,rpfD,esuscitation-promoting factor RpfD,Growth Advantage,H37Rv,0.989,-0.897,3.975,False,,P9WG27
+Rv1884c,rpfC,resuscitation-promoting factor RpfC,Growth Advantage,H37Rv,1.322,-0.624,4.377,False,,O07747
+Rv1454c,qor,quinone reductase Qor,Growth Advantage,H37Rv,1.142,-0.284,3.58,False,,O53146
+Rv3232c,ppk2,polyphosphate kinase Ppk2,Growth Advantage,H37Rv,0.795,-2.551,4.605,False,,O05877
+Rv0355c,PPE8,PPE family protein PPE8,Growth Advantage,H37Rv,1.325,-0.491,4.607,False,,I6Y7L4
+Rv0354c,PPE7,PPE family protein PPE7,Growth Advantage,H37Rv,1.408,-0.17,3.946,False,,L0T545
+Rv3738c,PPE66,PPE family protein PPE66,Growth Advantage,H37Rv,1.232,-0.104,3.207,False,,P9WHX1
+Rv3347c,PPE55,PPE family protein PPE55,Growth Advantage,H37Rv,1.211,-0.403,3.212,False,,Q6MWX9
+Rv2352c,PPE38,PPE family protein PPE38,Growth Advantage,H37Rv,0.477,-0.803,2.33,False,,P9WHZ9
+Rv1808,PPE32,PPE family protein PPE32,Growth Advantage,H37Rv,1.292,0.113,3.193,False,,P9WI05
+Rv1790,PPE27,PPE family protein PPE27,Growth Advantage,H37Rv,-0.046,-2.489,3.543,False,,Q79FK5
+Rv1789,PPE26,PPE family protein PPE26,Growth Advantage,H37Rv,0.046,-2.057,3.281,False,,Q79FK6
+Rv1787,PPE25,PPE family protein PPE25,Growth Advantage,H37Rv,0.523,-1.219,2.965,False,,P9WI13
+Rv1196,PPE18,PPE family protein PPE18,Growth Advantage,H37Rv,-0.25,-3.223,3.954,False,,L7N675
+Rv0878c,PPE13,PPE family protein PPE13,Growth Advantage,H37Rv,0.938,-0.652,3.681,False,,P9WI35
+Rv3682,ponA2,bifunctional membrane-associated penicillin-binding protein 1A/1B PonA2,Growth Advantage,H37Rv,1.688,-0.199,5.051,False,,I6YGX2
+Rv2349c,plcC,phospholipase C3 PlcC,Growth Advantage,H37Rv,0.82,-1.666,4.657,False,,P9WIB1
+Rv2350c,plcB,phospholipase C2 PlcB,Growth Advantage,H37Rv,0.532,-2.867,5.158,False,,P9WIB3
+Rv2351c,plcA,phospholipase C1 PlcA,Growth Advantage,H37Rv,0.909,-0.673,3.249,False,,P9WIB5
+Rv0931c,pknD,transmembrane serine/threonine-protein kinase D PknD,Growth Advantage,H37Rv,1.195,-0.384,4.01,False,,P9WI79
+Rv0230c,php,phosphotriesterase Php,Growth Advantage,H37Rv,0.728,-0.846,3.272,False,,P9WHN9
+Rv0821c,phoY2,phosphate-transport system transcriptional regulator PhoY2,Growth Advantage,H37Rv,1.289,-1.222,5.171,False,,P9WI95
+Rv0820,phoT,phosphate-transport ABC transporter ATP-binding protein PhoT,Growth Advantage,H37Rv,-0.347,-3.6,4.067,False,,P9WQL1
+Rv1983,PE_PGRS35,PE-PGRS family protein PE_PGRS35,Growth Advantage,H37Rv,1.438,-0.286,4.258,False,,P9WIF1
+Rv0980c,PE_PGRS18,PE-PGRS family protein PE_PGRS18,Growth Advantage,H37Rv,0.269,-0.683,1.494,False,,Q79FU0
+Rv0978c,PE_PGRS17,PE-PGRS family protein PE_PGRS17,Growth Advantage,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,Q79FU2
+Rv0977,PE_PGRS16,PE-PGRS family protein PE_PGRS16,Growth Advantage,H37Rv,1.173,-0.909,4.203,False,,Q79FU3
+Rv0160c,PE4,PE family protein PE4,Growth Advantage,H37Rv,1.114,-0.634,4.01,False,,L7N661
+Rv0159c,PE3,PE family protein PE3,Growth Advantage,H37Rv,1.306,-0.232,4.078,False,,Q79G04
+Rv0152c,PE2,PE family protein PE2,Growth Advantage,H37Rv,1.406,-0.105,4.063,False,,Q79G05
+Rv1788,PE18,PE family protein PE18,Growth Advantage,H37Rv,0.307,-0.592,1.654,False,,L7N649
+Rv1386,PE15,PE family protein PE15,Growth Advantage,H37Rv,0.155,-2.29,3.027,False,,P9WIH1
+Rv1195,PE13,PE family protein PE13,Growth Advantage,H37Rv,0.436,-0.545,1.669,False,,Q79FR3
+Rv0151c,PE1,PE family protein PE1,Growth Advantage,H37Rv,1.715,-0.295,5.117,False,,Q79G06
+Rv2142c,parE2,toxin ParE2,Growth Advantage,H37Rv,1.166,-0.48,3.96,False,,P9WHG5
+Rv1959c,parE1,toxin,Growth Advantage,H37Rv,0.579,-0.276,1.88,False,,P9WHG7
+Rv2142A,parD2,antitoxin ParD2,Growth Advantage,H37Rv,-3.121,-6.367,0.73,False,,P9WJ75
+Rv1981c,nrdF1,ribonucleoside-diphosphate reductase NrdF1,Growth Advantage,H37Rv,1.116,-1.516,4.814,False,,P9WH73
+Rv0267,narU,integral membrane nitrite extrusion protein NarU,Growth Advantage,H37Rv,1.125,-0.724,3.88,False,,P95224
+Rv2674,msrB,peptide methionine sulfoxide reductase MsrB,Growth Advantage,H37Rv,0.265,-0.477,1.338,False,,I6YA00
+Rv0819,mshD,N-acetyltransferase MshD,Growth Advantage,H37Rv,-0.1,-1.507,2.075,False,,P9WJM7
+Rv1980c,mpt64,immunogenic protein MPT64,Growth Advantage,H37Rv,1.105,-0.583,3.863,False,,P9WIN9
+Rv1926c,mpt63,immunogenic protein MPT63,Growth Advantage,H37Rv,0.696,-0.121,1.734,False,,P9WIP1
+Rv0981,mprA,mycobacterial persistence regulator MRPA,Growth Advantage,H37Rv,1.44,-1.053,4.957,False,,P9WGM9
+Rv1857,modA,molybdenum-transport ABC transporter molybdate-binding lipoprotein ModA,Growth Advantage,H37Rv,1.096,-0.619,3.819,False,,P9WGU3
+Rv3119,moaE1,molybdenum cofactor biosynthesis protein E1 MoaE1,Growth Advantage,H37Rv,0.278,-0.509,1.498,False,,P9WJR3
+Rv2458,mmuM,homocysteine S-methyltransferase MmuM,Growth Advantage,H37Rv,1.288,-0.122,3.584,False,,O53185
+Rv1146,mmpL13b,transmembrane transporter MmpL13b,Growth Advantage,H37Rv,0.995,-1.503,4.612,False,,O06546
+Rv1145,mmpL13a,transmembrane transporter MmpL13a,Growth Advantage,H37Rv,0.471,-2.82,4.808,False,,O06545
+Rv0642c,mmaA4,methoxy mycolic acid synthase 4 MmaA4,Growth Advantage,H37Rv,0.91,-0.609,3.421,False,,Q79FX8
+Rv0643c,mmaA3,methoxy mycolic acid synthase 3 MmaA3,Growth Advantage,H37Rv,1.424,-0.197,3.799,False,,P0CH91
+Rv0644c,mmaA2,methoxy mycolic acid synthase 2 MmaA2,Growth Advantage,H37Rv,1.183,-1.145,4.723,False,,Q79FX6
+Rv0645c,mmaA1,methoxy mycolic acid synthase 1 MmaA1,Growth Advantage,H37Rv,1.562,-0.033,4.349,False,,P9WPB1
+Rv0655,mkl,ribonucleotide-transport ABC transporter ATP-binding protein Mkl,Growth Advantage,H37Rv,-0.126,-2.286,2.85,False,,P9WQL5
+Rv1811,mgtC,Mg2+ transport P-type ATPase C MgtC,Growth Advantage,H37Rv,1.167,-0.575,3.673,False,,I6YBN6
+Rv1143,mcr,alpha-methylacyl-CoA racemase Mcr,Growth Advantage,H37Rv,0.964,-0.944,3.685,False,,O06543
+Rv1781c,malQ,4-alpha-glucanotransferase MalQ,Growth Advantage,H37Rv,1.414,-1.47,5.852,False,,P9WK23
+Rv0483,lprQ,lipoprotein LprQ,Growth Advantage,H37Rv,1.228,-1.879,5.57,False,,P9WKV3
+Rv1228,lpqX,lipoprotein LpqX,Growth Advantage,H37Rv,0.889,-1.5,3.865,False,,O33224
+Rv1016c,lpqT,lipoprotein LpqT,Growth Advantage,H37Rv,0.69,-0.754,3.342,False,,P9WK59
+Rv3390,lpqD,lipoprotein LpqD,Growth Advantage,H37Rv,1.138,-0.672,4.031,False,,O50416
+Rv1881c,lppE,lipoprotein LppE,Growth Advantage,H37Rv,0.748,-0.365,2.645,False,,O07750
+Rv1834,lipZ,hydrolase,Growth Advantage,H37Rv,1.318,-0.678,4.083,False,,P9WLR1
+Rv3097c,lipY,"PE-PGRS family protein, triacylglycerol lipase LipY",Growth Advantage,H37Rv,0.663,-1.893,4.332,False,,I6Y2J4
+Rv0646c,lipG,lipase/esterase LipG,Growth Advantage,H37Rv,0.901,-1.061,4.049,False,,P96935
+Rv3487c,lipF,esterase/lipase LipF,Growth Advantage,H37Rv,0.886,-2.048,4.552,False,,O06350
+Rv1923,lipD,lipase LipD,Growth Advantage,H37Rv,1.269,-0.128,3.58,False,,P95290
+Rv3290c,lat,l-lysine-epsilon aminotransferase Lat,Growth Advantage,H37Rv,1.387,-0.55,4.271,False,,P9WQ77
+Rv1955,higB,toxin,Growth Advantage,H37Rv,1.691,-0.176,5.022,False,,P9WJA5
+Rv1956,higA,antitoxin HigA,Growth Advantage,H37Rv,-2.212,-11.093,7.733,False,,P9WJA7
+Rv0475,hbhA,iron-regulated heparin binding hemagglutinin HbhA,Growth Advantage,H37Rv,0.134,-1.068,1.643,False,,P9WIP9
+Rv1843c,guaB1,inosine-5'-monophosphate dehydrogenase GuaB1,Growth Advantage,H37Rv,1.507,-0.446,4.445,False,,P9WKI3
+Rv1844c,gnd1,6-phosphogluconate dehydrogenase Gnd1,Growth Advantage,H37Rv,1.02,-0.347,3.251,False,,Q79FJ2
+Rv3842c,glpQ1,glycerophosphoryl diester phosphodiesterase GlpQ1,Growth Advantage,H37Rv,0.04,-1.557,2.143,False,,P9WMU3
+Rv3432c,gadB,glutamate decarboxylase GadB,Growth Advantage,H37Rv,0.935,-0.827,3.789,False,,I6YG46
+Rv2053c,fxsA,transmembrane protein FxsA,Growth Advantage,H37Rv,0.944,-0.809,3.749,False,,O53495
+Rv1886c,fbpB,secreted antigen 85-B FbpB,Growth Advantage,H37Rv,1.187,-0.497,4.178,False,,P9WQP1
+Rv0231,fadE4,acyl-CoA dehydrogenase FadE4,Growth Advantage,H37Rv,1.239,-1.342,4.612,False,,P96414
+Rv1925,fadD31,acyl-CoA ligase FadD31,Growth Advantage,H37Rv,-0.919,-3.264,2.481,False,,I6Y7V6
+Rv3513c,fadD18,fatty-acid-CoA ligase FadD18,Growth Advantage,H37Rv,1.1,-1.263,4.477,False,,I6YGC8
+Rv1074c,fadA3,beta-ketoacyl CoA thiolase FadA3,Growth Advantage,H37Rv,1.301,-0.096,3.863,False,,O53422
+Rv2347c,esxP,ESAT-6 like protein EsxP,Growth Advantage,H37Rv,-8.878,-24.409,7.279,False,,P9WNI5
+Rv2346c,esxO,ESAT-6 like protein EsxO,Growth Advantage,H37Rv,-1.191,-9.49,7.267,False,,P9WNI7
+Rv1198,esxL,ESAT-6 like protein EsxL,Growth Advantage,H37Rv,0.354,-8.35,9.038,False,,P9WNJ5
+Rv1197,esxK,ESAT-6 like protein EsxK,Growth Advantage,H37Rv,-1.176,-3.417,2.037,False,,P9WNJ7
+Rv3880c,espL,ESX-1 secretion-associated protein EspL,Growth Advantage,H37Rv,1.306,-0.323,3.865,False,,P9WJB9
+Rv3879c,espK,ESX-1 secretion-associated protein EspK,Growth Advantage,H37Rv,0.235,-2.304,3.465,False,,P9WJC1
+Rv3878,espJ,ESX-1 secretion-associated protein EspJ,Growth Advantage,H37Rv,0.909,-0.159,2.396,False,,P9WJC3
+Rv3881c,espB,secreted ESX-1 substrate protein B EspB,Growth Advantage,H37Rv,0.967,-1.875,5.132,False,,P9WJD9
+Rv1814,erg3,C-5 sterol desaturase Erg3,Growth Advantage,H37Rv,1.311,-0.585,4.248,False,,P9WNZ9
+Rv3882c,eccE1,ESX-1 secretion system protein EccE1,Growth Advantage,H37Rv,0.56,-1.107,3.485,False,,P9WJE9
+Rv2938,drrC,ABC transporter efflux protein DrrB,Growth Advantage,H37Rv,1.358,-0.455,4.293,False,,P9WG21
+Rv2937,drrB,doxorubicin resistance ABC transporter permease DrrB,Growth Advantage,H37Rv,1.003,-0.474,3.415,False,,P9WG23
+Rv2936,drrA,doxorubicin resistance ATP-binding protein DrrA,Growth Advantage,H37Rv,1.521,-0.142,4.328,False,,P9WQL9
+Rv3056,dinP,DNA-damage-inducible protein F DinF,Growth Advantage,H37Rv,1.038,-0.809,4.116,False,,P9WNT1
+Rv0478,deoC,deoxyribose-phosphate aldolase DeoC,Growth Advantage,H37Rv,0.21,-1.86,2.823,False,,P9WP03
+Rv1335,cysO,sulfur carrier protein CysO,Growth Advantage,H37Rv,1.383,-0.484,4.453,False,,P9WP33
+Rv1336,cysM,cysteine synthase B CysM,Growth Advantage,H37Rv,0.258,-1.994,3.697,False,,P9WP53
+Rv3117,cysA3,thiosulfate sulfurtransferase CysA3,Growth Advantage,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,P9WHF9
+Rv0815c,cysA2,thiosulfate sulfurtransferase CysA2,Growth Advantage,H37Rv,1.287,-0.365,3.946,False,,P9WHF9
+Rv3059,cyp136,cytochrome P450 136 Cyp136,Growth Advantage,H37Rv,1.103,-0.437,3.673,False,,P9WPM7
+Rv3484,cpsA,hypothetical protein,Growth Advantage,H37Rv,-0.958,-3.602,3.433,False,,O06347
+Rv0503c,cmaA2,cyclopropane mycolic acid synthase 2 CmaA2,Growth Advantage,H37Rv,1.424,-0.247,3.999,False,,P9WPB5
+Rv3409c,choD,cholesterol oxidase ChoD (cholesterol-O2 oxidoreductase),Growth Advantage,H37Rv,0.729,-2.028,4.386,False,,P9WMV9
+Rv1984c,cfp21,cutinase CFP21,Growth Advantage,H37Rv,0.043,-0.724,1.001,False,,P9WP43
+Rv2224c,caeA,carboxylesterase CaeA,Growth Advantage,H37Rv,-1.336,-3.68,2.013,False,,P9WHR3
+Rv1876,bfrA,bacterioferritin BfrA,Growth Advantage,H37Rv,0.825,-0.419,2.636,False,,P9WPQ9
+Rv2395B,aprB,acid and phagosome regulated protein B AprB,Growth Advantage,H37Rv,0.521,-0.574,1.959,False,,V5QRX2
+Rv2395A,aprA,acid and phagosome regulated protein A AprA,Growth Advantage,H37Rv,0.227,-0.929,2.207,False,,V5QPR9
+Rv3252c,alkB,transmembrane alkane 1-monooxygenase AlkB,Growth Advantage,H37Rv,1.396,-0.186,3.956,False,,O05895
+Rv0059,-,hypothetical protein,Growth Advantage,H37Rv,0.139,-3.388,4.443,False,,O53604
+Rv0138,-,hypothetical protein,Growth Advantage,H37Rv,0.939,-0.607,3.362,False,,P96815
+Rv0139,-,oxidoreductase,Growth Advantage,H37Rv,0.742,-0.506,2.84,False,,P96816
+Rv0146,-,s-adenosylmethionine-dependent methyltransferase,Growth Advantage,H37Rv,0.259,-2.263,3.761,False,,P9WFJ3
+Rv0147,-,aldehyde dehydrogenase (NAD+),Growth Advantage,H37Rv,0.469,-1.852,3.381,False,,P96824
+Rv0148,-,oxidoreductase,Growth Advantage,H37Rv,1.205,-0.42,3.88,False,,P96825
+Rv0149,-,NADPH2:quinone reductase,Growth Advantage,H37Rv,1.05,-2.23,5.654,False,,P96826
+Rv0150c,-,hypothetical protein,Growth Advantage,H37Rv,0.854,-0.634,3.282,False,,P96827
+Rv0158,-,transcriptional regulator TetR-family,Growth Advantage,H37Rv,0.303,-1.185,2.562,False,,O53641
+Rv0190,-,hypothetical protein,Growth Advantage,H37Rv,-0.823,-2.963,1.684,False,,O07434
+Rv0191,-,integral membrane protein,Growth Advantage,H37Rv,1.192,-0.51,3.894,False,,P9WJX7
+Rv0192,-,hypothetical protein,Growth Advantage,H37Rv,0.56,-1.294,3.331,False,,O07436
+Rv0192A,-,secreted protein,Growth Advantage,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,Q79FZ8
+Rv0193c,-,hypothetical protein,Growth Advantage,H37Rv,1.187,-0.225,3.58,False,,O07437
+Rv0194,-,transmembrane multidrug efflux pump,Growth Advantage,H37Rv,0.412,-1.824,3.971,False,,O53645
+Rv0195,-,"two-component system transcriptional regulator, LuxR-family",Growth Advantage,H37Rv,-0.014,-4.495,4.718,False,,O53646
+Rv0232,-,transcriptional regulator TetR/AcrR-family,Growth Advantage,H37Rv,1.388,-0.394,4.068,False,,P96415
+Rv0268c,-,prevent-host-death family protein,Growth Advantage,H37Rv,0.56,-8.273,9.598,False,,P95225
+Rv0313,-,hypothetical protein,Growth Advantage,H37Rv,0.657,-0.484,2.533,False,,P9WL03
+Rv0314c,-,membrane protein,Growth Advantage,H37Rv,1.074,-0.663,3.783,False,,O07241
+Rv0315,-,"beta-1,3-glucanase",Growth Advantage,H37Rv,1.238,-1.152,4.372,False,,O07242
+Rv0336,-,13E12 repeat family protein,Growth Advantage,H37Rv,0.546,-0.475,2.256,False,,O33266
+Rv0385,-,oxidoreductase,Growth Advantage,H37Rv,0.114,-4.243,5.462,False,,Q7ARS9
+Rv0461,-,transmembrane protein,Growth Advantage,H37Rv,0.972,-2.296,5.321,False,,I6X961
+Rv0470A,-,mycolic acid synthase PcaA,Growth Advantage,H37Rv,1.062,-1.65,4.916,False,,L7N651
+Rv0471c,-,hypothetical protein,Growth Advantage,H37Rv,0.04,-0.738,1.102,False,,O53756
+Rv0472c,-,transcriptional regulator TetR-family,Growth Advantage,H37Rv,-0.524,-2.122,2.11,False,,P9WMD9
+Rv0473,-,transmembrane protein,Growth Advantage,H37Rv,0.848,-1.744,4.426,False,,I6Y3V3
+Rv0474,-,transcriptional regulator,Growth Advantage,H37Rv,0.268,-2.006,3.284,False,,P9WMH9
+Rv0476,-,transmembrane protein,Growth Advantage,H37Rv,0.503,-3.106,4.621,False,,P9WKW1
+Rv0477,-,secreted protein,Growth Advantage,H37Rv,0.5,-1.002,2.845,False,,P9WKV9
+Rv0484c,-,oxidoreductase,Growth Advantage,H37Rv,0.208,-0.686,1.467,False,,P9WGR5
+Rv0516c,-,anti-anti-sigma factor,Growth Advantage,H37Rv,0.475,-0.477,1.779,False,,O33361
+Rv0517,-,membrane acyltransferase,Growth Advantage,H37Rv,-0.203,-2.858,3.277,False,,O33362
+Rv0518,-,exported protein,Growth Advantage,H37Rv,1.154,-0.288,3.52,False,,O33363
+Rv0519c,-,mycolyltransferase II,Growth Advantage,H37Rv,0.593,-0.893,2.99,False,,O33364
+Rv0520,-,methyltransferase,Growth Advantage,H37Rv,0.854,-3.18,5.953,False,,O33365
+Rv0654,-,oxidoreductase,Growth Advantage,H37Rv,1.211,-1.222,4.805,False,,P9WPR5
+Rv0730,-,N-acetyltransferase,Growth Advantage,H37Rv,0.99,-0.607,3.714,False,,I6XW38
+Rv0731c,-,s-adenosylmethionine-dependent methyltransferase,Growth Advantage,H37Rv,1.311,-0.805,4.819,False,,P9WFI5
+Rv0755A,-,transposase,Growth Advantage,H37Rv,1.26,-0.5,4.074,False,,Q79FW3
+Rv0813c,-,fatty acid-binding protein-like protein,Growth Advantage,H37Rv,0.958,-0.385,3.489,False,,P9WFG9
+Rv0818,-,transcriptional regulator,Growth Advantage,H37Rv,-0.314,-3.461,3.349,False,,O53830
+Rv0822c,-,hypothetical protein,Growth Advantage,H37Rv,0.831,-1.321,4.08,False,,I6WZI4
+Rv0823c,-,transcriptional regulator,Growth Advantage,H37Rv,-2.222,-5.777,3.414,False,,P9WNS7
+Rv0877,-,hypothetical protein,Growth Advantage,H37Rv,0.529,-2.234,4.665,False,,P9WKR3
+Rv0979c,-,hypothetical protein,Growth Advantage,H37Rv,-8.751,-15.831,-0.354,False,,O53892
+Rv1006,-,hypothetical protein,Growth Advantage,H37Rv,0.784,-1.585,3.998,False,,O05592
+Rv1043c,-,hypothetical protein,Growth Advantage,H37Rv,1.028,-0.565,3.627,False,,P96358
+Rv1073,-,hypothetical protein,Growth Advantage,H37Rv,0.769,-1.239,3.841,False,,O53421
+Rv1087A,-,short-chain Z-isoprenyl diphosphate synthase,Growth Advantage,H37Rv,0.116,-3.019,3.96,False,,L7N654
+Rv1144,-,3-hydroxyacyl-CoA dehydrogenase/3-hydroxy-2-methylbutyryl-CoA dehydrogenase,Growth Advantage,H37Rv,0.682,-0.627,2.627,False,,P9WGQ7
+Rv1147,-,hypothetical protein,Growth Advantage,H37Rv,0.571,-1.773,3.939,False,,O06547
+Rv1337,-,membrane protein,Growth Advantage,H37Rv,-1.918,-6.688,3.701,False,,P9WM21
+Rv1453,-,transcriptional activator,Growth Advantage,H37Rv,0.569,-2.639,5.036,False,,O06807
+Rv1455,-,hypothetical protein,Growth Advantage,H37Rv,0.839,-0.767,3.195,False,,O53147
+Rv1498A,-,hypothetical protein,Growth Advantage,H37Rv,1.153,-0.432,3.757,False,,I6XY36
+Rv1499,-,hypothetical protein,Growth Advantage,H37Rv,0.023,-1.843,2.198,False,,P71780
+Rv1566c,-,invasion-associated protein,Growth Advantage,H37Rv,1.024,-0.805,3.897,False,,O06624
+Rv1567c,-,membrane protein,Growth Advantage,H37Rv,0.827,-0.421,2.752,False,,O06623
+Rv1634,-,drug efflux membrane protein,Growth Advantage,H37Rv,-0.174,-4.426,5.22,False,,P9WJX3
+Rv1645c,-,hypothetical protein,Growth Advantage,H37Rv,1.06,-0.264,3.312,False,,P94979
+Rv1780,-,hypothetical protein,Growth Advantage,H37Rv,0.535,-1.644,3.265,False,,O53931
+Rv1835c,-,hydrolase,Growth Advantage,H37Rv,1.102,-0.379,3.439,False,,P9WIQ9
+Rv1855c,-,oxidoreductase,Growth Advantage,H37Rv,1.219,-0.601,3.856,False,,P95159
+Rv1856c,-,oxidoreductase,Growth Advantage,H37Rv,1.063,-0.207,3.046,False,,P9WGQ1
+Rv1873,-,hypothetical protein,Growth Advantage,H37Rv,0.481,-0.394,1.802,False,,O07756
+Rv1874,-,hypothetical protein,Growth Advantage,H37Rv,1.134,-0.341,3.643,False,,O07755
+Rv1875,-,hypothetical protein,Growth Advantage,H37Rv,0.28,-1.247,2.126,False,,O07754
+Rv1877,-,drug:H+ antiporter-2 (14 Spanner) (DHA2) family drug resistance MFS transporter,Growth Advantage,H37Rv,1.37,-0.345,3.966,False,,P9WG85
+Rv1882c,-,short-chain dehydrogenase/reductase,Growth Advantage,H37Rv,1.361,-0.423,4.559,False,,O07749
+Rv1883c,-,hypothetical protein,Growth Advantage,H37Rv,0.226,-0.869,1.699,False,,O07748
+Rv1885c,-,chorismate mutase,Growth Advantage,H37Rv,1.15,-0.419,3.675,False,,P9WIB9
+Rv1903,-,membrane protein,Growth Advantage,H37Rv,0.948,-0.641,3.384,False,,O07729
+Rv1904,-,anti-anti-sigma factor,Growth Advantage,H37Rv,0.68,-0.486,2.393,False,,O07728
+Rv1924c,-,hypothetical protein,Growth Advantage,H37Rv,1.427,-0.14,4.013,False,,P95289
+Rv1950c,-,hypothetical protein,Growth Advantage,H37Rv,0.759,-0.444,2.687,False,,P95264
+Rv1951c,-,hypothetical protein,Growth Advantage,H37Rv,0.841,-0.25,2.631,False,,P95263
+Rv1954A,-,hypothetical protein,Growth Advantage,H37Rv,0.413,-0.601,1.918,False,,P0CV86
+Rv1954c,-,hypothetical protein,Growth Advantage,H37Rv,0.664,-0.551,2.658,False,,P9WLQ3
+Rv1957,-,hypothetical protein,Growth Advantage,H37Rv,-0.681,-3.232,2.504,False,,P95257
+Rv1958c,-,hypothetical protein,Growth Advantage,H37Rv,1.342,-0.915,5.065,False,,P95256
+Rv1979c,-,permease,Growth Advantage,H37Rv,1.231,-0.305,3.681,False,,P9WQM5
+Rv1995,-,hypothetical protein,Growth Advantage,H37Rv,0.877,-0.157,2.583,False,,P9WLP3
+Rv1996,-,universal stress protein,Growth Advantage,H37Rv,0.987,-0.443,3.238,False,,P9WLP1
+Rv2019,-,hypothetical protein,Growth Advantage,H37Rv,0.918,-1.012,3.673,False,,O53465
+Rv2020c,-,hypothetical protein,Growth Advantage,H37Rv,0.472,-0.685,2.034,False,,O53466
+Rv2021c,-,transcriptional regulator,Growth Advantage,H37Rv,0.855,-6.548,9.682,False,,O53467
+Rv2022c,-,hypothetical protein,Growth Advantage,H37Rv,1.26,-0.58,4.006,False,,O53468
+Rv2054,-,carboxymethylenebutenolidase,Growth Advantage,H37Rv,1.214,-0.151,3.456,False,,O86353
+Rv2113,-,membrane protein,Growth Advantage,H37Rv,1.402,-0.389,4.452,False,,O33248
+Rv2114,-,hypothetical protein,Growth Advantage,H37Rv,1.276,-0.051,3.373,False,,O33249
+Rv2143,-,hypothetical protein,Growth Advantage,H37Rv,1.094,-0.567,3.797,False,,O06232
+Rv2181,-,"alpha-1,2-mannosyltransferase",Growth Advantage,H37Rv,1.032,-0.398,3.544,False,,P9WMZ9
+Rv2209,-,integral membrane protein,Growth Advantage,H37Rv,1.241,-0.364,3.757,False,,P9WLI3
+Rv2345,-,"cell division protein, Z-ring complex Ib",Growth Advantage,H37Rv,0.746,-0.79,3.407,False,,P9WFJ5
+Rv2348c,-,hypothetical protein,Growth Advantage,H37Rv,-1.213,-3.072,0.911,False,,P95244
+Rv2390c,-,hypothetical protein,Growth Advantage,H37Rv,-0.136,-3.072,3.108,False,,P71754
+Rv2411c,-,hypothetical protein,Growth Advantage,H37Rv,1.497,-0.355,4.391,False,,P9WLA9
+Rv2456c,-,integral membrane transporter,Growth Advantage,H37Rv,0.446,-2.121,4.054,False,,P9WJX1
+Rv2459,-,drug:H+ antiporter-2 (14 Spanner) (DHA2) family drug resistance MFS transporter,Growth Advantage,H37Rv,1.207,-0.221,3.699,False,,P9WJW9
+Rv2536,-,transmembrane protein,Growth Advantage,H37Rv,0.215,-3.006,4.511,False,,P95017
+Rv2597,-,membrane protein,Growth Advantage,H37Rv,0.747,-0.278,2.341,False,,P9WL73
+Rv2598,-,hypothetical protein,Growth Advantage,H37Rv,0.595,-0.681,2.532,False,,P9WL71
+Rv2599,-,membrane protein,Growth Advantage,H37Rv,0.489,-1.325,2.928,False,,P9WL69
+Rv2600,-,transmembrane protein,Growth Advantage,H37Rv,0.822,-0.491,3.266,False,,P9WFG5
+Rv2617c,-,transmembrane protein,Growth Advantage,H37Rv,0.749,-2.608,5.408,False,,I6XER9
+Rv2675c,-,hypothetical protein,Growth Advantage,H37Rv,1.469,-0.501,4.892,False,,I6Y1G8
+Rv2704,-,hypothetical protein,Growth Advantage,H37Rv,0.633,-0.44,2.12,False,,I6YA21
+Rv2705c,-,hypothetical protein,Growth Advantage,H37Rv,0.764,-0.614,2.921,False,,O07206
+Rv2706c,-,hypothetical protein,Growth Advantage,H37Rv,1.404,-0.704,4.702,False,,O07207
+Rv2707,-,YihY family protein,Growth Advantage,H37Rv,0.623,-1.173,3.574,False,,I6YE67
+Rv2708c,-,hypothetical protein,Growth Advantage,H37Rv,0.346,-1.091,2.39,False,,I6X562
+Rv2709,-,transmembrane protein,Growth Advantage,H37Rv,-0.39,-1.85,1.595,False,,I6YA25
+Rv2712c,-,hypothetical protein,Growth Advantage,H37Rv,1.14,-0.871,4.025,False,,I6YE70
+Rv2774c,-,hypothetical protein,Growth Advantage,H37Rv,0.146,-1.644,2.364,False,,O33316
+Rv2775,-,N-acetyltransferase,Growth Advantage,H37Rv,0.832,-0.81,3.516,False,,O33317
+Rv2840c,-,hypothetical protein,Growth Advantage,H37Rv,-11.621,-27.975,5.135,False,,I6XFF7
+Rv2929,-,hypothetical protein,Growth Advantage,H37Rv,0.991,-0.331,3.379,False,,P9WL13
+Rv2954c,-,hypothetical protein,Growth Advantage,H37Rv,0.368,-2.868,4.914,False,,I6X5U4
+Rv2957,-,PGL/p-HBAD biosynthesis glycosyltransferase,Growth Advantage,H37Rv,1.433,-0.504,4.866,False,,P9WMX7
+Rv2958c,-,inactive PGL/p-HBAD biosynthesis glycosyltransferase,Growth Advantage,H37Rv,0.759,-1.435,3.961,False,,P9WFR1
+Rv3007c,-,oxidoreductase,Growth Advantage,H37Rv,0.733,-1.361,3.406,False,,O53254
+Rv3008,-,hypothetical protein,Growth Advantage,H37Rv,0.872,-0.878,3.648,False,,I6YEY1
+Rv3013,-,hypothetical protein,Growth Advantage,H37Rv,1.189,-1.456,4.73,False,,O53260
+Rv3054c,-,hypothetical protein,Growth Advantage,H37Rv,0.662,-0.575,2.6,False,,P95105
+Rv3055,-,transcriptional regulator TetR-family,Growth Advantage,H37Rv,0.922,-0.763,3.277,False,,P95103
+Rv3057c,-,short-chain alcohol dehydrogenase/reductase,Growth Advantage,H37Rv,-0.984,-4.868,2.748,False,,I6YB11
+Rv3058c,-,transcriptional regulator TetR-family,Growth Advantage,H37Rv,1.438,-1.633,5.602,False,,P95100
+Rv3096,-,hypothetical protein,Growth Advantage,H37Rv,1.025,-1.05,4.007,False,,I6YB54
+Rv3098A,-,antitoxin,Growth Advantage,H37Rv,1.216,-0.318,3.612,False,,V5QRX7
+Rv3098c,-,hypothetical protein,Growth Advantage,H37Rv,1.609,-0.453,5.046,False,,O05776
+Rv3120,-,methyltransferase,Growth Advantage,H37Rv,1.275,-0.26,3.834,False,,O05796
+Rv3231c,-,hypothetical protein,Growth Advantage,H37Rv,-1.585,-2.719,-0.438,False,,O05876
+Rv3233c,-,diacylglycerol acyltransferase,Growth Advantage,H37Rv,0.546,-0.35,1.958,False,,O05878
+Rv3239c,-,drug:H+ antiporter-2 (14 Spanner) (DHA2) family drug resistance MFS transporter,Growth Advantage,H37Rv,0.426,-1.915,3.646,False,,O05884
+Rv3241c,-,ribosomal subunit interface protein,Growth Advantage,H37Rv,1.451,-0.471,4.692,False,,O05886
+Rv3242c,-,hypothetical protein,Growth Advantage,H37Rv,0.984,-0.23,2.941,False,,O05887
+Rv3243c,-,hypothetical protein,Growth Advantage,H37Rv,0.595,-0.88,3.085,False,,O05888
+Rv3289c,-,transmembrane protein,Growth Advantage,H37Rv,0.496,-3.056,5.093,False,,P96894
+Rv3295,-,transcriptional regulator TetR-family,Growth Advantage,H37Rv,0.994,0.023,2.678,False,,P96900
+Rv3346c,-,transmembrane protein,Growth Advantage,H37Rv,-1.911,-7.201,3.655,False,,O50377
+Rv3351c,-,oxidoreductase,Growth Advantage,H37Rv,-0.649,-3.329,2.308,False,,O50380
+Rv3352c,-,oxidoreductase,Growth Advantage,H37Rv,0.476,-2.535,4.594,False,,O50381
+Rv3353c,-,oxidoreductase,Growth Advantage,H37Rv,0.1,-0.758,1.332,False,,O50382
+Rv3354,-,hypothetical protein,Growth Advantage,H37Rv,0.729,-0.612,2.629,False,,O50383
+Rv3355c,-,membrane protein,Growth Advantage,H37Rv,-4.225,-8.638,0.534,False,,O50384
+Rv3402c,-,hypothetical protein,Growth Advantage,H37Rv,0.995,-1.637,4.882,False,,P9WGJ7
+Rv3403c,-,hypothetical protein,Growth Advantage,H37Rv,1.139,-1.101,4.79,False,,P9WKZ5
+Rv3404c,-,hypothetical protein,Growth Advantage,H37Rv,1.341,-1.061,4.996,False,,P9WKZ3
+Rv3433c,-,hypothetical protein,Growth Advantage,H37Rv,0.477,-0.584,2.199,False,,P9WF11
+Rv3434c,-,transmembrane protein,Growth Advantage,H37Rv,0.431,-1.726,3.939,False,,I6YC44
+Rv3437,-,transmembrane protein,Growth Advantage,H37Rv,1.294,-0.23,3.863,False,,I6YG51
+Rv3438,-,hypothetical protein,Growth Advantage,H37Rv,-2.302,-3.679,-0.331,False,,I6X7B3
+Rv3439c,-,alanine and proline rich protein,Growth Advantage,H37Rv,0.942,-0.839,3.721,False,,I6YC49
+Rv3440c,-,hypothetical protein,Growth Advantage,H37Rv,Not Present.,Not Present.,Not Present.,Not Present.,Not Present.,O06257
+Rv3485c,-,oxidoreductase,Growth Advantage,H37Rv,0.589,-1.373,2.718,False,,O06348
+Rv3486,-,hypothetical protein,Growth Advantage,H37Rv,0.366,-2.815,4.565,False,,O06349
+Rv3524,-,membrane protein,Growth Advantage,H37Rv,1.284,-0.344,4.254,False,,I6X7J6
+Rv3525c,-,siderophore-binding protein,Growth Advantage,H37Rv,0.076,-1.299,1.995,False,,I6YCB9
+Rv3725,-,oxidoreductase,Growth Advantage,H37Rv,1.017,-0.548,3.534,False,,O69692
+Rv3726,-,oxidoreductase,Growth Advantage,H37Rv,0.846,-0.532,3.145,False,,O69693
+Rv3727,-,oxidoreductase,Growth Advantage,H37Rv,1.353,-0.522,4.556,False,,O69694
+Rv3740c,-,diacylglycerol acyltransferase,Growth Advantage,H37Rv,0.595,-1.308,3.27,False,,P9WKA5
+Rv3741c,-,oxidoreductase,Growth Advantage,H37Rv,0.409,-0.568,1.942,False,,O69708
+Rv3742c,-,oxidoreductase,Growth Advantage,H37Rv,-2.399,-12.751,9.736,False,,O69709
+Rv3784,-,"dTDP-glucose 4,6-dehydratase",Growth Advantage,H37Rv,1.135,-0.59,3.929,False,,P72050
+Rv3785,-,hypothetical protein,Growth Advantage,H37Rv,1.063,-0.631,4.041,False,,P9WKX1
+Rv3786c,-,hypothetical protein,Growth Advantage,H37Rv,0.938,-1.474,4.202,False,,P9WKW9
+Rv3787c,-,hypothetical protein,Growth Advantage,H37Rv,1.274,-1.28,5.098,False,,P9WFH3
+Rv3788,-,hypothetical protein,Growth Advantage,H37Rv,0.897,-0.192,2.676,False,,P9WKW7
+Rv3839,-,hypothetical protein,Growth Advantage,H37Rv,0.925,-2.253,4.654,False,,P96239
+Rv3840,-,transcriptional regulator,Growth Advantage,H37Rv,0.684,-0.228,2.043,False,,P96238
+Rv3901c,-,membrane protein,Growth Advantage,H37Rv,-0.292,-0.46,-0.127,False,,O05444
