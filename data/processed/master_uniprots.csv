@@ -3939,11 +3939,11 @@ Rv0723,rplO,50S ribosomal protein L15 RplO,Uncertain,H37Rv,-15.142,-17.77,-12.52
 Rv1311,atpC,ATP synthase epsilon chain AtpC,Uncertain,H37Rv,-11.881,-13.551,-10.141,True,P9WPV1,0,0
 ,pncA,Nicotinamide deamidase,,,,,,,Q50575,1,0
 ,ptbB,Phosphotyrosine protein phosphatase ptpB,,,,,,,A0A0H3M0T0,1,0
-MRA_3015,hupB,DNA-binding protein HupB,,Hr7Rv,,,,,A5U6Z7,1,0
+MRA_3015,hupB,DNA-binding protein HupB,,Hr7Ra,,,,,A5U6Z7,1,0
 MT0483,icl1,Isocitrate lyase 1,,CDC1551,,,,,P9WKK6,1,0
 ,iphP,Phosphotyrosine protein phosphatase,,,,,,,A0A045ISB3,1,0
 ,birA,biotin--[biotin carboxyl-carrier protein] ligase,,,,,,,P96884,1,0
-MRA_2218,adoK,Adenosine kinase,,Hr7Rv,,,,,A5U4N0,1,0
+MRA_2218,adoK,Adenosine kinase,,Hr7Ra,,,,,A5U4N0,1,0
 MT1988,,Epoxide hydrolase B,,CDC1551,,,,,P95276,1,0
 MT1345,atpE,ATP synthase subunit c,,CDC1551,,,,,P9WPS0,1,0
 MT3571,rmlC,"dTDP-4-dehydrorhamnose 3,5-epimerase",,CDC1551,,,,,P9WH10,1,0
