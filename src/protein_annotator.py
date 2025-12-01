@@ -1,8 +1,10 @@
+import os
 import requests
 from tqdm import tqdm
 import pandas as pd
 import argparse
 
+TAXID = 83332
 
 def query_uniprot(uniprot_ac):
     url = f"https://rest.uniprot.org/uniprotkb/{uniprot_ac}"
@@ -113,7 +115,38 @@ def query_chembl(uniprot_ac):
     return {"chembl_count": len(all_molecules)}
 
 
-def annotate_proteins(uniprot_acs):
+def query_panther(uniprot_ac):
+    url = f"https://pantherdb.org/services/oai/pantherdb/geneinfo?geneInputList={uniprot_ac}&organism={TAXID}"
+    r = requests.get(url)
+    data = r.json()
+    if "mapped_genes" not in data["search"]:
+        return {
+            "panther_family_name": None,
+            "panther_sf_name": None,
+            "panther_annotation": None,
+        }
+    gene = data["search"]["mapped_genes"]["gene"]
+    family_name = gene.get("family_name", None)
+    sf_name = gene.get("sf_name", None)
+    annotations = []
+    if "annotation_type_list" not in gene:
+        return {
+            "panther_family_name": family_name,
+            "panther_sf_name": sf_name,
+            "panther_annotation": None,
+        }
+    for entry in gene["annotation_type_list"]["annotation_data_type"]:
+        if entry.get("content") == "ANNOT_TYPE_ID_PANTHER_PC":
+            ann = entry["annotation_list"]["annotation"]["name"]
+            annotations.append(ann)
+    return {
+        "panther_family_name": family_name,
+        "panther_sf_name": sf_name,
+        "panther_annotation": "; ".join(annotations),
+    }
+
+
+def annotate_proteins(uniprot_acs, output_file):
     columns=[
         "uniprot_ac",
         "gene_name",
@@ -125,13 +158,22 @@ def annotate_proteins(uniprot_acs):
         "pdb_count",
         "alphafold_conf",
         "chembl_count",
+        "panther_family_name",
+        "panther_sf_name",
+        "panther_annotation",
     ]
-    R = []
+    if not os.path.exists(output_file):
+        df = pd.DataFrame(columns=columns)
+        df.to_csv(output_file, index=False)
     for uniprot_ac in tqdm(uniprot_acs, desc="Annotating proteins"):
+        df = pd.read_csv(output_file)
+        if uniprot_ac in df["uniprot_ac"].values:
+            continue
         uniprot_data = query_uniprot(uniprot_ac)
         pdb_data = query_pdb(uniprot_ac)
         alphafold_data = query_alphafold(uniprot_ac)
         chembl_data = query_chembl(uniprot_ac)
+        panther_data = query_panther(uniprot_ac)
         data = [
             uniprot_data["uniprot_ac"],
             uniprot_data["gene_name"],
@@ -143,10 +185,13 @@ def annotate_proteins(uniprot_acs):
             pdb_data["pdb_count"],
             alphafold_data["alphafold_conf"],
             chembl_data["chembl_count"],
+            panther_data["panther_family_name"],
+            panther_data["panther_sf_name"],
+            panther_data["panther_annotation"],
         ]
-        R += [data]
-    df = pd.DataFrame(R, columns=columns)
-    return df
+        df_ = pd.DataFrame([data], columns=columns)
+        df = pd.concat([df, df_], ignore_index=True)
+        df.to_csv(output_file, index=False)
 
 
 def main():
@@ -158,8 +203,7 @@ def main():
     output_file = parsed_args.output_file
     input_df = pd.read_csv(input_file)
     uniprot_acs = input_df["uniprot_ac"].tolist()
-    annotated_df = annotate_proteins(uniprot_acs)
-    annotated_df.to_csv(output_file, index=False)
+    annotate_proteins(uniprot_acs, output_file)
 
 
 if __name__ == "__main__":

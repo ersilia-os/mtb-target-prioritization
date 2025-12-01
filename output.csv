@@ -1,0 +1,10 @@
+uniprot_ac,gene_name,full_name,organism,protein_length,uniprot_reviewed,protein_evidence,pdb_count,alphafold_conf,chembl_count
+P96262,thiS,,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),68,False,False,0,95.0,0
+P9WG75,thiE,Thiamine-phosphate synthase,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),222,True,True,1,95.5,0
+P9WGD5,ssb,Single-stranded DNA-binding protein,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),164,True,True,6,84.69,0
+P9WH45,rpsS,Small ribosomal subunit protein uS19,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),93,True,True,10,88.25,0
+P9WH51,rpsQ,Small ribosomal subunit protein uS17,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),135,True,True,10,80.81,0
+P9WH61,rpsM,Small ribosomal subunit protein uS13,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),124,True,True,10,91.62,0
+P9WH29,rpsG,Small ribosomal subunit protein uS7,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),156,True,True,11,94.56,0
+P9WH31,rpsF,Small ribosomal subunit protein bS6,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),96,True,True,10,94.44,0
+P9WGY5,rpoZ,DNA-directed RNA polymerase subunit omega,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),110,True,True,81,83.06,0
