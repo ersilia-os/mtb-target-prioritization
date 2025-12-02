@@ -136,6 +136,8 @@ def query_panther(uniprot_ac):
             "panther_annotation": None,
         }
     for entry in gene["annotation_type_list"]["annotation_data_type"]:
+        if type(entry) is not dict:
+            continue
         if entry.get("content") == "ANNOT_TYPE_ID_PANTHER_PC":
             ann = entry["annotation_list"]["annotation"]["name"]
             annotations.append(ann)
