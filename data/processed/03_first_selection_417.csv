@@ -1,0 +1,418 @@
+rank,index,uniprot_ac,gene_name,orf_id,full_name,protein_length,is_known,in_chembl,is_essential,is_growth_defect,is_vulnerable,chembl_count,essentiality,vi,vi_hc,pdb_count,alphafold_conf,panther_sf_name,panther_annotation
+1,218,P9WQD9,kasA,Rv2245,3-oxoacyl-[acyl-carrier-protein] synthase 1,416.0,1,1,1,0,1,34,Essential,-12.686,1,14,98.5,"3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE, MITOCHONDRIAL",
+2,304,O53580,fadD32,Rv3801c,Long-chain-fatty-acid--AMP ligase FadD32,637.0,1,1,1,0,1,35,Essential,-12.037,1,1,89.5,DISCO-INTERACTING PROTEIN 2,
+3,254,P9WG45,gyrB,Rv0005,DNA gyrase subunit B,675.0,1,1,1,0,1,397,Essential,-11.389,1,21,89.0,"DNA GYRASE SUBUNIT B, MITOCHONDRIAL",DNA topoisomerase
+4,349,P9WPC9,clpC1,Rv3596c,ATP-dependent Clp protease ATP-binding subunit ClpC1,848.0,1,1,1,0,1,19,Essential,-10.569,1,21,82.81,PROTEIN SUPPRESSOR OF MAX2 1,chaperone
+5,223,P9WGR1,inhA,Rv1484,Enoyl-[acyl-carrier-protein] reductase [NADH],269.0,1,1,1,0,1,971,Essential,-9.913,1,114,94.19,"ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE [NADH], CHLOROPLASTIC",reductase
+6,83,P9WGY9,rpoB,Rv0667,DNA-directed RNA polymerase subunit beta,1178.0,1,1,1,0,1,10,Essential,-9.567,1,89,91.12,DNA-DIRECTED RNA POLYMERASE SUBUNIT BETA,DNA-directed RNA polymerase
+7,323,P9WJF1,dprE1,Rv3790,Decaprenylphosphoryl-beta-D-ribose oxidase,461.0,1,1,1,0,1,187,Essential,-9.417,1,27,94.81,CYTOKININ DEHYDROGENASE 6,oxidase
+8,255,P9WG47,gyrA,Rv0006,DNA gyrase subunit A,838.0,1,1,1,0,0,399,Essential,-9.076,1,19,88.88,"DNA GYRASE SUBUNIT A, CHLOROPLASTIC_MITOCHONDRIAL",DNA topoisomerase
+9,144,I6X8D2,pks13,Rv3800c,Polyketide synthase Pks13,1733.0,1,1,1,0,0,66731,Essential,-9.055,1,30,83.19,SI:DKEY-61P9.11,
+10,214,P9WFV1,leuS,Rv0041,Leucine--tRNA ligase,969.0,1,1,1,0,0,86,Essential,-8.704,1,4,90.75,"LEUCINE--TRNA LIGASE, MITOCHONDRIAL",aminoacyl-tRNA synthetase
+11,358,P9WPS1,atpE,Rv1305,ATP synthase subunit c,81.0,1,1,1,0,0,21,Essential,-8.676,1,6,95.31,ATPASE PROTEIN 9,ATP synthase
+12,234,P9WHQ9,hpt,Rv3624c,Hypoxanthine-guanine phosphoribosyltransferase,202.0,1,1,1,0,0,13,Essential,-8.109,1,7,89.19,HYPOXANTHINE PHOSPHORIBOSYLTRANSFERASE,glycosyltransferase
+13,47,P9WKE1,tmk,Rv3247c,Thymidylate kinase,214.0,1,1,1,0,0,266,Essential,-6.481,1,21,95.38,"UMP-CMP KINASE 2, MITOCHONDRIAL",nucleotide kinase
+14,203,P9WIP3,menA,Rv0534c,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",292.0,1,1,1,0,0,31,Essential,-5.845,1,0,94.81,UBIA PRENYLTRANSFERASE DOMAIN-CONTAINING PROTEIN 1,transferase
+15,139,O33336,pptT,Rv2794c,4'-phosphopantetheinyl transferase PptT,227.0,1,1,1,0,0,22,Essential,-4.522,1,12,96.06,ENTEROBACTIN SYNTHASE COMPONENT D,
+16,380,P9WQA9,alr,Rv3423c,Alanine racemase,384.0,1,1,1,0,0,1,Essential,-4.21,1,4,96.0,"ALANINE RACEMASE, CATABOLIC-RELATED",epimerase/racemase
+17,829,P9WP37,qcrB,Rv2196,Cytochrome bc1 complex cytochrome b subunit,549.0,1,1,0,1,0,6,Growth Defect,-7.745,1,4,94.75,CYTOCHROME B,
+18,839,P95160,ndh,Rv1854c,Type II NADH:quinone oxidoreductase Ndh,463.0,1,1,0,1,0,7,Growth Defect,-1.691,1,2,92.75,64 KDA MITOCHONDRIAL NADH DEHYDROGENASE (EUROFUNG),
+19,856,P9WKK7,icl,Rv0467,Isocitrate lyase,428.0,1,1,0,1,0,89,Growth Defect,-0.867,1,11,97.44,BIFUNCTIONAL GLYOXYLATE CYCLE PROTEIN,lyase
+20,689,P9WIB9,Rv1885c,Rv1885c,Secreted chorismate mutase,199.0,1,1,0,0,0,14,Growth Advantage,1.15,0,7,89.25,SECRETED CHORISMATE MUTASE,mutase
+21,2020,P9WMF9,devR,Rv3133c,DNA-binding transcriptional activator DevR/DosR,217.0,1,1,0,0,0,11,NonEssential,1.549,0,4,84.19,DNA-BINDING TRANSCRIPTIONAL ACTIVATOR DEVR_DOSR,winged helix/forkhead transcription factor
+22,32,P9WFR5,Rv3806c,Rv3806c,Decaprenyl-phosphate phosphoribosyltransferase,302.0,1,0,1,0,1,0,Essential,-12.805,1,2,91.25,DECAPRENYL-PHOSPHATE PHOSPHORIBOSYLTRANSFERASE,acyltransferase
+23,473,P9WJV5,mmpL3,Rv0206c,Trehalose monomycolate exporter MmpL3,944.0,1,0,1,0,1,0,Essential Domain,-11.013,1,1,79.31,MEMBRANE PROTEIN SCO6666-RELATED,
+24,312,P9WJY5,efpA,Rv2846c,Uncharacterized MFS-type transporter EfpA,530.0,1,0,1,0,1,0,Essential,-10.555,1,8,83.81,BLR6921 PROTEIN,transporter
+25,81,P9WH43,rpsA,Rv1630,Small ribosomal subunit protein bS1,481.0,1,0,1,0,1,0,Essential,-9.356,1,3,71.31,SMALL RIBOSOMAL SUBUNIT PROTEIN BS1C,ribosomal protein
+26,44,P9WFY1,trpA,Rv1613,Tryptophan synthase alpha chain,270.0,1,0,1,0,0,0,Essential,-7.188,1,12,92.5,"TRYPTOPHAN SYNTHASE ALPHA CHAIN, CHLOROPLASTIC",lyase
+27,43,P9WFX9,trpB,Rv1612,Tryptophan synthase beta chain,421.0,1,0,1,0,0,0,Essential,-6.865,1,14,95.38,TRYPTOPHAN SYNTHASE,
+28,310,P9WNL7,embB,Rv3795,Probable arabinosyltransferase B,1098.0,1,0,1,0,0,0,Essential,-5.845,1,1,92.69,,
+29,453,I6Y4C7,murT,Rv3712,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT,413.0,1,0,1,0,0,0,Essential,-5.811,1,0,91.69,LIPID II ISOGLUTAMINYL SYNTHASE (GLUTAMINE-HYDROLYZING) SUBUNIT MURT,ligase
+30,344,I6XI14,cobQ2,Rv3713,Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD,231.0,1,0,1,0,0,0,Essential,-5.488,1,0,96.31,,
+31,159,P9WIL3,panD,Rv3601c,Aspartate 1-decarboxylase,139.0,1,0,1,0,0,0,Essential,-4.065,1,9,94.56,ASPARTATE 1-DECARBOXYLASE,decarboxylase
+32,2127,P9WKD3,blaC,Rv2068c,Beta-lactamase,307.0,1,0,0,0,0,0,NonEssential,0.726,0,79,91.94,BETA-LACTAMASE-TYPE TRANSPEPTIDASE FOLD CONTAINING PROTEIN,
+33,279,P9WIQ1,glf,Rv3809c,UDP-galactopyranose mutase,399.0,0,1,1,0,1,143,Essential,-13.407,1,6,95.38,UDP-GALACTOPYRANOSE MUTASE,mutase
+34,291,P9WN95,ftsZ,Rv2150c,Cell division protein FtsZ,379.0,0,1,1,0,1,41,Essential,-13.215,1,11,82.0,MITOCHONDRIAL DIVISION PROTEIN FSZA,
+35,362,P9WFW3,aspS,Rv2572c,Aspartate--tRNA(Asp/Asn) ligase,594.0,0,1,1,0,1,8841,Essential,-13.212,1,1,94.12,"ASPARTATE--TRNA LIGASE, MITOCHONDRIAL",aminoacyl-tRNA synthetase
+36,277,O53585,glfT2,Rv3808c,Galactofuranosyltransferase GlfT2,637.0,0,1,1,0,1,49,Essential,-12.751,1,2,94.19,GALACTOFURANOSYLTRANSFERASE GLFT2,glycosyltransferase
+37,320,P9WNS3,dxs,Rv2682c,1-deoxy-D-xylulose-5-phosphate synthase,638.0,0,1,1,0,1,31,Essential,-11.293,1,4,90.62,"1-DEOXY-D-XYLULOSE-5-PHOSPHATE SYNTHASE, CHLOROPLASTIC",transferase
+38,432,P9WFF7,uppS,Rv2361c,Decaprenyl diphosphate synthase,296.0,0,1,1,0,1,1,Essential,-10.993,1,5,92.94,DEHYDRODOLICHYL DIPHOSPHATE SYNTHASE 2,acyltransferase
+39,347,P9WPC3,clpP2,Rv2460c,ATP-dependent Clp protease proteolytic subunit 2,214.0,0,1,1,0,1,68622,Essential,-10.58,1,16,92.19,ATP-DEPENDENT CLP PROTEASE PROTEOLYTIC SUBUNIT-LIKE-RELATED,serine protease
+40,38,P9WFT3,trpS,Rv3336c,Tryptophan--tRNA ligase,336.0,0,1,1,0,1,65366,Essential,-10.174,1,6,94.0,"TRYPTOPHAN--TRNA LIGASE, MITOCHONDRIAL",aminoacyl-tRNA synthetase
+41,256,P9WKI7,guaB,Rv3411c,Inosine-5'-monophosphate dehydrogenase,529.0,0,1,1,0,1,8,Essential,-10.118,1,12,89.44,INOSINE-5'-MONOPHOSPHATE DEHYDROGENASE,dehydrogenase
+42,348,P9WPC5,clpP1,Rv2461c,ATP-dependent Clp protease proteolytic subunit 1,200.0,0,1,1,0,1,68622,Essential,-9.971,1,20,90.81,ATP-DEPENDENT CLP PROTEASE PROTEOLYTIC SUBUNIT,serine protease
+43,238,P9WMN1,hisG,Rv2121c,ATP phosphoribosyltransferase,284.0,0,1,1,0,1,13,Essential,-9.384,1,5,95.62,ATP PHOSPHORIBOSYLTRANSFERASE,glycosyltransferase
+44,356,P9WPU9,atpG,Rv1309,ATP synthase gamma chain,305.0,0,1,1,0,1,21,Essential,-9.292,1,3,90.25,"ATP SYNTHASE SUBUNIT GAMMA, MITOCHONDRIAL",ATP synthase
+45,361,P9WPU7,atpA,Rv1308,ATP synthase subunit alpha,549.0,0,1,1,0,1,21,Essential,-9.273,1,3,92.31,"ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL",ATP synthase
+46,3935,P9WPV1,atpC,Rv1311,ATP synthase epsilon chain,121.0,0,1,0,0,1,21,Uncertain,-11.881,1,5,94.44,"ATP SYNTHASE EPSILON CHAIN, CHLOROPLASTIC",ATP synthase
+47,329,P9WMR3,dnaB,Rv0058,Replicative DNA helicase DnaB,874.0,0,1,1,0,0,2126,Essential,-8.982,1,1,81.56,REPLICATIVE DNA HELICASE,DNA helicase
+48,275,P9WQ17,glgE,Rv1327c,"Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase",701.0,0,1,1,0,0,1,Essential,-8.952,1,0,94.44,GLYCOSYL HYDROLASE FAMILY 13 CATALYTIC DOMAIN-CONTAINING PROTEIN,transferase
+49,357,P9WPV5,atpF,Rv1306,ATP synthase subunit b,171.0,0,1,1,0,0,21,Essential,-8.713,1,3,86.62,ATP SYNTHASE SUBUNIT B,ATP synthase
+50,359,P9WPU5,atpD,Rv1310,ATP synthase subunit beta,486.0,0,1,1,0,0,21,Essential,-8.575,1,3,88.75,"ATP SYNTHASE SUBUNIT BETA, MITOCHONDRIAL",ATP synthase
+51,178,P9WMW7,mraY,Rv2156c,Phospho-N-acetylmuramoyl-pentapeptide-transferase,359.0,0,1,1,0,0,2,Essential,-8.526,1,0,93.12,PHOSPHO-N-ACETYLMURAMOYL-PENTAPEPTIDE-TRANSFERASE HOMOLOG,glycosyltransferase
+52,145,P9WI81,pknB,Rv0014c,Serine/threonine-protein kinase PknB,626.0,0,1,1,0,0,321,Essential,-8.232,1,24,84.25,SERINE_THREONINE-PROTEIN KINASE NEKL-3,non-receptor serine/threonine protein kinase
+53,179,P9WPW9,murI,Rv1338,Glutamate racemase,271.0,0,1,1,0,0,5,Essential,-8.142,1,1,95.25,GLUTAMATE RACEMASE,
+54,273,P9WMN3,glmU,Rv1018c,Bifunctional protein GlmU,495.0,0,1,1,0,0,125,Essential,-8.118,1,15,95.19,BIFUNCTIONAL PROTEIN GLMU,nucleotidyltransferase
+55,360,P9WPV7,atpB,Rv1304,ATP synthase subunit a,250.0,0,1,1,0,0,21,Essential,-8.113,1,6,55.0,"ATP SYNTHASE SUBUNIT A, CHLOROPLASTIC",ATP synthase
+56,340,P9WP25,dapA,Rv2753c,4-hydroxy-tetrahydrodipicolinate synthase,300.0,0,1,1,0,0,16,Essential,-8.061,1,4,97.81,"4-HYDROXY-2-OXOGLUTARATE ALDOLASE, MITOCHONDRIAL",lyase
+57,355,P9WPV3,atpFH,Rv1307,ATP synthase subunit b-delta,446.0,0,1,1,0,0,21,Essential,-7.703,1,3,91.12,"ATP SYNTHASE SUBUNIT DELTA, CHLOROPLASTIC",ATP synthase
+58,331,P9WNZ1,coaBC,Rv1391,Coenzyme A biosynthesis bifunctional protein CoaBC,418.0,0,1,1,0,0,66942,Essential,-7.601,1,0,92.88,PHOSPHOPANTOTHENOYLCYSTEINE DECARBOXYLASE,decarboxylase
+59,171,P9WH75,nrdE,Rv3051c,Ribonucleoside-diphosphate reductase subunit alpha,725.0,0,1,1,0,0,7,Essential,-7.523,1,0,92.38,RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE 2 SUBUNIT ALPHA,reductase
+60,146,P9WI83,pknA,Rv0015c,Serine/threonine-protein kinase PknA,431.0,0,1,1,0,0,24,Essential,-7.402,1,5,76.81,SERINE_THREONINE-PROTEIN KINASE NEKL-3,non-receptor serine/threonine protein kinase
+61,335,P9WP31,ddl,Rv2981c,D-alanine--D-alanine ligase,373.0,0,1,1,0,0,1,Essential,-7.278,1,1,91.12,D-ALANINE--D-ALANINE LIGASE A,ligase
+62,219,P9WKG5,ispF,Rv3581c,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",159.0,0,1,1,0,0,1,Essential,-7.073,1,0,96.25,"2-C-METHYL-D-ERYTHRITOL 2,4-CYCLODIPHOSPHATE SYNTHASE, CHLOROPLASTIC",
+63,37,P9WHH1,trxB,Rv3913,Thioredoxin reductase,335.0,0,1,1,0,0,17,Essential,-7.059,1,1,91.62,THIOREDOXIN REDUCTASE 1-RELATED,reductase
+64,321,P9WNS1,dxr,Rv2870c,1-deoxy-D-xylulose 5-phosphate reductoisomerase,413.0,0,1,1,0,0,166,Essential,-7.048,1,17,92.38,"1-DEOXY-D-XYLULOSE 5-PHOSPHATE REDUCTOISOMERASE, CHLOROPLASTIC",oxidoreductase
+65,67,O53289,serB2,Rv3042c,Phosphoserine phosphatase SerB2,409.0,0,1,1,0,0,13,Essential,-6.983,1,0,93.56,PHOSPHOSERINE PHOSPHATASE,phosphatase
+66,182,P9WJL3,murE,Rv2158c,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",535.0,0,1,1,0,0,1,Essential,-6.728,1,2,91.5,"UDP-N-ACETYLMURAMOYL-L-ALANYL-D-GLUTAMATE--2,6-DIAMINOPIMELATE LIGASE MURE HOMOLOG, CHLOROPLASTIC",ligase
+67,311,P9WNL9,embA,Rv3794,Probable arabinosyltransferase A,1094.0,0,1,1,0,0,3,Essential,-6.452,1,1,95.31,,
+68,103,P9WHE9,ribH,Rv1416,"6,7-dimethyl-8-ribityllumazine synthase",160.0,0,1,1,0,0,8,Essential,-6.44,1,8,95.25,"6,7-DIMETHYL-8-RIBITYLLUMAZINE SYNTHASE",transferase
+69,142,P9WI55,ppa,Rv3628,Inorganic pyrophosphatase,162.0,0,1,1,0,0,24,Essential,-6.243,1,10,96.44,SOLUBLE INORGANIC PYROPHOSPHATASE 4,pyrophosphatase
+70,140,P9WHV7,ppnK,Rv1695,NAD kinase,307.0,0,1,1,0,0,15,Essential,-6.01,1,4,88.0,NAD KINASE,nucleotide kinase
+71,368,P9WPX7,aroQ,Rv2537c,3-dehydroquinate dehydratase,147.0,0,1,1,0,0,43,Essential,-5.925,1,33,94.88,CATABOLIC 3-DEHYDROQUINASE,
+72,49,P9WG57,thyX,Rv2754c,Flavin-dependent thymidylate synthase,250.0,0,1,1,0,0,26,Essential,-4.915,1,4,95.5,FLAVIN-DEPENDENT THYMIDYLATE SYNTHASE,
+73,98,P9WKD7,rpiB,Rv2465c,Ribose-5-phosphate isomerase B,162.0,0,1,1,0,0,10,Essential,-4.875,1,6,97.5,DNA DAMAGE-REPAIR_TOLERATION PROTEIN DRT102,isomerase
+74,100,P9WH09,rmlD,Rv3266c,dTDP-4-dehydrorhamnose reductase,304.0,0,1,1,0,0,50,Essential,-4.437,1,0,93.06,METHIONINE ADENOSYLTRANSFERASE 2 SUBUNIT BETA,reductase
+75,160,P9WIL5,panC,Rv3602c,Pantothenate synthetase,309.0,0,1,1,0,0,185,Essential,-3.926,1,40,92.81,PANTOATE--BETA-ALANINE LIGASE,
+76,202,P9WNP5,menB,Rv0548c,"1,4-dihydroxy-2-naphthoyl-CoA synthase",314.0,0,1,1,0,0,51,Essential,-3.806,1,8,93.94,"1,4-DIHYDROXY-2-NAPHTHOYL-COA SYNTHASE, PEROXISOMAL",epimerase/racemase
+77,213,P9WNV1,ligA,Rv3014c,DNA ligase A,691.0,0,1,1,0,0,5,Essential,-3.706,1,10,88.88,DNA LIGASE,DNA metabolism protein
+78,19,P9WIC1,Rv0948c,Rv0948c,Intracellular chorismate mutase,105.0,0,1,1,0,0,14,Essential,-2.48,0,7,86.12,CHORISMATE MUTASE,mutase
+79,334,P9WIJ3,def,Rv0429c,Peptide deformylase,197.0,0,1,1,0,0,14,Essential,-2.126,1,1,96.62,"PEPTIDE DEFORMYLASE, MITOCHONDRIAL",hydrolase
+80,456,O53581,cut6,Rv3802c,Carboxylesterase/lipase Culp6,336.0,0,1,1,0,0,24,Essential,-1.369,1,1,90.62,CUTINASE 4,
+81,302,P9WQA3,fba,Rv0363c,Fructose-bisphosphate aldolase,344.0,0,1,1,0,0,185,Essential,-1.165,1,8,94.0,FRUCTOSE-BISPHOSPHATE ALDOLASE,aldolase
+82,101,P9WH11,rmlC,Rv3465,"dTDP-4-dehydrorhamnose 3,5-epimerase",202.0,0,1,1,0,0,1,Essential,-0.988,1,3,97.75,"THYMIDINE DIPHOSPHO-4-KETO-RHAMNOSE 3,5-EPIMERASE",epimerase/racemase
+83,16,I6YFP0,birA,Rv3279c,Biotin--[acetyl-CoA-carboxylase] ligase,266.0,0,1,1,0,0,13,Essential,-0.168,0,13,96.38,BIOTIN--PROTEIN LIGASE,ligase
+84,877,P9WNX1,folA,Rv2763c,Dihydrofolate reductase,161.0,0,1,0,1,0,73,Growth Defect,-7.65,1,59,96.19,DIHYDROFOLATE REDUCTASE,reductase
+85,857,P9WMK7,hupB,Rv2986c,DNA-binding protein HupB,216.0,0,1,0,1,0,0,Growth Defect,-2.843,1,0,72.69,DNA-BINDING PROTEIN HU-BETA,DNA metabolism protein
+86,809,P9WFR9,thyA,Rv2764c,Thymidylate synthase ThyA,266.0,0,1,0,1,0,14,Growth Defect,-2.617,1,5,97.94,THYMIDYLATE SYNTHASE,methyltransferase
+87,890,P9WID5,adoK,Rv2202c,Adenosine kinase,324.0,0,1,0,1,0,18,Growth Defect,-2.305,1,13,96.56,ADENOSINE KINASE,carbohydrate kinase
+88,849,P9WHH9,lpdC,Rv0462,Dihydrolipoyl dehydrogenase,464.0,0,1,0,1,0,124,Growth Defect,-2.052,1,6,97.44,DIHYDROLIPOYL DEHYDROGENASE,oxidoreductase
+89,842,P9WJM9,mshC,Rv2130c,L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase,414.0,0,1,0,1,0,47,Growth Defect,-1.849,1,0,96.31,"CYSTEINE--TRNA LIGASE, CYTOPLASMIC",aminoacyl-tRNA synthetase
+90,808,P9WFY7,trmD,Rv2906c,tRNA (guanine-N(1)-)-methyltransferase,230.0,0,1,0,1,0,3,Growth Defect,-1.232,1,5,96.0,TRNA (GUANINE-N(1)-)-METHYLTRANSFERASE,RNA processing factor
+91,1720,P9WQD7,kasB,Rv2246,3-oxoacyl-[acyl-carrier-protein] synthase 2,417.0,0,1,0,0,0,71,NonEssential,-7.491,0,1,97.5,"3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE, MITOCHONDRIAL",
+92,2012,P9WIS7,dlaT,Rv2215,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,553.0,0,1,0,0,0,53,NonEssential,-4.484,0,0,81.5,LIPOAMIDE ACYLTRANSFERASE COMPONENT OF BRANCHED-CHAIN ALPHA-KETO ACID DEHYDROGENASE COMPLEX,transferase
+93,1186,P9WIA1,ptpA,Rv2234,Low molecular weight protein-tyrosine phosphatase A,163.0,0,1,0,0,0,298,NonEssential,-3.496,0,3,94.56,LOW MOLECULAR WEIGHT PHOSPHOTYROSINE PROTEIN PHOSPHATASE,protein phosphatase
+94,1703,I6Y9J2,ldtB,Rv2518c,"L,D-transpeptidase 2",408.0,0,1,0,0,0,4,NonEssential,-2.936,0,44,91.44,"L,D-TRANSPEPTIDASE YCIB-RELATED",cysteine protease
+95,1459,P95200,ndhA,Rv0392c,Type II NADH:quinone oxidoreductase NdhA,470.0,0,1,0,0,0,7,NonEssential,-1.899,0,0,92.94,"EXTERNAL NADH-UBIQUINONE OXIDOREDUCTASE 1, MITOCHONDRIAL-RELATED",oxidoreductase
+96,1299,P9WI73,pknG,Rv0410c,Serine/threonine-protein kinase PknG,750.0,0,1,0,0,0,61,NonEssential,-1.734,0,4,86.94,SERINE_THREONINE KINASE LIKE DOMAIN CONTAINING 1,non-receptor serine/threonine protein kinase
+97,1581,P9WJN1,mca,Rv1082,Mycothiol S-conjugate amidase,288.0,0,1,0,0,0,42,NonEssential,-1.364,0,0,94.81,N-ACETYLGLUCOSAMINYL-PHOSPHATIDYLINOSITOL DE-N-ACETYLASE,deacetylase
+98,2035,P9WP55,cysK1,Rv2334,O-acetylserine sulfhydrylase,310.0,0,1,0,0,0,145,NonEssential,-1.151,0,4,97.12,CYSTATHIONINE BETA-SYNTHASE,lyase
+99,1957,I6YCQ4,ephE,Rv3670,,327.0,0,1,0,0,0,0,NonEssential,-1.1,0,0,93.19,AB HYDROLASE-1 DOMAIN-CONTAINING PROTEIN,serine protease
+100,1419,P9WNU7,pafA,Rv2097c,Pup--protein ligase,452.0,0,1,0,0,0,6,NonEssential,-0.866,0,0,94.62,PUP--PROTEIN LIGASE,
+101,2284,O07427,Rv0183,Rv0183,Monoacylglycerol lipase,279.0,0,1,0,0,0,19,NonEssential,-0.813,0,6,95.75,PHOSPHOLIPASE YTPA,phospholipase
+102,2687,P9WFF5,Rv1086,Rv1086,"(2Z,6E)-farnesyl diphosphate synthase",262.0,0,1,0,0,0,1,NonEssential,-0.718,0,3,92.5,DEHYDRODOLICHYL DIPHOSPHATE SYNTHASE COMPLEX SUBUNIT DHDDS,acyltransferase
+103,1188,I6WXK4,ptpB,Rv0153c,Triple specificity protein phosphatase PtpB,276.0,0,1,0,0,0,67,NonEssential,-0.691,0,0,86.5,TYROSINE SPECIFIC PROTEIN PHOSPHATASES DOMAIN-CONTAINING PROTEIN,protein phosphatase
+104,2135,P9WQ81,bioA,Rv1568,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,437.0,0,1,0,0,0,298,NonEssential,-0.239,0,20,95.56,ADENOSYLMETHIONINE-8-AMINO-7-OXONONANOATE AMINOTRANSFERASE,transaminase
+105,1965,P9WFK7,eis,Rv2416c,N-acetyltransferase Eis,402.0,0,1,0,0,0,127,NonEssential,-0.233,0,43,97.31,N-ACETYLTRANSFERASE EIS,acetyltransferase
+106,1177,P9WHJ3,recA,Rv2737c,Protein RecA,790.0,0,1,0,0,0,2119,NonEssential,-0.025,0,32,83.5,MITOCHONDRIAL DNA REPAIR PROTEIN RECA HOMOLOG-RELATED,DNA strand-pairing protein
+107,2023,P9WP01,punA,Rv3307,Purine nucleoside phosphorylase,268.0,0,1,0,0,0,44,NonEssential,0.174,0,8,94.12,PURINE NUCLEOSIDE PHOSPHORYLASE-RELATED,nucleotide kinase
+108,606,P9WP53,cysM,Rv1336,O-phosphoserine sulfhydrylase,323.0,0,1,0,0,0,1,Growth Advantage,0.258,0,11,94.06,CYSTEINE SYNTHASE B,lyase
+109,1487,P9WJN3,mshB,Rv1170,1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase,303.0,0,1,0,0,0,31,NonEssential,0.311,0,3,95.06,1D-MYO-INOSITOL 2-ACETAMIDO-2-DEOXY-ALPHA-D-GLUCOPYRANOSIDE DEACETYLASE,deacetylase
+110,1475,O05461,mycP1,Rv3883c,Mycosin-1,446.0,0,1,0,0,0,1,NonEssential,0.319,0,0,91.94,NEUROENDOCRINE CONVERTASE 1,serine protease
+111,631,O53645,Rv0194,Rv0194,Multidrug efflux ATP-binding/permease protein Rv0194,1194.0,0,1,0,0,0,1,Growth Advantage,0.412,0,0,84.75,MULTIDRUG EFFLUX ATP-BINDING_PERMEASE PROTEIN RV0194,ATP-binding cassette (ABC) transporter
+112,2120,P9WPJ7,mtcA1,Rv1284,Beta-carbonic anhydrase 1,163.0,0,1,0,0,0,142,NonEssential,0.605,0,1,97.5,CARBON DISULFIDE HYDROLASE,dehydratase
+113,2053,P9WPP1,cyp125,Rv3545c,Steroid C26-monooxygenase,433.0,0,1,0,0,0,30,NonEssential,0.641,0,23,94.0,BIOTIN BIOSYNTHESIS CYTOCHROME P450,oxygenase
+114,1695,P71668,lipI,Rv1400c,Esterase LipI,320.0,0,1,0,0,0,1,NonEssential,0.66,0,0,94.62,ALPHA_BETA HYDROLASE FOLD-3 DOMAIN-CONTAINING PROTEIN,deacetylase
+115,2119,P9WPJ9,mtcA2,Rv3588c,Carbonic anhydrase 2,207.0,0,1,0,0,0,57,NonEssential,0.71,0,2,96.75,CARBONIC ANHYDRASE 2,dehydratase
+116,2199,P9WQG9,aac,Rv0262c,Aminoglycoside 2'-N-acetyltransferase,181.0,0,1,0,0,0,7,NonEssential,0.826,0,4,96.31,ACETYLTRANSFERASE YPEA,acetyltransferase
+117,1893,P9WQ59,fadD28,Rv2941,Long-chain-fatty-acid--AMP ligase FadD28,580.0,0,1,0,0,0,417,NonEssential,0.856,0,2,90.19,DISCO-INTERACTING PROTEIN 2,
+118,573,P96935,lipG,Rv0646c,,301.0,0,1,0,0,0,1,Growth Advantage,0.901,0,0,96.31,AB HYDROLASE-1 DOMAIN-CONTAINING PROTEIN,hydrolase
+119,1687,P9WK85,lipR,Rv3084,Putative acetyl-hydrolase LipR,308.0,0,1,0,0,0,2,NonEssential,0.907,0,0,94.75,ACETYL-HYDROLASE LIPR-RELATED,hydrolase
+120,2105,P9WPD3,citA,Rv0889c,Putative citrate synthase 2,373.0,0,1,0,0,0,7,NonEssential,0.925,0,10,93.94,CITRATE SYNTHASE 2-RELATED,transferase
+121,2034,Q79FV4,cysK2,Rv0848,S-sulfocysteine synthase,372.0,0,1,0,0,0,12,NonEssential,0.937,0,0,92.12,CYSTATHIONINE BETA-SYNTHASE,lyase
+122,1960,I6YC03,ephB,Rv1938,Epoxide hydrolase B,356.0,0,1,0,0,0,0,NonEssential,0.954,0,0,97.31,BIFUNCTIONAL EPOXIDE HYDROLASE 2,hydrolase
+123,2406,O53728,Rv0443,Rv0443,,171.0,0,1,0,0,0,1,NonEssential,0.966,0,2,97.31,,
+124,1638,P9WGU9,lpqY,Rv1235,Trehalose-binding lipoprotein LpqY,468.0,0,1,0,0,0,6,NonEssential,1.012,0,9,92.56,ABC TRANSPORTER PERIPLASMIC-BINDING PROTEIN YCJN-RELATED,
+125,2050,P9WPN5,cyp130,Rv1256c,Cytochrome P450 130,405.0,0,1,0,0,0,3,NonEssential,1.018,0,5,94.62,BIOTIN BIOSYNTHESIS CYTOCHROME P450,oxygenase
+126,1300,P9WI75,pknF,Rv1746,Serine/threonine-protein kinase PknF,476.0,0,1,0,0,0,36,NonEssential,1.034,0,1,80.75,SERINE_THREONINE-PROTEIN KINASE NEKL-3,non-receptor serine/threonine protein kinase
+127,1927,P9WMC1,ethR,Rv3855,HTH-type transcriptional regulator EthR,216.0,0,1,0,0,0,80,NonEssential,1.035,0,88,91.88,HTH-TYPE TRANSCRIPTIONAL REGULATOR ETHR,Tet repressor-like transcription factor
+128,1901,P9WQ51,fadD19,Rv3515c,Medium/long-chain-fatty-acid--CoA/3-oxocholest-4-en-26-oate--CoA ligase,548.0,0,1,0,0,0,48,NonEssential,1.04,0,0,91.5,BUTANOATE--COA LIGASE AAE1-RELATED,ligase
+129,1686,O53488,lipT,Rv2045c,Carboxylic ester hydrolase,511.0,0,1,0,0,0,1,NonEssential,1.064,0,0,93.06,CARBOXYLIC ESTER HYDROLASE,hydrolase
+130,1841,P9WQN9,fbpC,Rv0129c,Diacylglycerol acyltransferase/mycolyltransferase Ag85C,340.0,0,1,0,0,0,50,NonEssential,1.097,0,18,87.88,DIACYLGLYCEROL ACYLTRANSFERASE_MYCOLYLTRANSFERASE AG85A,esterase
+131,1922,P9WNG3,fabH,Rv0533c,Mycobacterial beta-ketoacyl-[acyl-carrier-protein] synthase III,335.0,0,1,0,0,0,128,NonEssential,1.099,0,12,98.0,"BETA-KETOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE III, CHLOROPLASTIC",acetyltransferase
+132,1275,I6XD65,pncA,Rv2043c,Nicotinamidase/pyrazinamidase,186.0,0,1,0,0,0,0,NonEssential,1.113,0,1,97.31,LD05707P,
+133,1594,P71716,mbtA,Rv2384,Salicyl-AMP ligase / salicyl-S-ArCP synthetase,565.0,0,1,0,0,0,112,NonEssential,1.168,0,0,89.44,BUTANOATE--COA LIGASE AAE1-RELATED,ligase
+134,2694,P9WQP7,Rv1106c,Rv1106c,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase,370.0,0,1,0,0,0,20,NonEssential,1.312,0,0,92.56,"STEROL-4-ALPHA-CARBOXYLATE 3-DEHYDROGENASE, DECARBOXYLATING",dehydratase
+135,2038,P9WPP9,cyp51,Rv0764c,Sterol 14alpha-demethylase,451.0,0,1,0,0,0,30,NonEssential,1.33,0,12,93.06,LANOSTEROL 14-ALPHA DEMETHYLASE,oxygenase
+136,1692,Q50681,lipM,Rv2284,Probable carboxylic ester hydrolase LipM,431.0,0,1,0,0,0,1,NonEssential,1.365,0,0,92.81,KYNURENINE FORMAMIDASE,hydrolase
+137,1691,P95125,lipN,Rv2970c,Carboxylic ester hydrolase LipN,376.0,0,1,0,0,0,1,NonEssential,1.369,0,0,89.88,ALPHA_BETA HYDROLASE FOLD-3 DOMAIN-CONTAINING PROTEIN,deacetylase
+138,576,P9WQ77,lat,Rv3290c,L-lysine-epsilon aminotransferase,449.0,0,1,0,0,0,60,Growth Advantage,1.387,0,8,96.38,4-AMINOBUTYRATE AMINOTRANSFERASE GABT,transaminase
+139,1902,O53551,fadD17,Rv3506,Medium/long-chain-fatty-acid--CoA ligase FadD17,502.0,0,1,0,0,0,1,NonEssential,1.414,0,0,92.25,"FATTY ACID TRANSPORT PROTEIN 3, ISOFORM A",secondary carrier transporter
+140,1690,O06832,lipO,Rv1426c,,420.0,0,1,0,0,0,1,NonEssential,1.498,0,0,91.75,KYNURENINE FORMAMIDASE,hydrolase
+141,2056,P9WPP7,cyp121,Rv2276,Mycocyclosin synthase,396.0,0,1,0,0,0,75,NonEssential,1.526,0,58,95.69,CYTOCHROME P450 YJIB-RELATED,oxygenase
+142,2027,P9WP15,ddn,Rv3547,Deazaflavin-dependent nitroreductase,151.0,0,1,0,0,0,45,NonEssential,1.533,0,4,91.69,DEAZAFLAVIN-DEPENDENT NITROREDUCTASE,reductase
+143,3627,P96878,Rv3273,Rv3273,carbonic anhydrase,764.0,0,1,0,0,0,101,NonEssential,1.662,0,0,85.25,CARBONIC ANHYDRASE,transporter
+144,1483,P9WHH3,mtr,Rv2855,Mycothione reductase,459.0,0,1,0,0,0,5,NonEssential,2.077,0,3,97.75,DIHYDROLIPOYL DEHYDROGENASE,oxidoreductase
+145,92,P9WH81,rplF,Rv0719,Large ribosomal subunit protein uL6,179.0,0,0,1,0,1,0,Essential,-17.254,1,11,93.25,LARGE RIBOSOMAL SUBUNIT PROTEIN UL6M,ribosomal protein
+146,77,P9WH33,rpsE,Rv0721,Small ribosomal subunit protein uS5,220.0,0,0,1,0,1,0,Essential,-16.534,1,10,85.25,SMALL RIBOSOMAL SUBUNIT PROTEIN US5M,ribosomal protein
+147,93,P9WH83,rplE,Rv0716,Large ribosomal subunit protein uL5,187.0,0,0,1,0,1,0,Essential,-16.489,1,11,91.62,LARGE RIBOSOMAL SUBUNIT PROTEIN UL5M,ribosomal protein
+148,86,P9WHC1,rplV,Rv0706,Large ribosomal subunit protein uL22,197.0,0,0,1,0,1,0,Essential,-16.282,1,11,77.81,LARGE RIBOSOMAL SUBUNIT PROTEIN UL22M,ribosomal protein
+149,85,P9WHB9,rplW,Rv0703,Large ribosomal subunit protein uL23,100.0,0,0,1,0,1,0,Essential,-16.063,1,11,91.44,60S RIBOSOMAL PROTEIN L23A,ribosomal protein
+150,95,P9WH87,rplC,Rv0701,Large ribosomal subunit protein uL3,217.0,0,0,1,0,1,0,Essential,-15.711,1,11,94.19,LARGE RIBOSOMAL SUBUNIT PROTEIN UL3C,ribosomal protein
+151,70,P9WGN7,secE,Rv0638,Protein translocase subunit SecE,161.0,0,0,1,0,1,0,Essential,-15.489,1,0,64.75,PROTEIN TRANSLOCASE SUBUNIT SECE,
+152,74,P9WH63,rpsL,Rv0682,Small ribosomal subunit protein uS12,124.0,0,0,1,0,1,0,Essential,-15.356,1,10,95.5,"MITOCHONDRIAL RIBOSOMAL PROTEIN, SMALL",ribosomal protein
+153,88,P9WHD1,rplR,Rv0720,Large ribosomal subunit protein uL18,122.0,0,0,1,0,1,0,Essential,-15.27,1,11,96.06,LARGE RIBOSOMAL SUBUNIT PROTEIN UL18M,ribosomal protein
+154,90,P9WHD9,rplN,Rv0714,Large ribosomal subunit protein uL14,122.0,0,0,1,0,1,0,Essential,-15.161,1,11,96.56,LARGE RIBOSOMAL SUBUNIT PROTEIN UL14M,ribosomal protein
+155,173,P9WJJ5,nadD,Rv2421c,Probable nicotinate-nucleotide adenylyltransferase,214.0,0,0,1,0,1,0,Essential,-14.89,1,6,85.69,NICOTINAMIDE-NUCLEOTIDE ADENYLYLTRANSFERASE,nucleotidyltransferase
+156,96,P9WHA5,rplB,Rv0704,Large ribosomal subunit protein uL2,280.0,0,0,1,0,1,0,Essential,-14.844,1,10,95.62,LARGE RIBOSOMAL SUBUNIT PROTEIN UL2M,ribosomal protein
+157,166,P9WIU9,nusG,Rv0639,Transcription termination/antitermination protein NusG,238.0,0,0,1,0,1,0,Essential,-14.734,1,5,77.44,TRANSCRIPTION TERMINATION_ANTITERMINATION PROTEIN NUSG,
+158,79,P9WH37,rpsC,Rv0707,Small ribosomal subunit protein uS3,274.0,0,0,1,0,1,0,Essential,-14.65,1,10,82.06,SMALL RIBOSOMAL SUBUNIT PROTEIN US3C,ribosomal protein
+159,483,P9WMW3,Rv2581c,Rv2581c,Uncharacterized protein Rv2581c,224.0,0,0,1,0,1,0,Essential Domain,-14.341,1,0,94.38,HYDROXYACYLGLUTATHIONE HYDROLASE GLOC,hydrolase
+160,386,P9WQF3,acpM,Rv2244,Meromycolate extension acyl carrier protein,115.0,0,0,1,0,1,0,Essential,-13.924,1,1,73.88,CARRIER DOMAIN-CONTAINING PROTEIN,transfer/carrier protein
+161,253,P9WFK1,Rv0635,Rv0635,UPF0336 protein Rv0635,158.0,0,0,1,0,1,0,Essential,-13.683,1,6,95.19,"HYDROXYACYL-THIOESTER DEHYDRATASE TYPE 2, MITOCHONDRIAL",dehydratase
+162,259,P9WPE5,groES,Rv3418c,Co-chaperonin GroES,100.0,0,0,1,0,1,0,Essential,-13.681,1,4,91.75,CO-CHAPERONIN GROES,chaperonin
+163,69,P9WGN3,secY,Rv0732,Protein translocase subunit SecY,441.0,0,0,1,0,1,0,Essential,-13.654,1,0,73.88,"PREPROTEIN TRANSLOCASE SUBUNIT SCY2, CHLOROPLASTIC",transporter
+164,390,P96890,accA3,Rv3285,Biotin-dependent acyl-coenzyme A carboxylase alpha3 subunit,600.0,0,0,1,0,1,0,Essential,-13.378,1,1,88.94,"BIOTIN CARBOXYLASE, CHLOROPLASTIC",
+165,366,O53512,aroG,Rv2178c,Phospho-2-dehydro-3-deoxyheptonate aldolase AroG,462.0,0,0,1,0,1,0,Essential,-13.367,1,21,95.06,PHOSPHO-2-DEHYDRO-3-DEOXYHEPTONATE ALDOLASE,aldolase
+166,76,P9WH27,rpsH,Rv0718,Small ribosomal subunit protein uS8,132.0,0,0,1,0,1,0,Essential,-13.276,1,10,95.88,SMALL RIBOSOMAL SUBUNIT PROTEIN US8M,ribosomal protein
+167,266,P9WFV7,glyQS,Rv2357c,Glycine--tRNA ligase,463.0,0,0,1,0,1,0,Essential,-13.235,1,2,93.06,"DNA POLYMERASE SUBUNIT GAMMA-2, MITOCHONDRIAL",aminoacyl-tRNA synthetase
+168,396,P96409,Rv0227c,Rv0227c,,421.0,0,0,1,0,1,0,Essential,-13.167,1,0,85.19,,
+169,89,P9WHD5,rplP,Rv0708,Large ribosomal subunit protein uL16,138.0,0,0,1,0,1,0,Essential,-12.816,1,11,95.25,LARGE RIBOSOMAL SUBUNIT PROTEIN UL16M,ribosomal protein
+170,193,P9WFU5,metG,Rv1007c,Methionine--tRNA ligase,519.0,0,0,1,0,1,0,Essential,-12.602,1,1,94.94,"METHIONINE--TRNA LIGASE, MITOCHONDRIAL",aminoacyl-tRNA synthetase
+171,91,P9WHE1,rplM,Rv3443c,Large ribosomal subunit protein uL13,147.0,0,0,1,0,1,0,Essential,-12.535,1,11,93.75,LARGE RIBOSOMAL SUBUNIT PROTEIN UL13M,ribosomal protein
+172,251,P9WMP7,hemA,Rv0509,Glutamyl-tRNA reductase,468.0,0,0,1,0,1,0,Essential,-12.533,1,0,87.0,GLUTAMYL-TRNA REDUCTASE,translational protein
+173,306,P9WNG5,fabD,Rv2243,Malonyl CoA-acyl carrier protein transacylase,302.0,0,0,1,0,1,0,Essential,-12.494,1,2,97.31,"MALONYL-COA-ACYL CARRIER PROTEIN TRANSACYLASE, MITOCHONDRIAL",
+174,289,P9WNM7,fusA,Rv0684,Elongation factor G,701.0,0,0,1,0,1,0,Essential,-12.492,1,1,85.75,"RIBOSOME-RELEASING FACTOR 2, MITOCHONDRIAL",translation elongation factor
+175,143,O86374,pmmA,Rv3257c,,465.0,0,0,1,0,1,0,Essential,-12.288,1,0,96.06,PHOSPHOMANNOMUTASE,mutase
+176,408,I6Y8S6,purS,Rv0787A,Phosphoribosylformylglycinamidine synthase subunit PurS,79.0,0,0,1,0,1,0,Essential,-12.286,1,0,95.81,PHOSPHORIBOSYLFORMYLGLYCINAMIDINE SYNTHASE SUBUNIT PURS,
+177,185,P9WJL9,murB,Rv0482,UDP-N-acetylenolpyruvoylglucosamine reductase,369.0,0,0,1,0,1,0,Essential,-12.167,1,1,94.38,UDP-N-ACETYLENOLPYRUVOYLGLUCOSAMINE REDUCTASE,reductase
+178,296,P9WN57,folE,Rv3609c,GTP cyclohydrolase 1,202.0,0,0,1,0,1,0,Essential,-12.079,1,1,93.44,GTP CYCLOHYDROLASE 1,hydrolase
+179,235,P9WFV5,hisS,Rv2580c,Histidine--tRNA ligase,423.0,0,0,1,0,1,0,Essential,-11.98,1,0,94.44,"HISTIDINE--TRNA LIGASE, MITOCHONDRIAL-RELATED",aminoacyl-tRNA synthetase
+180,252,I6WYY7,hadB,Rv0636,,142.0,0,0,1,0,1,0,Essential,-11.976,1,8,97.81,(3R)-HYDROXYACYL-ACP DEHYDRATASE SUBUNIT HADB,
+181,125,I6XWA1,purB,Rv0777,Adenylosuccinate lyase,472.0,0,0,1,0,1,0,Essential,-11.973,1,0,95.19,ADENYLOSUCCINATE LYASE,lyase
+182,78,P9WH35,rpsD,Rv3458c,Small ribosomal subunit protein uS4,201.0,0,0,1,0,1,0,Essential,-11.924,1,10,92.19,SMALL RIBOSOMAL SUBUNIT PROTEIN US4M,ribosomal protein
+183,328,P9WNT7,dnaE1,Rv1547,DNA polymerase III subunit alpha,1184.0,0,0,1,0,1,0,Essential,-11.916,1,3,89.31,DNA POLYMERASE III SUBUNIT ALPHA,DNA-directed DNA polymerase
+184,330,P9WNW3,dnaA,Rv0001,Chromosomal replication initiator protein DnaA,507.0,0,0,1,0,1,0,Essential,-11.914,1,2,81.44,CHROMOSOMAL REPLICATION INITIATOR PROTEIN DNAA,DNA metabolism protein
+185,106,P9WHF1,ribBA,Rv1415,Riboflavin biosynthesis protein RibBA,425.0,0,0,1,0,1,0,Essential,-11.851,1,0,89.69,"3,4-DIHYDROXY-2-BUTANONE 4-PHOSPHATE SYNTHASE",hydrolase
+186,35,P9WNN1,tuf,Rv0685,Elongation factor Tu,396.0,0,0,1,0,1,0,Essential,-11.721,1,2,92.81,"ELONGATION FACTOR TU, MITOCHONDRIAL",translation elongation factor
+187,94,P9WH85,rplD,Rv0702,Large ribosomal subunit protein uL4,223.0,0,0,1,0,1,0,Essential,-11.699,1,11,91.31,LARGE RIBOSOMAL SUBUNIT PROTEIN UL4M,ribosomal protein
+188,276,P9WN45,glgB,Rv1326c,"1,4-alpha-glucan branching enzyme GlgB",731.0,0,0,1,0,1,0,Essential,-11.661,1,1,95.75,"1,4-ALPHA-GLUCAN-BRANCHING ENZYME",amylase
+189,97,P9WHC7,rplA,Rv0641,Large ribosomal subunit protein uL1,235.0,0,0,1,0,1,0,Essential,-11.658,1,7,92.56,LARGE RIBOSOMAL SUBUNIT PROTEIN UL1M,ribosomal protein
+190,260,P9WPE7,groEL2,Rv0440,Chaperonin GroEL 2,540.0,0,0,1,0,1,0,Essential,-11.617,1,2,91.12,"60 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL",
+191,270,P96218,gltB,Rv3859c,Glutamate synthase [NADPH] large chain,1527.0,0,0,1,0,1,0,Essential,-11.539,1,0,92.88,GLUTAMATE SYNTHASE (NADH),oxidoreductase
+192,271,P9WN79,glpD2,Rv3302c,Glycerol-3-phosphate dehydrogenase 2,585.0,0,0,1,0,1,0,Essential,-11.49,1,0,92.62,GLYCEROL-3-PHOSPHATE DEHYDROGENASE 2,dehydrogenase
+193,30,P9WMU1,wag31,Rv2145c,Cell wall synthesis protein Wag31,260.0,0,0,1,0,1,0,Essential,-11.489,1,1,83.5,CELL DIVISION PROTEIN DIVIVA,
+194,80,P9WH39,rpsB,Rv2890c,Small ribosomal subunit protein uS2,287.0,0,0,1,0,1,0,Essential,-11.477,1,0,84.0,SMALL RIBOSOMAL SUBUNIT PROTEIN US2M,ribosomal protein
+195,367,P9WPY1,aroC,Rv2540c,Chorismate synthase,401.0,0,0,1,0,1,0,Essential,-11.388,1,7,95.06,CHORISMATE SYNTHASE,lyase
+196,65,P9WFT7,serS,Rv3834c,Serine--tRNA ligase,419.0,0,0,1,0,1,0,Essential,-11.305,1,0,96.06,"SERINE--TRNA LIGASE, CYTOPLASMIC",aminoacyl-tRNA synthetase
+197,84,P9WGZ1,rpoA,Rv3457c,DNA-directed RNA polymerase subunit alpha,347.0,0,0,1,0,1,0,Essential,-11.266,1,82,85.62,DNA-DIRECTED RNA POLYMERASE SUBUNIT ALPHA,DNA-directed RNA polymerase
+198,64,P9WGI1,sigA,Rv2703,RNA polymerase sigma factor SigA,528.0,0,0,1,0,1,0,Essential,-11.217,1,51,71.12,RNA POLYMERASE PRINCIPAL SIGMA FACTOR HRDA,Sigma factor
+199,66,P9WQ73,serC,Rv0884c,Phosphoserine aminotransferase,376.0,0,0,1,0,1,0,Essential,-11.131,1,2,97.5,ALANINE--GLYOXYLATE AMINOTRANSFERASE,transaminase
+200,305,P9WGT3,mabA,Rv1483,3-oxoacyl-[acyl-carrier-protein] reductase MabA,247.0,0,0,1,0,1,0,Essential,-11.068,1,4,95.81,"ALCOHOL DEHYDROGENASE, PUTATIVE (AFU_ORTHOLOGUE AFUA_3G03445)-RELATED",oxidoreductase
+201,400,P96276,Rv0430,Rv0430,DUF3263 domain-containing protein,102.0,0,0,1,0,1,0,Essential,-11.054,1,2,76.19,,
+202,31,P9WFS9,valS,Rv2448c,Valine--tRNA ligase,886.0,0,0,1,0,1,0,Essential,-11.048,1,0,93.06,"VALINE--TRNA LIGASE, CHLOROPLASTIC_MITOCHONDRIAL 2",aminoacyl-tRNA synthetase
+203,442,P9WQA5,Rv2971,Rv2971,Aldo-keto reductase Rv2971,282.0,0,0,1,0,1,0,Essential,-11.026,1,1,96.25,ALDO-KETO REDUCTASE FAMILY 1 MEMBER A1,reductase
+204,87,P9WHC5,rplT,Rv1643,Large ribosomal subunit protein bL20,129.0,0,0,1,0,1,0,Essential,-11.022,1,11,94.81,LARGE RIBOSOMAL SUBUNIT PROTEIN BL20C,ribosomal protein
+205,388,P9WQH7,accD5,Rv3280,Biotin-dependent acetyl-/propionyl-coenzyme A carboxylase beta5 subunit,548.0,0,0,1,0,1,0,Essential,-11.013,1,2,95.38,"PROPIONYL-COA CARBOXYLASE BETA CHAIN, MITOCHONDRIAL",ligase
+206,341,P9WFW1,cysS,Rv3580c,Cysteine--tRNA ligase,469.0,0,0,1,0,1,0,Essential,-10.964,1,0,91.94,CYSTEINE--TRNA LIGASE,aminoacyl-tRNA synthetase
+207,130,P9WGM1,prrA,Rv0903c,Transcriptional regulatory protein PrrA,233.0,0,0,1,0,1,0,Essential,-10.959,1,2,90.31,REGULATOR OF RPOS,winged helix/forkhead transcription factor
+208,381,P9WFW7,alaS,Rv2555c,Alanine--tRNA ligase,904.0,0,0,1,0,1,0,Essential,-10.958,1,0,89.88,"ALANINE--TRNA LIGASE, CYTOPLASMIC",aminoacyl-tRNA synthetase
+209,73,P9WH49,rpsR1,Rv0055,Small ribosomal subunit protein bS18A,84.0,0,0,1,0,1,0,Essential,-10.938,1,10,83.75,SMALL RIBOSOMAL SUBUNIT PROTEIN BS18A,ribosomal protein
+210,68,P9WNX3,serA,Rv2996c,D-3-phosphoglycerate dehydrogenase,528.0,0,0,1,0,1,0,Essential,-10.82,1,3,95.0,HYDROXYPYRUVATE REDUCTASE,dehydrogenase
+211,465,P9WGP5,secA1,Rv3240c,Protein translocase subunit SecA 1,949.0,0,0,1,0,1,0,Essential Domain,-10.803,1,2,83.25,CHLOROPLAST PROTEIN-TRANSPORTING ATPASE,transporter
+212,207,P9WFU9,lysS1,Rv3598c,Lysine--tRNA ligase 1,505.0,0,0,1,0,1,0,Essential,-10.743,1,9,94.12,"LYSINE--TRNA LIGASE, CHLOROPLASTIC_MITOCHONDRIAL",aminoacyl-tRNA synthetase
+213,224,P9WKJ9,infC,Rv1641,Translation initiation factor IF-3,201.0,0,0,1,0,1,0,Essential,-10.537,1,0,82.31,"TRANSLATION INITIATION FACTOR IF-3, MITOCHONDRIAL",translation initiation factor
+214,225,P9WKK1,infB,Rv2839c,Translation initiation factor IF-2,900.0,0,0,1,0,1,0,Essential,-10.453,1,0,74.44,TR-TYPE G DOMAIN-CONTAINING PROTEIN,translation initiation factor
+215,297,P9WG81,folD,Rv3356c,Bifunctional protein FolD,281.0,0,0,1,0,1,0,Essential,-10.336,1,2,96.88,"C-1-TETRAHYDROFOLATE SYNTHASE, CYTOPLASMIC",metabolite interconversion enzyme
+216,342,P9WP71,ctaD,Rv3043c,Probable cytochrome c oxidase subunit 1,573.0,0,0,1,0,1,0,Essential,-10.316,1,1,94.5,CYTOCHROME C OXIDASE SUBUNIT 1,oxidase
+217,300,P9WGD7,ffh,Rv2916c,Signal recognition particle protein,525.0,0,0,1,0,1,0,Essential,-10.202,1,0,75.44,SIGNAL RECOGNITION PARTICLE SUBUNIT SRP54,RNA metabolism protein
+218,118,P9WHM5,purN,Rv0956,Phosphoribosylglycinamide formyltransferase,215.0,0,0,1,0,1,0,Essential,-10.19,1,2,96.0,PHOSPHORIBOSYLGLYCINAMIDE FORMYLTRANSFERASE,transferase
+219,365,P9WPY3,aroK,Rv2539c,Shikimate kinase,176.0,0,0,1,0,1,0,Essential,-10.164,1,22,91.5,"SHIKIMATE KINASE 1, CHLOROPLASTIC",kinase
+220,51,P9WG59,thrC,Rv1295,Threonine synthase,360.0,0,0,1,0,1,0,Essential,-9.982,1,1,95.25,"THREONINE SYNTHASE 1, CHLOROPLASTIC",lyase
+221,482,I6YDM0,Rv2516c,Rv2516c,Helix-turn-helix domain-containing protein,267.0,0,0,1,0,1,0,Essential Domain,-9.912,1,0,80.88,,
+222,410,P9WKQ7,Rv0883c,Rv0883c,Uncharacterized protein Rv0883c,253.0,0,0,1,0,1,0,Essential,-9.889,1,0,82.5,,
+223,105,I6X5C9,ribF,Rv2786c,Riboflavin biosynthesis protein,331.0,0,0,1,0,1,0,Essential,-9.877,1,0,91.88,RIBOFLAVIN KINASE,
+224,150,P9WFU3,pheS,Rv1649,Phenylalanine--tRNA ligase alpha subunit,341.0,0,0,1,0,1,0,Essential,-9.865,1,12,93.75,"PHENYLALANINE--TRNA LIGASE, MITOCHONDRIAL",aminoacyl-tRNA synthetase
+225,149,P9WFU1,pheT,Rv1650,Phenylalanine--tRNA ligase beta subunit,831.0,0,0,1,0,1,0,Essential,-9.841,1,12,93.88,PHENYLALANINE--TRNA LIGASE BETA SUBUNIT,aminoacyl-tRNA synthetase
+226,82,P9WGY7,rpoC,Rv0668,DNA-directed RNA polymerase subunit beta',1316.0,0,0,1,0,1,0,Essential,-9.785,1,81,88.38,DNA-DIRECTED RNA POLYMERASE SUBUNIT BETA',DNA-directed RNA polymerase
+227,33,P9WFT1,tyrS,Rv1689,Tyrosine--tRNA ligase,424.0,0,0,1,0,1,0,Essential,-9.774,1,1,92.62,"TYROSINE--TRNA LIGASE, MITOCHONDRIAL",aminoacyl-tRNA synthetase
+228,50,P9WFT5,thrS,Rv2614c,Threonine--tRNA ligase,692.0,0,0,1,0,1,0,Essential,-9.772,1,0,91.75,"THREONINE--TRNA LIGASE, CHLOROPLASTIC_MITOCHONDRIAL 2",aminoacyl-tRNA synthetase
+229,59,P9WFC9,Rv1636,Rv1636,Universal stress protein Rv1636,146.0,0,0,1,0,1,0,Essential,-9.729,1,1,88.75,UNIVERSAL STRESS PROTEIN UP12,
+230,265,P9WKE9,gmk,Rv1389,Guanylate kinase,208.0,0,0,1,0,1,0,Essential,-9.721,1,6,88.81,GUANYLATE KINASE,kinase
+231,439,P9WL15,Rv2927c,Rv2927c,Uncharacterized protein Rv2927c,245.0,0,0,1,0,1,0,Essential,-9.681,1,0,92.0,SLR0848 PROTEIN,
+232,230,P9WG95,ilvA,Rv1559,L-threonine dehydratase biosynthetic IlvA,429.0,0,0,1,0,1,0,Essential,-9.609,1,0,93.06,"THREONINE DEHYDRATASE, MITOCHONDRIAL",dehydratase
+233,479,P9WPX3,ask,Rv3709c,Aspartokinase,421.0,0,0,1,0,1,0,Essential Domain,-9.551,1,4,93.25,ASPARTOKINASE,amino acid kinase
+234,371,P9WFW5,argS,Rv1292,Arginine--tRNA ligase,550.0,0,0,1,0,1,0,Essential,-9.541,1,0,94.5,"ARGININE--TRNA LIGASE, CYTOPLASMIC",aminoacyl-tRNA synthetase
+235,292,P9WGD9,ftsY,Rv2921c,Signal recognition particle receptor FtsY,422.0,0,0,1,0,1,0,Essential,-9.527,1,0,78.88,SIGNAL RECOGNITION PARTICLE RECEPTOR SUBUNIT ALPHA,G-protein
+236,262,P9WI57,pnp,Rv2783c,Polyribonucleotide nucleotidyltransferase,752.0,0,0,1,0,1,0,Essential,-9.466,1,5,90.69,"POLYRIBONUCLEOTIDE NUCLEOTIDYLTRANSFERASE 1, MITOCHONDRIAL",nucleotidyltransferase
+237,206,P9WKG1,ispH2,Rv1110,4-hydroxy-3-methylbut-2-enyl diphosphate reductase 2,335.0,0,0,1,0,1,0,Essential,-9.422,1,0,93.31,4-HYDROXY-3-METHYLBUT-2-ENYL DIPHOSPHATE REDUCTASE,reductase
+238,165,P9WMT1,obg,Rv2440c,GTPase Obg,479.0,0,0,1,0,1,0,Essential,-9.302,1,0,78.81,MITOCHONDRIAL RIBOSOME-ASSOCIATED GTPASE 2,
+239,418,O53154,Rv1463,Rv1463,,266.0,0,0,1,0,1,0,Essential,-9.298,1,0,92.38,"ABC TRANSPORTER I FAMILY MEMBER 6, CHLOROPLASTIC",ATP-binding cassette (ABC) transporter
+240,441,O33272,Rv2969c,Rv2969c,,255.0,0,0,1,0,1,0,Essential,-9.296,1,4,90.31,DISULFIDE BOND FORMATION PROTEIN D,transferase
+241,248,P9WFE1,hemE,Rv2678c,Uroporphyrinogen decarboxylase,357.0,0,0,1,0,1,0,Essential,-9.285,1,0,96.75,UROPORPHYRINOGEN DECARBOXYLASE,methyltransferase
+242,389,O53578,accD4,Rv3799c,Biotin-dependent long chain acyl-coenzyme A carboxylase beta4 subunit,522.0,0,0,1,0,1,0,Essential,-9.268,1,0,95.06,"PROPIONYL-COA CARBOXYLASE BETA CHAIN, MITOCHONDRIAL",ligase
+243,133,P9WHU9,proB,Rv2439c,Glutamate 5-kinase,376.0,0,0,1,0,1,0,Essential,-9.233,1,0,89.12,ISOPENTENYL PHOSPHATE KINASE,amino acid kinase
+244,369,P9WPX9,aroB,Rv2538c,3-dehydroquinate synthase,362.0,0,0,1,0,1,0,Essential,-9.2,1,2,94.38,"3-DEHYDROQUINATE SYNTHASE, CHLOROPLASTIC",lyase
+245,428,P9WGJ5,sepF,Rv2147c,Cell division protein SepF,218.0,0,0,1,0,1,0,Essential,-9.198,1,0,67.88,CELL DIVISION PROTEIN SEPF,
+246,391,O53605,darG,Rv0060,DNA ADP-ribosyl glycohydrolase,352.0,0,0,1,0,1,0,Essential,-9.182,1,2,91.31,ADP-RIBOSE GLYCOHYDROLASE OARD1,
+247,257,P9WMS7,guaA,Rv3396c,GMP synthase [glutamine-hydrolyzing],525.0,0,0,1,0,1,0,Essential,-9.178,1,0,87.94,GMP SYNTHASE [GLUTAMINE-HYDROLYZING],ligase
+248,817,P9WH53,rpsP,Rv2909c,Small ribosomal subunit protein bS16,162.0,0,0,0,1,1,0,Growth Defect,-13.608,1,10,76.44,SMALL RIBOSOMAL SUBUNIT PROTEIN BS16M,ribosomal protein
+249,855,P9WKK3,infA,Rv3462c,Translation initiation factor IF-1,73.0,0,0,0,1,1,0,Growth Defect,-13.39,1,1,84.31,"TRANSLATION INITIATION FACTOR IF-1, CHLOROPLASTIC",translation initiation factor
+250,824,P9WHD3,rplQ,Rv3456c,Large ribosomal subunit protein bL17,180.0,0,0,0,1,1,0,Growth Defect,-13.11,1,11,81.81,LARGE RIBOSOMAL SUBUNIT PROTEIN BL17M,ribosomal protein
+251,818,P9WH67,rpsJ,Rv0700,Small ribosomal subunit protein uS10,101.0,0,0,0,1,1,0,Growth Defect,-12.87,1,10,89.69,SMALL RIBOSOMAL SUBUNIT PROTEIN US10M,ribosomal protein
+252,820,P9WHA7,rpmC,Rv0709,Large ribosomal subunit protein uL29,77.0,0,0,0,1,1,0,Growth Defect,-12.626,1,11,86.38,LARGE RIBOSOMAL SUBUNIT PROTEIN UL29C,ribosomal protein
+253,895,O53718,Rv0383c,Rv0383c,,284.0,0,0,0,1,1,0,Growth Defect,-11.912,1,0,79.25,,
+254,891,P9WQH5,accD6,Rv2247,Biotin-dependent acetyl-/propionyl-coenzyme A carboxylase beta6 subunit,473.0,0,0,0,1,1,0,Growth Defect,-11.453,1,7,94.75,"PROPIONYL-COA CARBOXYLASE BETA CHAIN, MITOCHONDRIAL",ligase
+255,823,P9WHC3,rplU,Rv2442c,Large ribosomal subunit protein bL21,103.0,0,0,0,1,1,0,Growth Defect,-11.179,1,12,93.38,LARGE RIBOSOMAL SUBUNIT PROTEIN BL21M,ribosomal protein
+256,863,P9WJA9,garA,Rv1827,Glycogen accumulation regulator GarA,162.0,0,0,0,1,1,0,Growth Defect,-10.949,1,3,68.25,FHA DOMAIN-CONTAINING PROTEIN FHAA,RNA splicing factor
+257,806,P9WF43,whiB1,Rv3219,Transcriptional regulator WhiB1,84.0,0,0,0,1,1,0,Growth Defect,-10.916,1,3,85.44,TRANSCRIPTIONAL REGULATOR WHIB1,DNA-binding transcription factor
+258,871,P9WNL1,eno,Rv1023,Enolase,429.0,0,0,0,1,1,0,Growth Defect,-10.902,1,8,96.62,ENOLASE,lyase
+259,922,P9WJG3,carD,Rv3583c,RNA polymerase-binding transcription factor CarD,162.0,0,0,0,1,1,0,Growth Defect,-9.946,1,21,90.88,RNA POLYMERASE-BINDING TRANSCRIPTION FACTOR CARD,DNA-binding transcription factor
+260,821,P9WHB3,rpmA,Rv2441c,Large ribosomal subunit protein bL27,86.0,0,0,0,1,1,0,Growth Defect,-9.866,1,11,88.62,LARGE RIBOSOMAL SUBUNIT PROTEIN BL27M,ribosomal protein
+261,811,P9WG97,tatC,Rv2093c,Sec-independent protein translocase protein TatC,308.0,0,0,0,1,1,0,Growth Defect,-9.733,1,0,83.06,"SEC-INDEPENDENT PROTEIN TRANSLOCASE PROTEIN TATC, CHLOROPLASTIC-RELATED",
+262,833,P9WHM1,purE,Rv3275c,N5-carboxyaminoimidazole ribonucleotide mutase,174.0,0,0,0,1,1,0,Growth Defect,-9.629,1,1,96.44,PHOSPHORIBOSYLAMINOIMIDAZOLE CARBOXYLASE,lyase
+263,4,P9WH51,rpsQ,Rv0710,Small ribosomal subunit protein uS17,135.0,0,0,1,0,0,0,Essential,-17.589,0,10,80.81,SMALL RIBOSOMAL SUBUNIT PROTEIN US17M,ribosomal protein
+264,3,P9WH45,rpsS,Rv0705,Small ribosomal subunit protein uS19,93.0,0,0,1,0,0,0,Essential,-17.252,0,10,88.25,SMALL RIBOSOMAL SUBUNIT PROTEIN US19M,ribosomal protein
+265,10,P9WHE7,rplJ,Rv0651,Large ribosomal subunit protein uL10,178.0,0,0,1,0,0,0,Essential,-14.022,0,0,85.12,LARGE RIBOSOMAL SUBUNIT PROTEIN UL10M,ribosomal protein
+266,13,I6YB06,nrdH,Rv3053c,Glutaredoxin-like protein NrdH,79.0,0,0,1,0,0,0,Essential,-13.749,0,2,93.38,GLUTAREDOXIN-LIKE PROTEIN NRDH,oxidoreductase
+267,9,P9WHB7,rplX,Rv0715,Large ribosomal subunit protein uL24,105.0,0,0,1,0,0,0,Essential,-11.985,0,11,91.19,LARGE RIBOSOMAL SUBUNIT PROTEIN UL24M,ribosomal protein
+268,6,P9WH29,rpsG,Rv0683,Small ribosomal subunit protein uS7,156.0,0,0,1,0,0,0,Essential,-11.687,0,11,94.56,SMALL RIBOSOMAL SUBUNIT PROTEIN US7M,ribosomal protein
+269,17,P96886,accE5,Rv3281,Biotin-dependent acetyl-/propionyl-coenzyme A carboxylase epsilon subunit,177.0,0,0,1,0,0,0,Essential,-10.888,0,0,56.44,,
+270,2,P9WGD5,ssb,Rv0054,Single-stranded DNA-binding protein,164.0,0,0,1,0,0,0,Essential,-10.732,0,6,84.69,SINGLE-STRANDED DNA-BINDING PROTEIN,DNA metabolism protein
+271,12,P9WHK9,pyrE,Rv0382c,Orotate phosphoribosyltransferase,179.0,0,0,1,0,0,0,Essential,-10.454,0,3,93.31,URIDINE 5'-MONOPHOSPHATE SYNTHASE,transferase
+272,5,P9WH61,rpsM,Rv3460c,Small ribosomal subunit protein uS13,124.0,0,0,1,0,0,0,Essential,-10.33,0,10,91.62,SMALL RIBOSOMAL SUBUNIT PROTEIN US13M,ribosomal protein
+273,7,P9WH31,rpsF,Rv0053,Small ribosomal subunit protein bS6,96.0,0,0,1,0,0,0,Essential,-10.207,0,10,94.44,SMALL RIBOSOMAL SUBUNIT PROTEIN BS6M,ribosomal protein
+274,8,P9WGY5,rpoZ,Rv1390,DNA-directed RNA polymerase subunit omega,110.0,0,0,1,0,0,0,Essential,-9.28,0,81,83.06,DNA-DIRECTED RNA POLYMERASE SUBUNIT OMEGA,DNA-directed RNA polymerase
+275,426,P9WME5,Rv1830,Rv1830,Uncharacterized HTH-type transcriptional regulator Rv1830,225.0,0,0,1,0,0,0,Essential,-9.142,1,0,77.44,HTH MERR-TYPE DOMAIN-CONTAINING PROTEIN,winged helix/forkhead transcription factor
+276,269,P9WN19,gltD,Rv3858c,Glutamate synthase [NADPH] small chain,488.0,0,0,1,0,0,0,Essential,-9.128,1,0,96.25,GLUTAMATE SYNTHASE [NADPH] SMALL CHAIN,
+277,244,P9WMM5,priA,Rv1603,Phosphoribosyl isomerase A,244.0,0,0,1,0,0,0,Essential,-9.052,1,4,96.62,1-(5-PHOSPHORIBOSYL)-5-[(5-PHOSPHORIBOSYLAMINO)METHYLIDENEAMINO] IMIDAZOLE-4-CARBOXAMIDE ISOMERASE,isomerase
+278,240,P9WMM9,hisE,Rv2122c,Phosphoribosyl-ATP pyrophosphatase,93.0,0,0,1,0,0,0,Essential,-9.023,1,2,95.38,HISTIDINE BIOSYNTHESIS BIFUNCTIONAL PROTEIN HIS7,hydrolase
+279,370,P9WPY5,aroA,Rv3227,3-phosphoshikimate 1-carboxyvinyltransferase,450.0,0,0,1,0,0,0,Essential,-9.008,1,7,93.62,PENTAFUNCTIONAL AROM POLYPEPTIDE,transferase
+280,131,P9WFT9,proS,Rv2845c,Proline--tRNA ligase,582.0,0,0,1,0,0,0,Essential,-8.984,1,0,95.19,PROLINE--TRNA LIGASE,aminoacyl-tRNA synthetase
+281,303,P95029,fas,Rv2524c,,3069.0,0,0,1,0,0,0,Essential,-8.972,1,0,,FATTY ACID SYNTHASE SUBUNIT BETA,
+282,437,P9WL45,chdC,Rv2676c,Coproheme decarboxylase,231.0,0,0,1,0,0,0,Essential,-8.96,1,0,97.31,COPROHEME DECARBOXYLASE,peroxidase
+283,126,P9WHN3,purA,Rv0357c,Adenylosuccinate synthetase,432.0,0,0,1,0,0,0,Essential,-8.885,1,0,93.5,ADENYLOSUCCINATE SYNTHETASE,ligase
+284,109,P72047,rfbE,Rv3781,,273.0,0,0,1,0,0,0,Essential,-8.871,1,0,89.12,TEICHOIC ACIDS EXPORT ATP-BINDING PROTEIN TAGH,
+285,176,P9WJK1,nadA,Rv1594,Quinolinate synthase,349.0,0,0,1,0,0,0,Essential,-8.866,1,0,94.06,"QUINOLINATE SYNTHASE, CHLOROPLASTIC",transferase
+286,75,P9WH25,rpsI,Rv3442c,Small ribosomal subunit protein uS9,151.0,0,0,1,0,0,0,Essential,-8.837,1,10,85.81,SMALL RIBOSOMAL SUBUNIT PROTEIN US9M,ribosomal protein
+287,268,P9WFV9,gltX,Rv2992c,Glutamate--tRNA ligase,490.0,0,0,1,0,0,0,Essential,-8.837,1,3,95.38,"GLUTAMATE--TRNA LIGASE, MITOCHONDRIAL-RELATED",aminoacyl-tRNA synthetase
+288,36,P9WNM1,tsf,Rv2889c,Elongation factor Ts,271.0,0,0,1,0,0,0,Essential,-8.824,1,1,95.81,"ELONGATION FACTOR TS, MITOCHONDRIAL",translation elongation factor
+289,394,P96407,Rv0225,Rv0225,,384.0,0,0,1,0,0,0,Essential,-8.756,1,0,95.0,COLANIC ACID BIOSYNTHESIS GLYCOSYLTRANSFERASE WCAL-RELATED,glycosyltransferase
+290,157,P9WIJ9,parB,Rv3917c,Probable chromosome-partitioning protein ParB,344.0,0,0,1,0,0,0,Essential,-8.733,1,0,73.69,CHROMOSOME-PARTITIONING PROTEIN PARB-RELATED,
+291,233,O06291,htrA1,Rv1223,Probable serine protease HtrA1,528.0,0,0,1,0,0,0,Essential,-8.666,1,15,78.44,SERINE ENDOPROTEASE DEGS,serine protease
+292,163,P9WFZ5,otsB,Rv3372,Trehalose-phosphate phosphatase,391.0,0,0,1,0,0,0,Essential,-8.636,1,1,92.88,TREHALOSE 6-PHOSPHATE PHOSPHATASE,phosphatase
+293,121,P9WHM7,purH,Rv0957,Bifunctional purine biosynthesis protein PurH,523.0,0,0,1,0,0,0,Essential,-8.632,1,2,96.25,BIFUNCTIONAL PURINE BIOSYNTHESIS PROTEIN ATIC,
+294,287,O05576,galU,Rv0993,UTP--glucose-1-phosphate uridylyltransferase,306.0,0,0,1,0,0,0,Essential,-8.601,1,0,94.19,UTP--GLUCOSE-1-PHOSPHATE URIDYLYLTRANSFERASE,nucleotidyltransferase
+295,136,P9WHG3,prfA,Rv1299,Peptide chain release factor 1,357.0,0,0,1,0,0,0,Essential,-8.59,1,0,87.81,LD18447P,translation release factor
+296,156,L7N672,pcnA,Rv3907c,,480.0,0,0,1,0,0,0,Essential,-8.541,1,0,90.75,"CCA TRNA NUCLEOTIDYLTRANSFERASE 1, MITOCHONDRIAL",RNA processing factor
+297,243,P9WML9,hisB,Rv1601,Imidazoleglycerol-phosphate dehydratase,210.0,0,0,1,0,0,0,Essential,-8.48,1,12,95.44,IMIDAZOLEGLYCEROL-PHOSPHATE DEHYDRATASE,dehydratase
+298,274,P9WN49,glmS,Rv3436c,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],624.0,0,0,1,0,0,0,Essential,-8.478,1,0,93.25,GLUTAMINE--FRUCTOSE-6-PHOSPHATE TRANSAMINASE (ISOMERIZING),transaminase
+299,488,P9WIT5,yidC,Rv3921c,Membrane protein insertase YidC,366.0,0,0,1,0,0,0,Essential Domain,-8.476,1,0,81.31,"CYTOCHROME C OXIDASE ASSEMBLY PROTEIN COX18, MITOCHONDRIAL",transporter
+300,226,P9WQ75,ilvE,Rv2210c,Branched-chain-amino-acid aminotransferase,368.0,0,0,1,0,0,0,Essential,-8.438,1,2,96.38,BRANCHED-CHAIN-AMINO-ACID AMINOTRANSFERASE,transaminase
+301,135,P9WHG1,prfB,Rv3105c,Peptide chain release factor 2,371.0,0,0,1,0,0,0,Essential,-8.413,1,0,88.25,CLASS I PEPTIDE CHAIN RELEASE FACTOR,translation release factor
+302,46,P9WG49,topA,Rv3646c,DNA topoisomerase 1,934.0,0,0,1,0,0,0,Essential,-8.408,1,7,88.56,DNA TOPOISOMERASE,DNA metabolism protein
+303,363,P9WQ91,aspC,Rv0337c,Alanine aminotransferase,429.0,0,0,1,0,0,0,Essential,-8.392,1,0,94.06,GLUTAMATE-PYRUVATE AMINOTRANSFERASE ALAA,transaminase
+304,286,P9WQA1,gatA,Rv3011c,Glutamyl-tRNA(Gln) amidotransferase subunit A,494.0,0,0,1,0,0,0,Essential,-8.391,1,0,96.81,GLUTAMYL-TRNA(GLN) AMIDOTRANSFERASE SUBUNIT A,ligase
+305,119,I6Y4V6,purM,Rv0809,Phosphoribosylformylglycinamidine cyclo-ligase,364.0,0,0,1,0,0,0,Essential,-8.34,1,0,94.12,TRIFUNCTIONAL PURINE BIOSYNTHETIC PROTEIN ADENOSINE-3,
+306,333,P9WNZ7,desA1,Rv0824c,Putative acyl-[acyl-carrier-protein] desaturase DesA1,338.0,0,0,1,0,0,0,Essential,-8.339,1,0,93.69,"STEAROYL-[ACYL-CARRIER-PROTEIN] 9-DESATURASE 7, CHLOROPLASTIC",
+307,421,P9WLX5,Rv1480,Rv1480,Uncharacterized protein Rv1480,317.0,0,0,1,0,0,0,Essential,-8.315,1,0,84.94,BLL2464 PROTEIN,
+308,128,P9WKE3,prs,Rv1017c,Ribose-phosphate pyrophosphokinase,326.0,0,0,1,0,0,0,Essential,-8.269,1,0,92.38,"RIBOSE-PHOSPHATE PYROPHOSPHOKINASE 1, CHLOROPLASTIC",nucleotide kinase
+309,158,Q1LVD4,parA,Rv3918c,,347.0,0,0,1,0,0,0,Essential,-8.251,1,0,83.12,PARA FAMILY PROTEIN CT_582,hydrolase
+310,480,O86351,Rv1111c,Rv1111c,DUF6542 domain-containing protein,327.0,0,0,1,0,0,0,Essential Domain,-8.244,1,0,52.22,,
+311,184,P9WJL7,murC,Rv2152c,UDP-N-acetylmuramate--L-alanine ligase,494.0,0,0,1,0,0,0,Essential,-8.17,1,0,92.31,UDP-N-ACETYLMURAMATE--L-ALANINE LIGASE,ligase
+312,194,P9WGV1,metK,Rv1392,S-adenosylmethionine synthase,403.0,0,0,1,0,0,0,Essential,-8.169,1,1,94.88,S-ADENOSYLMETHIONINE SYNTHASE,nucleotidyltransferase
+313,486,P96214,Rv3863,Rv3863,FHA domain-containing protein,392.0,0,0,1,0,0,0,Essential Domain,-8.154,1,0,74.12,,
+314,454,O69689,Rv3722c,Rv3722c,Aspartate aminotransferase,435.0,0,0,1,0,0,0,Essential,-8.051,1,3,96.94,ASPARTATE AMINOTRANSFERASE,transaminase
+315,63,P9WGD3,smpB,Rv3100c,SsrA-binding protein,160.0,0,0,1,0,0,0,Essential,-7.993,1,0,89.06,SSRA-BINDING PROTEIN,translation factor
+316,227,P9WKJ5,ilvD,Rv0189c,Dihydroxy-acid dehydratase,575.0,0,0,1,0,0,0,Essential,-7.985,1,1,94.19,"DIHYDROXY-ACID DEHYDRATASE, MITOCHONDRIAL",dehydratase
+317,241,P9WNW9,hisD,Rv1599,Histidinol dehydrogenase,444.0,0,0,1,0,0,0,Essential,-7.969,1,0,95.81,HISTIDINE BIOSYNTHESIS TRIFUNCTIONAL PROTEIN,dehydrogenase
+318,237,P9WMM1,hisH,Rv1602,Imidazole glycerol phosphate synthase subunit HisH,206.0,0,0,1,0,0,0,Essential,-7.914,1,0,97.25,IMIDAZOLE GLYCEROL PHOSPHATE SYNTHASE SUBUNIT HISH,
+319,249,P9WMP3,hemC,Rv0510,Porphobilinogen deaminase,309.0,0,0,1,0,0,0,Essential,-7.912,1,0,92.75,PORPHOBILINOGEN DEAMINASE,deaminase
+320,414,P71810,Rv1382,Rv1382,,165.0,0,0,1,0,0,0,Essential,-7.898,1,0,92.44,,
+321,294,P9WNA3,ftsK,Rv2748c,DNA translocase FtsK,831.0,0,0,1,0,0,0,Essential,-7.877,1,0,78.88,DNA TRANSLOCASE FTSK,DNA metabolism protein
+322,476,P9WN97,ftsW,Rv2154c,Probable peptidoglycan glycosyltransferase FtsW,524.0,0,0,1,0,0,0,Essential Domain,-7.854,1,0,79.56,PEPTIDOGLYCAN GLYCOSYLTRANSFERASE FTSW-RELATED,
+323,151,P9WIC3,pheA,Rv3838c,Prephenate dehydratase,321.0,0,0,1,0,0,0,Essential,-7.829,1,0,91.94,PREPHENATE DEHYDRATASE-RELATED,dehydratase
+324,405,O06409,Rv0543c,Rv0543c,,100.0,0,0,1,0,0,0,Essential,-7.806,1,0,81.0,,
+325,416,P9WFP7,Rv1461,Rv1461,Iron-sulfur cluster assembly SufBD family protein Rv1461,846.0,0,0,1,0,0,0,Essential,-7.788,1,0,81.19,"UPF0051 PROTEIN ABCI8, CHLOROPLASTIC-RELATED",chaperone
+326,436,P9WMB5,patA,Rv2611c,Phosphatidylinositol mannoside acyltransferase,316.0,0,0,1,0,0,0,Essential,-7.73,1,0,87.56,PHOSPHATIDYLINOSITOL MANNOSIDE ACYLTRANSFERASE,acyltransferase
+327,324,P9WNT9,dnaX,Rv3721c,DNA polymerase III subunit gamma/tau,578.0,0,0,1,0,0,0,Essential,-7.704,1,0,82.25,PROTEIN STICHEL-LIKE 2,DNA-directed DNA polymerase
+328,195,P9WK07,metE,Rv1133c,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,759.0,0,0,1,0,0,0,Essential,-7.655,1,0,94.94,5-METHYLTETRAHYDROPTEROYLTRIGLUTAMATE--HOMOCYSTEINE METHYLTRANSFERASE,methyltransferase
+329,122,P9WHQ7,purF,Rv0808,Amidophosphoribosyltransferase,527.0,0,0,1,0,0,0,Essential,-7.635,1,0,85.25,AMIDOPHOSPHORIBOSYLTRANSFERASE,transferase
+330,417,P9WFP5,Rv1462,Rv1462,Iron-sulfur cluster assembly SufBD family protein Rv1462,397.0,0,0,1,0,0,0,Essential,-7.604,1,0,93.25,"PROTEIN ABCI7, CHLOROPLASTIC",
+331,113,P9WIU3,pyrF,Rv1385,Orotidine 5'-phosphate decarboxylase,274.0,0,0,1,0,0,0,Essential,-7.577,1,0,95.12,OROTIDINE 5'-PHOSPHATE DECARBOXYLASE,decarboxylase
+332,258,P9WMT5,grpE,Rv0351,Protein GrpE,235.0,0,0,1,0,0,0,Essential,-7.573,1,1,78.75,"GRPE PROTEIN HOMOLOG, MITOCHONDRIAL",primary active transporter
+333,34,O69721,tyrA,Rv3754,Prephenate dehydrogenase,323.0,0,0,1,0,0,0,Essential,-7.567,1,0,95.19,PREPHENATE DEHYDROGENASE [NADP(+)],dehydrogenase
+334,107,P9WHF3,rho,Rv1297,Transcription termination factor Rho,602.0,0,0,1,0,0,0,Essential,-7.554,1,1,76.31,TRANSCRIPTION TERMINATION FACTOR RHO,
+335,54,P96261,thiO,Rv0415,glycine oxidase,340.0,0,0,1,0,0,0,Essential,-7.541,1,0,94.56,GLYCINE OXIDASE,dehydrogenase
+336,261,O06428,grcC1,Rv0562,Nonaprenyl diphosphate synthase,335.0,0,0,1,0,0,0,Essential,-7.53,1,4,92.06,ALL TRANS-POLYPRENYL-DIPHOSPHATE SYNTHASE PDSS1,metabolite interconversion enzyme
+337,123,P9WHM9,purD,Rv0772,Phosphoribosylamine--glycine ligase,422.0,0,0,1,0,0,0,Essential,-7.525,1,0,96.31,"PHOSPHORIBOSYLAMINE--GLYCINE LIGASE, CHLOROPLASTIC",ligase
+338,399,P9WP09,Rv0364,Rv0364,Uncharacterized membrane protein Rv0364,227.0,0,0,1,0,0,0,Essential,-7.504,1,0,80.69,TRANSMEMBRANE PROTEIN,
+339,196,P9WJY9,metXA,Rv3341,Homoserine O-acetyltransferase,379.0,0,0,1,0,0,0,Essential,-7.499,1,3,96.31,HOMOSERINE O-ACETYLTRANSFERASE,acetyltransferase
+340,242,P9WML7,hisC,Rv1600,Histidinol-phosphate aminotransferase,380.0,0,0,1,0,0,0,Essential,-7.494,1,2,94.69,HISTIDINOL-PHOSPHATE AMINOTRANSFERASE,transaminase
+341,313,P9WNM3,efp,Rv2534c,Elongation factor P,187.0,0,0,1,0,0,0,Essential,-7.492,1,0,94.19,ELONGATION FACTOR P (EF-P) FAMILY PROTEIN,translation elongation factor
+342,374,P9WPW7,argG,Rv1658,Argininosuccinate synthase,398.0,0,0,1,0,0,0,Essential,-7.437,1,0,96.56,ARGININOSUCCINATE SYNTHASE,ligase
+343,169,P9WIZ3,nrdI,Rv3052c,Protein NrdI,150.0,0,0,1,0,0,0,Essential,-7.396,1,4,90.94,PROTEIN NRDI,
+344,180,P9WJK9,murG,Rv2153c,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,410.0,0,0,1,0,0,0,Essential,-7.395,1,0,87.88,GLYCOSYLTRANSFERASE,glycosyltransferase
+345,272,P9WN39,glnA1,Rv2220,Glutamine synthetase,478.0,0,0,1,0,0,0,Essential,-7.393,1,8,94.94,LENGSIN,ligase
+346,27,O53353,whiB2,Rv3260c,Transcriptional regulator WhiB2,89.0,0,0,1,0,0,0,Essential,-7.373,1,0,80.0,TRANSCRIPTIONAL REGULATOR WHIB,DNA-binding transcription factor
+347,351,O06393,ccsA,Rv0529,,324.0,0,0,1,0,0,0,Essential,-7.324,1,0,85.69,CYTOCHROME B_B6 PROTEIN-RELATED,
+348,231,P9WFV3,ileS,Rv1536,Isoleucine--tRNA ligase,1041.0,0,0,1,0,0,0,Essential,-7.285,1,0,92.81,"ISOLEUCINE--TRNA LIGASE, CYTOPLASMIC",aminoacyl-tRNA synthetase
+349,168,P9WIV3,nusA,Rv2841c,Transcription termination/antitermination protein NusA,347.0,0,0,1,0,0,0,Essential,-7.279,1,3,91.25,TRANSCRIPTION TERMINATION_ANTITERMINATION PROTEIN NUSA,RNA processing factor
+350,53,P9WPX1,hom,Rv1294,Homoserine dehydrogenase,441.0,0,0,1,0,0,0,Essential,-7.277,1,0,94.5,HOMOSERINE DEHYDROGENASE,dehydrogenase
+351,39,P9WN35,trpG,Rv0013,Anthranilate synthase component 2,232.0,0,0,1,0,0,0,Essential,-7.258,1,0,90.88,MULTIFUNCTIONAL TRYPTOPHAN BIOSYNTHESIS PROTEIN,
+352,284,P9WKG3,ispG,Rv2868c,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin),387.0,0,0,1,0,0,0,Essential,-7.22,1,0,90.12,"4-HYDROXY-3-METHYLBUT-2-EN-1-YL DIPHOSPHATE SYNTHASE (FERREDOXIN), CHLOROPLASTIC",
+353,120,P9WHL7,purL,Rv0803,Phosphoribosylformylglycinamidine synthase subunit PurL,766.0,0,0,1,0,0,0,Essential,-7.208,1,0,92.94,PHOSPHORIBOSYLFORMYLGLYCINAMIDINE SYNTHASE SUBUNIT PURL,ligase
+354,322,P9WGS9,dprE2,Rv3791,Decaprenylphosphoryl-2-keto-beta-D-erythro-pentose reductase,254.0,0,0,1,0,0,0,Essential,-7.197,1,0,95.38,DECAPRENYLPHOSPHORYL-2-KETO-BETA-D-ERYTHRO-PENTOSE REDUCTASE,oxidoreductase
+355,236,P9WMM7,hisI,Rv1606,Phosphoribosyl-AMP cyclohydrolase,115.0,0,0,1,0,0,0,Essential,-7.182,1,0,97.5,PHOSPHORIBOSYL-AMP CYCLOHYDROLASE,hydrolase
+356,41,P9WFX5,trpD,Rv2192c,Anthranilate phosphoribosyltransferase,370.0,0,0,1,0,0,0,Essential,-7.169,1,36,92.25,ANTHRANILATE PHOSPHORIBOSYLTRANSFERASE,glycosyltransferase
+357,124,P9WHN1,purC,Rv0780,Phosphoribosylaminoimidazole-succinocarboxamide synthase,297.0,0,0,1,0,0,0,Essential,-7.144,1,0,95.31,PHOSPHORIBOSYLAMINOIMIDAZOLE-SUCCINOCARBOXAMIDE SYNTHASE,ligase
+358,469,P9WHW5,pstP,Rv0018c,Serine/threonine protein phosphatase PstP,514.0,0,0,1,0,0,0,Essential Domain,-7.122,1,2,81.19,PROTEIN PHOSPHATASE 1L,protein phosphatase
+359,326,P9WMJ9,dnaK,Rv0350,Chaperone protein DnaK,625.0,0,0,1,0,0,0,Essential,-7.119,1,4,88.44,"STRESS-70 PROTEIN, MITOCHONDRIAL",Hsp70 family chaperone
+360,112,P9WHK7,pyrG,Rv1699,CTP synthase,586.0,0,0,1,0,0,0,Essential,-7.112,1,7,90.5,CTP SYNTHASE-RELATED,ligase
+361,200,P9WK11,menD,Rv0555,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase,554.0,0,0,1,0,0,0,Essential,-7.066,1,13,94.5,"PROTEIN PHYLLO, CHLOROPLASTIC",transferase
+362,319,P9WPI3,eccA3,Rv0282,ESX-3 secretion system protein EccA3,631.0,0,0,1,0,0,0,Essential,-7.028,1,0,88.88,AAA-TYPE ATPASE FAMILY PROTEIN _ ANKYRIN REPEAT FAMILY PROTEIN,DNA helicase
+363,154,P9WPG7,pgsA1,Rv2612c,Phosphatidylinositol phosphate synthase,217.0,0,0,1,0,0,0,Essential,-7.017,1,3,92.75,,
+364,318,P9WNR3,eccB3,Rv0283,ESX-3 secretion system ATPase EccB3,538.0,0,0,1,0,0,0,Essential,-7.014,1,0,85.5,ESX-2 SECRETION SYSTEM ATPASE ECCB2,
+365,364,P9WN33,asnB,Rv2201,Putative asparagine synthetase [glutamine-hydrolyzing],652.0,0,0,1,0,0,0,Essential,-6.936,1,0,92.62,ASPARAGINE SYNTHETASE,ligase
+366,181,P9WJL1,murF,Rv2157c,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,510.0,0,0,1,0,0,0,Essential,-6.925,1,0,92.88,UDP-N-ACETYLMURAMOYL-TRIPEPTIDE--D-ALANYL-D-ALANINE LIGASE,ligase
+367,175,P9WJJ9,nadB,Rv1595,L-aspartate oxidase,527.0,0,0,1,0,0,0,Essential,-6.92,1,0,94.0,"L-ASPARTATE OXIDASE, CHLOROPLASTIC",oxidase
+368,48,P9WG25,tkt,Rv1449c,Transketolase,700.0,0,0,1,0,0,0,Essential,-6.886,1,1,97.25,TRANSKETOLASE 1-RELATED,transketolase
+369,278,P9WMX3,glfT1,Rv3782,Galactofuranosyltransferase GlfT1,304.0,0,0,1,0,0,0,Essential,-6.883,1,0,92.38,GALACTOFURANOSYLTRANSFERASE GLFT2,glycosyltransferase
+370,438,I6YA17,Rv2699c,Rv2699c,dUTPase,100.0,0,0,1,0,0,0,Essential,-6.761,1,0,78.38,,
+371,114,P9WHL1,pyrD,Rv2139,Dihydroorotate dehydrogenase (quinone),357.0,0,0,1,0,0,0,Essential,-6.707,1,2,96.06,"DIHYDROOROTATE DEHYDROGENASE (QUINONE), MITOCHONDRIAL",dehydrogenase
+372,132,P9WHU7,proC,Rv0500,Pyrroline-5-carboxylate reductase,295.0,0,0,1,0,0,0,Essential,-6.705,1,0,91.12,PYRROLINE-5-CARBOXYLATE REDUCTASE 3,reductase
+373,72,P9WGV3,ahcY,Rv3248c,Adenosylhomocysteinase,495.0,0,0,1,0,0,0,Essential,-6.669,1,5,96.44,ADENOSYLHOMOCYSTEINASE,hydrolase
+374,447,P95189,hisN,Rv3137,Histidinol-phosphatase,260.0,0,0,1,0,0,0,Essential,-6.643,1,2,96.62,"3'(2'),5'-BISPHOSPHATE NUCLEOTIDASE",phosphatase
+375,239,P9WMM3,hisF,Rv1605,Imidazole glycerol phosphate synthase subunit HisF,267.0,0,0,1,0,0,0,Essential,-6.642,1,0,91.44,IMIDAZOLE GLYCEROL PHOSPHATE SYNTHASE HISHF,lyase
+376,250,P9WMP5,hemB,Rv0512,Delta-aminolevulinic acid dehydratase,329.0,0,0,1,0,0,0,Essential,-6.628,1,0,97.19,DELTA-AMINOLEVULINIC ACID DEHYDRATASE,dehydratase
+377,346,P9WPB9,clpX,Rv2457c,ATP-dependent Clp protease ATP-binding subunit ClpX,426.0,0,0,1,0,0,0,Essential,-6.615,1,1,79.38,"ATP-DEPENDENT CLP PROTEASE ATP-BINDING SUBUNIT CLPX-LIKE, MITOCHONDRIAL",protease
+378,308,P9WNL3,der,Rv1713,GTPase Der,463.0,0,0,1,0,0,0,Essential,-6.571,1,0,77.19,GTPASE DER,G-protein
+379,455,O69719,tadA,Rv3752c,tRNA-specific adenosine deaminase,152.0,0,0,1,0,0,0,Essential,-6.515,1,0,97.06,TRNA-SPECIFIC ADENOSINE DEAMINASE,deaminase
+380,205,O05898,manA,Rv3255c,mannose-6-phosphate isomerase,408.0,0,0,1,0,0,0,Essential,-6.478,1,0,96.5,MANNOSE-6-PHOSPHATE ISOMERASE,isomerase
+381,373,P9WPY7,argH,Rv1659,Argininosuccinate lyase,470.0,0,0,1,0,0,0,Essential,-6.471,1,4,96.0,ARGININOSUCCINATE LYASE,lyase
+382,430,O53516,Rv2182c,Rv2182c,,247.0,0,0,1,0,0,0,Essential,-6.463,1,0,84.88,1-ACYL-SN-GLYCEROL-3-PHOSPHATE ACYLTRANSFERASE,acyltransferase
+383,215,P9WKK9,leuB,Rv2995c,3-isopropylmalate dehydrogenase,336.0,0,0,1,0,0,0,Essential,-6.458,1,2,97.88,D-MALATE DEHYDROGENASE [DECARBOXYLATING],dehydrogenase
+384,327,P9WNW1,dnaG,Rv2343c,DNA primase,639.0,0,0,1,0,0,0,Essential,-6.397,1,6,85.62,DNA PRIMASE,primase
+385,477,P9WND1,folP1,Rv3608c,Dihydropteroate synthase,280.0,0,0,1,0,0,0,Essential Domain,-6.382,1,1,90.81,FOLIC ACID SYNTHESIS PROTEIN FOL1,
+386,425,P9WLT1,Rv1708,Rv1708,Uncharacterized protein Rv1708,318.0,0,0,1,0,0,0,Essential,-6.364,1,0,87.62,COBYRINIC ACID AC-DIAMIDE SYNTHASE,hydrolase
+387,40,P9WFX3,trpE,Rv1609,Anthranilate synthase component 1,516.0,0,0,1,0,0,0,Essential,-6.357,1,0,94.81,ANTHRANILATE SYNTHASE COMPONENT 1,
+388,141,P9WI43,PPE4,Rv0286,PPE family protein PPE4,513.0,0,0,1,0,0,0,Essential,-6.32,1,2,66.25,GLUTAMINE-RICH PROTEIN 2,
+389,317,P9WNA9,eccC3,Rv0284,ESX-3 secretion system protein EccC3,1330.0,0,0,1,0,0,0,Essential,-6.314,1,1,84.56,TYPE VII SECRETION SYSTEM PROTEIN ESSC,DNA metabolism protein
+390,191,Q79FN7,moxR1,Rv1479,Chaperone MoxR1,377.0,0,0,1,0,0,0,Essential,-6.27,1,0,85.5,TRANSCRIPTIONAL REGULATORY PROTEIN MOXR1-RELATED,transferase
+391,267,P9WGI9,glyA1,Rv1093,Serine hydroxymethyltransferase 1,438.0,0,0,1,0,0,0,Essential,-6.251,1,1,97.44,SERINE HYDROXYMETHYLTRANSFERASE 1,methyltransferase
+392,247,P9WMN9,hemL,Rv0524,"Glutamate-1-semialdehyde 2,1-aminomutase",462.0,0,0,1,0,0,0,Essential,-6.249,1,0,92.0,"GLUTAMATE-1-SEMIALDEHYDE 2,1-AMINOMUTASE 1, CHLOROPLASTIC-RELATED",mutase
+393,220,P9WKG7,ispE,Rv1011,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase,318.0,0,0,1,0,0,0,Essential,-6.247,1,4,92.88,"4-DIPHOSPHOCYTIDYL-2-C-METHYL-D-ERYTHRITOL KINASE, CHLOROPLASTIC",amino acid kinase
+394,52,P9WKE7,thrB,Rv1296,Homoserine kinase,316.0,0,0,1,0,0,0,Essential,-6.224,1,0,95.19,HOMOSERINE KINASE,kinase
+395,402,O06391,Rv0525,Rv0525,Uncharacterized protein Rv0525,202.0,0,0,1,0,0,0,Essential,-6.203,1,0,91.19,PHOSPHOGLYCERATE MUTASE,phosphatase
+396,208,P9WIU7,lysA,Rv1293,Diaminopimelate decarboxylase,447.0,0,0,1,0,0,0,Essential,-6.171,1,3,97.19,GROUP IV DECARBOXYLASE,decarboxylase
+397,197,P9WG53,tilS,Rv3625c,tRNA(Ile)-lysidine synthase,323.0,0,0,1,0,0,0,Essential,-6.145,1,0,93.62,TRNA(ILE)-LYSIDINE SYNTHASE-RELATED,
+398,58,L7N657,TB18.5,Rv0164,,161.0,0,0,1,0,0,0,Essential,-6.122,1,0,90.94,COENZYME Q-BINDING PROTEIN COQ10 START DOMAIN-CONTAINING PROTEIN,
+399,199,P9WQ39,menE,Rv0542c,Probable 2-succinylbenzoate--CoA ligase,383.0,0,0,1,0,0,0,Essential,-6.088,1,0,91.88,NONRIBOSOMAL PEPTIDE SYNTHASE PES1 (EUROFUNG)-RELATED,ligase
+400,382,P96419,aftD,Rv0236c,Alpha-(1->3)-arabinofuranosyltransferase,1400.0,0,0,1,0,0,0,Essential,-6.08,1,0,93.19,,
+401,110,P72049,rfbD,Rv3783,,280.0,0,0,1,0,0,0,Essential,-6.062,1,0,91.12,CAPSULE POLYSACCHARIDE EXPORT INNER-MEMBRANE PROTEIN CTRC,
+402,42,P9WFX7,trpC,Rv1611,Indole-3-glycerol phosphate synthase,272.0,0,0,1,0,0,0,Essential,-6.056,1,7,94.62,INDOLE-3-GLYCEROL-PHOSPHATE SYNTHASE,isomerase
+403,285,P9WN61,gatB,Rv3009c,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,509.0,0,0,1,0,0,0,Essential,-6.05,1,0,91.88,"GLUTAMYL-TRNA(GLN) AMIDOTRANSFERASE SUBUNIT B, MITOCHONDRIAL",ligase
+404,332,P9WNZ5,desA2,Rv1094,Putative acyl-[acyl-carrier-protein] desaturase DesA2,275.0,0,0,1,0,0,0,Essential,-6.05,1,1,97.0,"STEAROYL-[ACYL-CARRIER-PROTEIN] 9-DESATURASE 7, CHLOROPLASTIC",
+405,209,P9WGU7,lpqW,Rv1166,Probable monoacyl phosphatidylinositol tetramannoside-binding protein LpqW,635.0,0,0,1,0,0,0,Essential,-6.049,1,0,87.12,MONOACYL PHOSPHATIDYLINOSITOL TETRAMANNOSIDE-BINDING PROTEIN LPQW-RELATED,ATP-binding cassette (ABC) transporter
+406,354,P9WPK5,carA,Rv1383,Carbamoyl phosphate synthase small chain,376.0,0,0,1,0,0,0,Essential,-6.028,1,0,96.94,CARBAMOYL-PHOSPHATE SYNTHASE ARGININE-SPECIFIC SMALL CHAIN,ligase
+407,137,P9WHT9,prcB,Rv2110c,Proteasome subunit beta,291.0,0,0,1,0,0,0,Essential,-5.981,1,35,88.88,PROTEASOME SUBUNIT ALPHA TYPE-7-1-RELATED,protease
+408,115,P9WHL3,pyrC,Rv1381,Dihydroorotase,430.0,0,0,1,0,0,0,Essential,-5.974,1,0,97.5,ALLANTOINASE,hydrolase
+409,385,P9WN03,aftA,Rv3792,Galactan 5-O-arabinofuranosyltransferase,643.0,0,0,1,0,0,0,Essential,-5.973,1,1,93.62,,
+410,403,O06392,Rv0526,Rv0526,,216.0,0,0,1,0,0,0,Essential,-5.95,1,0,87.38,THIOL:DISULFIDE INTERCHANGE PROTEIN DSBE,oxidoreductase
+411,431,P9WPH5,Rv2242,Rv2242,Uncharacterized protein Rv2242,414.0,0,0,1,0,0,0,Essential,-5.946,1,2,86.62,PUCR FAMILY TRANSCRIPTIONAL REGULATOR,
+412,383,P9WMZ7,aftC,Rv2673,Alpha-(1->3)-arabinofuranosyltransferase,433.0,0,0,1,0,0,0,Essential,-5.909,1,0,92.19,,
+413,29,P9WMY3,wbbL,Rv3265c,N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase,307.0,0,0,1,0,0,0,Essential,-5.902,1,0,88.19,RHAMNOSYLTRANSFERASE WBBL,glycosyltransferase
+414,458,O05436,Rv3909,Rv3909,,802.0,0,0,1,0,0,0,Essential,-5.866,1,0,86.62,,
+415,466,P71905,rne,Rv2444c,Ribonuclease E,953.0,0,0,1,0,0,0,Essential Domain,-5.834,1,0,65.38,RIBONUCLEASE G,endoribonuclease
+416,353,P9WPK3,carB,Rv1384,Carbamoyl phosphate synthase large chain,1115.0,0,0,1,0,0,0,Essential,-5.823,1,0,92.38,"CARBAMOYL-PHOSPHATE SYNTHASE [AMMONIA], MITOCHONDRIAL",ligase
+417,377,P9WPZ9,argC,Rv1652,N-acetyl-gamma-glutamyl-phosphate reductase,352.0,0,0,1,0,0,0,Essential,-5.758,1,9,97.06,"N-ACETYL-GAMMA-GLUTAMYL-PHOSPHATE REDUCTASE, CHLOROPLASTIC-RELATED",reductase
