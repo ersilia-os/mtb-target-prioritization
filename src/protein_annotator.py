@@ -6,6 +6,7 @@ import argparse
 
 TAXID = 83332
 
+
 def query_uniprot(uniprot_ac):
     url = f"https://rest.uniprot.org/uniprotkb/{uniprot_ac}"
     response = requests.get(url)
@@ -33,9 +34,9 @@ def query_uniprot(uniprot_ac):
             gene_symbol = g["orfNames"][0]["value"]
     full_name = (
         entry.get("proteinDescription", {})
-             .get("recommendedName", {})
-             .get("fullName", {})
-             .get("value")
+        .get("recommendedName", {})
+        .get("fullName", {})
+        .get("value")
     )
     organism = entry.get("organism", {}).get("scientificName")
     protein_length = entry.get("sequence", {}).get("length")
@@ -48,7 +49,7 @@ def query_uniprot(uniprot_ac):
         "organism": organism,
         "protein_length": protein_length,
         "uniprot_reviewed": is_reviewed,
-        "protein_evidence": protein_level
+        "protein_evidence": protein_level,
     }
 
 
@@ -86,7 +87,9 @@ def query_alphafold(uniprot_ac):
 
 def query_chembl(uniprot_ac):
     BASE = "https://www.ebi.ac.uk"
-    target_url = f"{BASE}/chembl/api/data/target.json?target_components__accession={uniprot_ac}"
+    target_url = (
+        f"{BASE}/chembl/api/data/target.json?target_components__accession={uniprot_ac}"
+    )
     r = requests.get(target_url)
     r.raise_for_status()
     data = r.json()
@@ -95,7 +98,9 @@ def query_chembl(uniprot_ac):
     target_ids = [t["target_chembl_id"] for t in data["targets"]]
     all_molecules = set()
     for tid in target_ids:
-        activities_url = f"{BASE}/chembl/api/data/activity.json?target_chembl_id={tid}&limit=1000"
+        activities_url = (
+            f"{BASE}/chembl/api/data/activity.json?target_chembl_id={tid}&limit=1000"
+        )
         while activities_url:
             r = requests.get(activities_url)
             r.raise_for_status()
@@ -149,7 +154,7 @@ def query_panther(uniprot_ac):
 
 
 def annotate_proteins(uniprot_acs, output_file):
-    columns=[
+    columns = [
         "uniprot_ac",
         "gene_name",
         "full_name",
@@ -197,9 +202,23 @@ def annotate_proteins(uniprot_acs, output_file):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Annotate proteins with data from various databases.")
-    parser.add_argument("--input_file", "-i", type=str, required=True, help="Input CSV file with a column 'uniprot_ac' containing UniProt accession numbers.")
-    parser.add_argument("--output_file", "-o", type=str, required=True, help="Output CSV file to save the annotations.")
+    parser = argparse.ArgumentParser(
+        description="Annotate proteins with data from various databases."
+    )
+    parser.add_argument(
+        "--input_file",
+        "-i",
+        type=str,
+        required=True,
+        help="Input CSV file with a column 'uniprot_ac' containing UniProt accession numbers.",
+    )
+    parser.add_argument(
+        "--output_file",
+        "-o",
+        type=str,
+        required=True,
+        help="Output CSV file to save the annotations.",
+    )
     parsed_args = parser.parse_args()
     input_file = parsed_args.input_file
     output_file = parsed_args.output_file
