@@ -45,7 +45,7 @@ Rv1611,indole-3-glycerol phosphate synthase TrpC,Essential,H37Rv,-6.056,-7.088,-
 Rv1612,tryptophan synthase beta subunit TrpB,Essential,H37Rv,-6.865,-7.199,-6.518,True,P9WFX9,0,1
 Rv1613,tryptophan synthase alpha subunit TrpA,Essential,H37Rv,-7.188,-7.746,-6.614,True,P9WFY1,0,1
 Rv1438,triosephosphate isomerase Tpi,Essential,H37Rv,-4.834,-5.652,-3.986,True,P9WG43,0,0
-Rv3646c,DNA topoisomerase I TopA,Essential,H37Rv,-8.408,-9.248,-7.675,True,P9WG49,0,0
+Rv3646c,DNA topoisomerase I TopA,Essential,H37Rv,-8.408,-9.248,-7.675,True,P9WG49,1,0
 Rv3247c,thymidylate kinase Tmk,Essential,H37Rv,-6.481,-7.459,-5.567,True,P9WKE1,1,1
 Rv1449c,transketolase Tkt,Essential,H37Rv,-6.886,-7.414,-6.369,True,P9WG25,0,0
 Rv2754c,thymidylate synthase ThyX,Essential,H37Rv,-4.915,-5.89,-3.936,True,P9WG57,1,0
@@ -162,7 +162,7 @@ Rv3601c,aspartate 1-decarboxylase PanD,Essential,H37Rv,-4.065,-4.678,-3.479,True
 Rv3602c,pantoate-beta-alanine ligase PanC,Essential,H37Rv,-3.926,-4.216,-3.637,True,P9WIL5,1,0
 Rv2225,3-methyl-2-oxobutanoate hydroxymethyltransferase PanB,Essential,H37Rv,-0.871,-1.034,-0.727,True,P9WIL7,0,0
 Rv1005c,para-aminobenzoate synthase component I PABD,Essential,H37Rv,-4.066,-4.585,-3.527,True,O05591,0,0
-Rv3372,trehalose-6-phosphate phosphatase OtsB2,Essential,H37Rv,-8.636,-9.014,-8.245,True,P9WFZ5,0,0
+Rv3372,trehalose-6-phosphate phosphatase OtsB2,Essential,H37Rv,-8.636,-9.014,-8.245,True,P9WFZ5,1,0
 Rv2511,oligoribonuclease Orn,Essential,H37Rv,-1.627,-1.949,-1.284,True,P9WIU1,0,0
 Rv2440c,GTP-binding protein Obg,Essential,H37Rv,-9.302,-10.092,-8.503,True,P9WMT1,0,0
 Rv0639,transcription antitermination protein NusG,Essential,H37Rv,-14.734,-16.152,-13.176,True,P9WIU9,0,0
@@ -192,7 +192,7 @@ Rv2174,"alpha-1,6-mannosyltransferase MptA",Essential,H37Rv,-3.652,-4.024,-3.211
 Rv0982,two-component system sensor histidine kinase MprB,Essential,H37Rv,-1.559,-1.786,-1.341,True,P9WGL1,0,0
 Rv1479,transcriptional regulator MoxR1,Essential,H37Rv,-6.27,-7.188,-5.374,True,Q79FN7,0,0
 Rv3206c,molybdenum cofactor biosynthesis protein MoeB1,Essential,H37Rv,-1.676,-1.946,-1.417,True,P9WMN7,0,0
-Rv1007c,methionyl-tRNA synthetase MetS,Essential,H37Rv,-12.602,-13.369,-11.832,True,P9WFU5,0,0
+Rv1007c,methionyl-tRNA synthetase MetS,Essential,H37Rv,-12.602,-13.369,-11.832,True,P9WFU5,1,0
 Rv1392,s-adenosylmethionine synthetase MetK,Essential,H37Rv,-8.169,-8.975,-7.406,True,P9WGV1,0,0
 Rv1133c,5-methyltetrahydropteroyltriglutamate-homocysteine methyltransferase MetE,Essential,H37Rv,-7.655,-7.964,-7.34,True,P9WK07,0,0
 Rv3341,homoserine O-acetyltransferase MetA,Essential,H37Rv,-7.499,-7.794,-7.209,True,P9WJY9,0,0
@@ -253,7 +253,7 @@ Rv0512,delta-aminolevulinic acid dehydratase HemB,Essential,H37Rv,-6.628,-7.695,
 Rv0509,glutamyl-tRNA reductase HemA,Essential,H37Rv,-12.533,-13.934,-11.246,True,P9WMP7,0,0
 Rv0636,(3R)-hydroxyacyl-ACP dehydratase subunit HadB,Essential,H37Rv,-11.976,-14.042,-9.676,True,I6WYY7,0,0
 Rv0635,(3R)-hydroxyacyl-ACP dehydratase subunit HadA,Essential,H37Rv,-13.683,-16.189,-10.873,True,P9WFK1,0,0
-Rv0005,DNA gyrase subunit B GyrB,Essential,H37Rv,-11.389,-12.279,-10.491,True,P9WG45,0,1
+Rv0005,DNA gyrase subunit B GyrB,Essential,H37Rv,-11.389,-12.279,-10.491,True,P9WG45,1,1
 Rv0006,DNA gyrase subunit A GyrA,Essential,H37Rv,-9.076,-10.265,-7.931,True,P9WG47,1,1
 Rv3411c,inosine-5'-monophosphate dehydrogenase GuaB2,Essential,H37Rv,-10.118,-11.05,-9.132,True,P9WKI7,1,0
 Rv3396c,GMP synthase GuaA,Essential,H37Rv,-9.178,-9.806,-8.475,True,P9WMS7,0,0
@@ -271,7 +271,7 @@ Rv2992c,glutamyl-tRNA synthetase GltS,Essential,H37Rv,-8.837,-9.264,-8.411,True,
 Rv3858c,NADH-dependent glutamate synthase small subunit GltD,Essential,H37Rv,-9.128,-10.145,-8.208,True,P9WN19,0,0
 Rv3859c,ferredoxin-dependent glutamate synthase [NADPH] large subunit GltB,Essential,H37Rv,-11.539,-12.087,-10.962,True,P96218,0,0
 Rv3302c,glycerol-3-phosphate dehydrogenase GlpD2,Essential,H37Rv,-11.49,-12.332,-10.583,True,P9WN79,0,0
-Rv2220,glutamine synthetase GlnA1,Essential,H37Rv,-7.393,-8.021,-6.697,True,P9WN39,0,0
+Rv2220,glutamine synthetase GlnA1,Essential,H37Rv,-7.393,-8.021,-6.697,True,P9WN39,1,0
 Rv1018c,UDP-N-acetylglucosamine pyrophosphorylase GlmU,Essential,H37Rv,-8.118,-9.605,-6.622,True,P9WMN3,1,0
 Rv3436c,glucosamine-fructose-6-phosphate aminotransferase GlmS,Essential,H37Rv,-8.478,-9.28,-7.652,True,P9WN49,0,0
 Rv1327c,glucanase GlgE,Essential,H37Rv,-8.952,-9.927,-8.018,True,P9WQ17,1,0
@@ -304,7 +304,7 @@ Rv1177,ferredoxin FdxC,Essential,H37Rv,-4.792,-6.375,-3.257,True,O50433,0,0
 Rv0363c,fructose-bisphosphate aldolase Fba,Essential,H37Rv,-1.165,-1.344,-0.968,True,P9WQA3,1,0
 Rv2524c,fatty acid synthase Fas,Essential,H37Rv,-8.972,-9.311,-8.606,True,P95029,0,0
 Rv3801c,fatty-acid-AMP ligase FadD32,Essential,H37Rv,-12.037,-12.581,-11.514,True,O53580,1,1
-Rv1483,3-oxoacyl-[acyl-carrier-protein] reductase FabG,Essential,H37Rv,-11.068,-12.702,-9.117,True,P9WGT3,0,0
+Rv1483,3-oxoacyl-[acyl-carrier-protein] reductase FabG,Essential,H37Rv,-11.068,-12.702,-9.117,True,P9WGT3,1,0
 Rv2243,malonyl CoA-acyl carrier protein transacylase FabD,Essential,H37Rv,-12.494,-14.18,-10.644,True,P9WNG5,0,0
 Rv0289,ESX-3 secretion-associated protein EspG3,Essential,H37Rv,-5.067,-5.521,-4.601,True,P9WJC7,0,0
 Rv1713,GTP-binding protein EngA,Essential,H37Rv,-6.571,-7.933,-5.215,True,P9WNL3,0,0
@@ -346,21 +346,21 @@ Rv1464,cysteine desulfurase Csd,Essential,H37Rv,-5.383,-6.041,-4.785,True,P9WQ69
 Rv3713,cobyric acid synthase CobQ2,Essential,H37Rv,-5.488,-6.215,-4.769,True,I6XI14,0,1
 Rv1092c,pantothenate kinase CoaA,Essential,H37Rv,-2.786,-3.651,-1.896,True,P9WPA7,0,0
 Rv2457c,ATP-dependent Clp protease ATP-binding subunit ClpX,Essential,H37Rv,-6.615,-7.095,-6.12,True,P9WPB9,0,0
-Rv2460c,ATP-dependent Clp protease proteolytic subunit 2 ClpP2,Essential,H37Rv,-10.58,-11.504,-9.589,True,P9WPC3,0,0
-Rv2461c,ATP-dependent Clp protease proteolytic subunit 1 ClpP1,Essential,H37Rv,-9.971,-11.691,-8.088,True,P9WPC5,0,0
+Rv2460c,ATP-dependent Clp protease proteolytic subunit 2 ClpP2,Essential,H37Rv,-10.58,-11.504,-9.589,True,P9WPC3,1,0
+Rv2461c,ATP-dependent Clp protease proteolytic subunit 1 ClpP1,Essential,H37Rv,-9.971,-11.691,-8.088,True,P9WPC5,1,0
 Rv3596c,ATP-dependent Clp protease ATP-binding subunit ClpC,Essential,H37Rv,-10.569,-11.316,-9.775,True,P9WPC9,1,1
 Rv2881c,CDP-diacylglycerol synthase,Essential,H37Rv,-4.446,-4.823,-4.054,True,P9WPF7,0,0
 Rv0529,cytochrome C-type biogenesis protein CcsA,Essential,H37Rv,-7.324,-8.027,-6.621,True,O06393,0,0
 Rv0527,cytochrome C-type biogenesis protein CcdA,Essential,H37Rv,-5.268,-5.997,-4.514,True,L7N671,0,0
 Rv1384,carbamoyl-phosphate synthase large chain CarB,Essential,H37Rv,-5.823,-6.048,-5.604,True,P9WPK3,0,0
 Rv1383,carbamoyl-phosphate synthase small chain CarA,Essential,H37Rv,-6.028,-7.13,-4.837,True,P9WPK5,0,0
-Rv1307,ATP synthase delta chain AtpH,Essential,H37Rv,-7.703,-8.778,-6.635,True,P9WPV3,0,0
-Rv1309,ATP synthase gamma chain AtpG,Essential,H37Rv,-9.292,-10.661,-7.694,True,P9WPU9,0,0
-Rv1306,ATP synthase B chain AtpF,Essential,H37Rv,-8.713,-9.892,-7.618,True,P9WPV5,0,0
+Rv1307,ATP synthase delta chain AtpH,Essential,H37Rv,-7.703,-8.778,-6.635,True,P9WPV3,1,0
+Rv1309,ATP synthase gamma chain AtpG,Essential,H37Rv,-9.292,-10.661,-7.694,True,P9WPU9,1,0
+Rv1306,ATP synthase B chain AtpF,Essential,H37Rv,-8.713,-9.892,-7.618,True,P9WPV5,1,0
 Rv1305,ATP synthase C chain AtpE,Essential,H37Rv,-8.676,-9.572,-7.661,True,P9WPS1,1,1
-Rv1310,ATP synthase beta chain AtpD,Essential,H37Rv,-8.575,-9.445,-7.716,True,P9WPU5,0,0
-Rv1304,ATP synthase A chain AtpB,Essential,H37Rv,-8.113,-9.064,-7.209,True,P9WPV7,0,0
-Rv1308,ATP synthase alpha chain AtpA,Essential,H37Rv,-9.273,-10.332,-8.28,True,P9WPU7,0,0
+Rv1310,ATP synthase beta chain AtpD,Essential,H37Rv,-8.575,-9.445,-7.716,True,P9WPU5,1,0
+Rv1304,ATP synthase A chain AtpB,Essential,H37Rv,-8.113,-9.064,-7.209,True,P9WPV7,1,0
+Rv1308,ATP synthase alpha chain AtpA,Essential,H37Rv,-9.273,-10.332,-8.28,True,P9WPU7,1,0
 Rv2572c,aspartyl-tRNA synthetase AspS,Essential,H37Rv,-13.212,-13.752,-12.641,True,P9WFW3,1,0
 Rv0337c,aspartate aminotransferase AspC,Essential,H37Rv,-8.392,-9.097,-7.706,True,P9WQ91,0,0
 Rv2201,asparagine synthetase AsnB,Essential,H37Rv,-6.936,-7.391,-6.448,True,P9WN33,0,0
@@ -472,7 +472,7 @@ Rv0018c,phosphoserine/threonine phosphatase PstP,Essential Domain,H37Rv,-7.122,-
 Rv2051c,polyprenol-monophosphomannose synthase Ppm1,Essential Domain,H37Rv,-0.502,-0.596,-0.402,True,O53493,0,0
 Rv1629,DNA polymerase I PolA,Essential Domain,H37Rv,-0.551,-0.637,-0.463,True,P9WNU5,0,0
 Rv2163c,penicillin-binding membrane protein PbpB,Essential Domain,H37Rv,-5.089,-5.69,-4.48,True,L0T911,0,0
-Rv0206c,transmembrane transporter MmpL3,Essential Domain,H37Rv,-11.013,-11.402,-10.601,True,P9WJV5,0,1
+Rv0206c,transmembrane transporter MmpL3,Essential Domain,H37Rv,-11.013,-11.402,-10.601,True,P9WJV5,1,1
 Rv1614,prolipoprotein diacylglyceryl transferase Lgt,Essential Domain,H37Rv,-2.502,-2.674,-2.336,True,P9WK93,0,0
 Rv1348,iron-regulated transporter IrtA,Essential Domain,H37Rv,-4.742,-5.078,-4.418,True,P9WQJ9,0,0
 Rv2154c,cell division protein FtsW,Essential Domain,H37Rv,-7.854,-8.367,-7.322,True,P9WN97,0,0
@@ -827,7 +827,7 @@ Rv3456c,50S ribosomal protein L17 RplQ,Growth Defect,H37Rv,-13.11,-14.921,-11.04
 Rv1408,ribulose-phosphate 3-epimerase Rpe,Growth Defect,H37Rv,-8.485,-9.182,-7.803,True,P9WI51,0,0
 Rv2907c,ribosome maturation factor RimM,Growth Defect,H37Rv,-2.811,-3.065,-2.554,True,P9WH19,0,0
 Rv3211,ATP-dependent RNA helicase RhlE,Growth Defect,H37Rv,-0.682,-0.821,-0.563,True,O05855,0,0
-Rv2194,ubiquinol-cytochrome C reductase QcrC,Growth Defect,H37Rv,-8.69,-9.649,-7.703,True,P9WP35,0,0
+Rv2194,ubiquinol-cytochrome C reductase QcrC,Growth Defect,H37Rv,-8.69,-9.649,-7.703,True,P9WP35,1,0
 Rv2196,ubiquinol-cytochrome C reductase QcrB,Growth Defect,H37Rv,-7.745,-8.297,-7.172,True,P9WP37,1,1
 Rv2195,Rieske iron-sulfur protein QcrA,Growth Defect,H37Rv,-8.875,-9.636,-8.09,True,P9WH23,0,0
 Rv1617,pyruvate kinase PykA,Growth Defect,H37Rv,-8.213,-9.0,-7.462,True,P9WKE5,0,0
@@ -2168,13 +2168,13 @@ Rv3305c,N-acyl-L-amino acid amidohydrolase AmiA1,NonEssential,H37Rv,-0.309,-3.97
 Rv1317c,bifunctional regulatory protein and DNA repair enzyme AlkA,NonEssential,H37Rv,1.319,-0.3,3.867,False,P9WJW3,0,0
 Rv2858c,aldehyde dehydrogenase (NAD+),NonEssential,H37Rv,0.543,-3.232,6.37,False,O33340,0,0
 Rv0768,aldehyde dehydrogenase (NAD+),NonEssential,H37Rv,0.844,-2.027,4.696,False,I6X9R9,0,0
-Rv2780,secreted L-alanine dehydrogenase Ald,NonEssential,H37Rv,1.363,-0.435,4.461,False,P9WQB1,0,0
+Rv2780,secreted L-alanine dehydrogenase Ald,NonEssential,H37Rv,1.363,-0.435,4.461,False,P9WQB1,1,0
 Rv2238c,peroxiredoxin AhpE,NonEssential,H37Rv,-1.897,-3.321,-0.028,False,P9WIE3,0,0
 Rv2429,alkyl hydroperoxide reductase AhpD,NonEssential,H37Rv,0.671,-0.426,2.343,False,P9WQB5,0,0
 Rv2428,alkyl hydroperoxide reductase AhpC,NonEssential,H37Rv,1.28,-0.348,3.895,False,P9WQB7,0,0
 Rv3107c,alkyldihydroxyacetonephosphate synthase AgpS,NonEssential,H37Rv,0.121,-2.768,3.72,False,O05784,0,0
 Rv2471,alpha-glucosidase AglA,NonEssential,H37Rv,1.418,-0.15,4.245,False,O53198,0,0
-Rv0733,adenylate kinase Adk,NonEssential,H37Rv,-7.741,-13.969,-0.949,False,P9WKF5,0,0
+Rv0733,adenylate kinase Adk,NonEssential,H37Rv,-7.741,-13.969,-0.949,False,P9WKF5,1,0
 Rv0162c,zinc-type alcohol dehydrogenase AdhE1,NonEssential,H37Rv,1.06,-0.428,3.577,False,L7N6B3,0,0
 Rv3086,zinc-type alcohol dehydrogenase AdhD,NonEssential,H37Rv,0.933,-0.659,3.724,False,P9WQB9,0,0
 Rv3045,NADP-dependent alcohol dehydrogenase AdhC,NonEssential,H37Rv,0.625,-0.583,2.404,False,P9WQC5,0,0
@@ -3413,7 +3413,7 @@ Rv2772c,transmembrane protein,NonEssential,H37Rv,-0.158,-0.349,0.023,False,I6YA7
 Rv2776c,oxidoreductase,NonEssential,H37Rv,0.734,-0.85,3.097,False,O86347,0,0
 Rv2777c,hypothetical protein,NonEssential,H37Rv,0.461,-3.143,5.138,False,O33319,0,0
 Rv2778c,hypothetical protein,NonEssential,H37Rv,0.601,-1.284,3.078,False,I6Y1P2,0,0
-Rv2779c,transcriptional regulator Lrp/AsnC-family,NonEssential,H37Rv,1.312,-0.419,4.15,False,O33321,0,0
+Rv2779c,transcriptional regulator Lrp/AsnC-family,NonEssential,H37Rv,1.312,-0.419,4.15,False,O33321,1,0
 Rv2781c,oxidoreductase,NonEssential,H37Rv,1.095,-1.095,4.388,False,I6X5C5,0,0
 Rv2787,alanine rich protein,NonEssential,H37Rv,1.285,-0.321,3.871,False,O33329,0,0
 Rv2791c,transposase,NonEssential,H37Rv,0.896,-0.672,3.234,False,O33333,0,0
@@ -3934,4 +3934,4 @@ Rv3459c,30S ribosomal protein S11 RpsK,Uncertain,H37Rv,-11.728,-14.195,-9.328,Tr
 Rv3924c,50S ribosomal protein L34 RpmH,Uncertain,H37Rv,-11.992,-13.633,-10.352,True,P9WH93,0,0
 Rv0979A,50S ribosomal protein L32 RpmF,Uncertain,H37Rv,-6.578,-7.897,-5.288,True,P9WH99,0,0
 Rv0723,50S ribosomal protein L15 RplO,Uncertain,H37Rv,-15.142,-17.77,-12.528,True,P9WHD7,0,0
-Rv1311,ATP synthase epsilon chain AtpC,Uncertain,H37Rv,-11.881,-13.551,-10.141,True,P9WPV1,0,0
+Rv1311,ATP synthase epsilon chain AtpC,Uncertain,H37Rv,-11.881,-13.551,-10.141,True,P9WPV1,1,0

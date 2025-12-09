@@ -1,0 +1,2 @@
+data/raw/mtuberculosis_ChEMBL_data.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/chembl/mtuberculosis_chembl_edited.csv filter=lfs diff=lfs merge=lfs -text
