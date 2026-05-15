@@ -1,14 +1,14 @@
 # Mycobacterium tuberculosis target prioritization for virtual screening
 
-This repository contains code for the prioritization of Mtb targets to be used as a target profiling panel. Selection is based on current relevance of the proteins and essentiality and vulnerability data from [Bosch et al, 2021](https://www.cell.com/cell/fulltext/S0092-8674(21)00824-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421008242%3Fshowall%3Dtrue).
+This repository contains code for the prioritization of Mtb targets to be used as a target profiling panel. Selection is based on current relevance of the proteins and essentiality and vulnerability data from [Bosch et al, 2021](https://www.cell.com/cell/fulltext/S0092-8674(21)00824-2). Data curation for pipeline validation from ChEMBL and BindingDB can akso be found in this repository
 
 This work is performed in collaboration with [DaltonTx](https://www.daltontx.com/).
 
-## Timeline
+### Outputs
 
-### First list of 417 targets
-
-TO-DO
+1. List of curated 417 targets selected by essentiality and vulnerability for _M.tuberculosis_ (H37Rv strain)
+2. List of molecules tested in ChEMBL for growth inhibition of _M.tuberculosis_ (dose-response and single-point). Data is informed by the pipeline in the [chembl-antimicrobial-tasks](https://github.com/ersilia-os/chembl-antimicrobial-tasks) repository.
+3. Binding affinity data available for the 417 targets from ChEMBL and BindingDB
 
 ## About the Ersilia Open Source Initiative
 
