@@ -15,9 +15,9 @@ Inputs:
 Outputs:
     data/processed/04_first_selection_417.csv  — ranked table of 417 prioritised MTB
                                                   targets with all annotation columns
-    output/plots/04_upset_plot.png             — upset plot showing overlap between
+    output/04_data_merging/04_upset_plot.png             — upset plot showing overlap between
                                                   target selection criteria
-    output/plots/04_panther_annotation_counts.png — bar chart of PANTHER annotation
+    output/04_data_merging/04_panther_annotation_counts.png — bar chart of PANTHER annotation
                                                   frequencies across the 417 targets
 """
 
@@ -34,7 +34,7 @@ import pandas as pd
 from upsetplot import UpSet, from_contents
 
 data_dir = os.path.join(root, "..", "data", "processed")
-plots_dir = os.path.join(root, "..", "output", "plots")
+plots_dir = os.path.join(root, "..", "output", "04_data_merging")
 os.makedirs(data_dir, exist_ok=True)
 os.makedirs(plots_dir, exist_ok=True)
 
