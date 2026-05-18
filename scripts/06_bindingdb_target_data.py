@@ -8,7 +8,7 @@ Output:
     output/06_bindingdb/{uniprot_ac}.csv       — one CSV per target with activity data
     output/06_bindingdb_combined.csv           — all targets combined
 
-Affinity cutoff: 10,000 nM (10 µM). Only molecules with at least one measurement
+Affinity cutoff: 1,000,000 nM (1000 µM). Only molecules with at least one measurement
 at or below this threshold are returned by the BindingDB API.
 
 All affinity values are in nM as returned by BindingDB.
@@ -31,7 +31,7 @@ output_dir = os.path.join(root, "..", "output", "06_bindingdb")
 os.makedirs(input_dir, exist_ok=True)
 os.makedirs(output_dir, exist_ok=True)
 
-AFFINITY_CUTOFF_NM = 100000
+AFFINITY_CUTOFF_NM = 10000000  # 10000 µM
 SLEEP_BETWEEN_REQUESTS = 0.5  # seconds
 RETRY_WAIT = 5  # seconds
 BASE_URL = "https://bindingdb.org/rest/getLigandsByUniprot"

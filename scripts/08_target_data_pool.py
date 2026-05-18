@@ -23,6 +23,7 @@ Outputs:
     08_combined.csv              — all records from all three sources (with inchikey)
     08_target_summary.csv        — per-target counts by source, total, and
                                    total_deduplicated (unique InChIKeys)
+    08_unique_smiles.csv         — deduplicated SMILES across all sources and targets
     datasets/{uniprot_ac}.csv    — per-target compound lists
 """
 
@@ -150,3 +151,13 @@ for acc, group in combined.groupby("uniprot_ac"):
     group.to_csv(os.path.join(datasets_out, f"{acc}.csv"), index=False)
     saved += 1
 print(f"  Saved {saved} per-target files in {datasets_out}")
+
+# ── 7. Save unique deduplicated SMILES list ────────────────────────────────────
+unique_smiles = (
+    combined.dropna(subset=["inchikey"])
+    .drop_duplicates(subset=["inchikey"])[["smiles", "inchikey"]]
+    .reset_index(drop=True)
+)
+out_unique = os.path.join(output_dir, "08_unique_smiles.csv")
+unique_smiles.to_csv(out_unique, index=False)
+print(f"Saved: {out_unique} ({len(unique_smiles):,} unique molecules)")

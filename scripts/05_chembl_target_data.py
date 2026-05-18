@@ -10,9 +10,9 @@ Pipeline:
      matching target_name_curated against the MTB UniProtKB proteome.
   2. Save the enriched master table as 05_chembl_master_assay_table.csv.
   3. Load the 417 prioritised targets from step 04.
-  4. From the filled master table, retain SINGLE PROTEIN, quantitative assays
-     whose UniProt accession overlaps with the 417-target set and whose source
-     is not BINDINGDB (BindingDB data is handled separately).
+  4. From the filled master table, retain SINGLE PROTEIN, quantitative, binding
+     (assay_type == B) assays whose UniProt accession overlaps with the 417-target
+     set and whose source is not BINDINGDB (BindingDB data is handled separately).
   5. Save the filtered assay table and a per-target summary.
   6. Copy the corresponding per-assay dataset files from chembl-antimicrobial-tasks
      into data/processed/05_chembl_target_data/.
@@ -25,7 +25,8 @@ Outputs:
     05_chembl_master_assay_table.csv  — master table with UniProt gaps filled
     05_single_protein_assays_417.csv  — filtered assays for the 417 targets
     05_target_summary.csv             — per-target assay and compound counts
-    datasets/{uniprot_ac}.csv         — per-target compound lists
+    05_chembl_combined.csv            — all targets combined (deduplicated rows)
+    datasets/{uniprot_ac}.csv         — per-target compound lists (deduplicated rows)
   data/processed/05_chembl_target_data/
     {assay_id}_*.csv.gz               — raw per-assay dataset files (copied)
 """
@@ -288,10 +289,11 @@ sp_rows        = filled_master["target_type_curated_extra"] == "SINGLE PROTEIN"
 not_bindingdb  = filled_master["source_label"] != "BINDINGDB"
 in_417         = filled_master["uniprot_accession"].apply(_overlaps_417)
 quantitative   = filled_master["dataset_type"] == "quantitative"
+binding = filled_master["assay_type"] == "B"
 
-assays_417 = filled_master[sp_rows & not_bindingdb & in_417 & quantitative].copy()
+assays_417 = filled_master[sp_rows & not_bindingdb & in_417 & quantitative & binding].copy()
 
-print(f"\nFiltered assays (SINGLE PROTEIN, quantitative, in 417 targets, not BindingDB): "
+print(f"\nFiltered assays (SINGLE PROTEIN, quantitative, binding (type B), in 417 targets, not BindingDB): "
       f"{len(assays_417):,}")
 print(f"  Unique UniProt accessions covered: "
       f"{assays_417['uniprot_accession'].nunique()}")
@@ -303,8 +305,9 @@ print(f"Saved: {out_assays}")
 
 # ── 6. Per-target summary ──────────────────────────────────────────────────────
 summary = (
-    assays_417.groupby(["uniprot_accession", "target_name_curated"])
+    assays_417.groupby("uniprot_accession")
     .agg(
+        target_name=("target_name_curated", lambda x: "; ".join(sorted(x.dropna().unique()))),
         n_assays=("assay_id", "count"),
         n_compounds=("cpds", "sum"),
     )
@@ -386,13 +389,20 @@ for _, assay_row in assays_417[matched_files].iterrows():
                 "affinity_unit":  "nM" if cpd["unit"] == "umol.L-1" else cpd["unit"],
             })
 
-# Save one CSV per target
+# Save one CSV per target (deduplicated by smiles)
 saved_targets = 0
 for acc, records in target_records.items():
-    df_target = pd.DataFrame(records)
+    df_target = pd.DataFrame(records).drop_duplicates()
     gene      = acc_to_gene.get(acc, acc)
     out_path  = os.path.join(datasets_out, f"{acc}.csv")
     df_target.to_csv(out_path, index=False)
     saved_targets += 1
 
 print(f"  Saved {saved_targets} per-target dataset files in {datasets_out}")
+
+# Save combined CSV across all targets
+all_records = [rec for records in target_records.values() for rec in records]
+df_combined = pd.DataFrame(all_records).drop_duplicates()
+out_combined = os.path.join(output_dir, "05_chembl_combined.csv")
+df_combined.to_csv(out_combined, index=False)
+print(f"Saved: {out_combined} ({len(df_combined):,} records)")

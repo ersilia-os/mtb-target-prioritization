@@ -22,7 +22,8 @@ Outputs:
   output/07_pubchem_target_data/
     07_pubchem_assays_417.csv    — filtered assay table for the 417 targets
     07_target_summary.csv        — per-target assay and compound counts
-    datasets/{uniprot_ac}.csv    — per-target compound lists
+    07_pubchem_combined.csv      — all targets combined (deduplicated rows)
+    datasets/{uniprot_ac}.csv    — per-target compound lists (deduplicated rows)
   data/processed/07_pubchem_target_data/
     {aid}.csv                    — raw per-assay dataset files (copied)
 """
@@ -140,15 +141,22 @@ for _, assay_row in assays_417.iterrows():
                 "affinity_unit":  affinity_unit,
             })
 
-# Save one CSV per target
+# Save one CSV per target (deduplicated by row)
 saved_targets = 0
 for acc, records in target_records.items():
-    df_target = pd.DataFrame(records)
+    df_target = pd.DataFrame(records).drop_duplicates()
     out_path  = os.path.join(datasets_out, f"{acc}.csv")
     df_target.to_csv(out_path, index=False)
     saved_targets += 1
 
 print(f"  Saved {saved_targets} per-target dataset files in {datasets_out}")
+
+# Save combined CSV across all targets
+all_records = [rec for records in target_records.values() for rec in records]
+df_combined = pd.DataFrame(all_records).drop_duplicates()
+out_combined = os.path.join(output_dir, "07_pubchem_combined.csv")
+df_combined.to_csv(out_combined, index=False)
+print(f"Saved: {out_combined} ({len(df_combined):,} records)")
 
 # ── 6. Per-target summary ─────────────────────────────────────────────────────
 summary_rows = []
